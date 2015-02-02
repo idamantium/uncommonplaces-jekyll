@@ -6568,6 +6568,12 @@ th {
 
   .side-nav li a:not(.button) {
     padding: 0.4375rem 0.2rem; } }
+@media only screen and (min-width: 40.063em) {
+  .project-image img {
+    margin: -10px 0 0 0; }
+
+  .side-nav li a:not(.button) {
+    padding: 0.4375rem 0.2rem; } }
 @media only screen and (max-width: 40em) {
   .content {
     clear: both; }
