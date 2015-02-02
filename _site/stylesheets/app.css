@@ -6567,10 +6567,10 @@ th {
     margin-top: 25%; }
 
   .project-image {
-    height: 125px; }
+    height: 150px; }
 
   .project-image img {
-    margin: -10px 0 0 0; }
+    margin: -80px 0 0 0; }
 
   .side-nav li a:not(.button) {
     padding: 0.4375rem 0.2rem; } }
