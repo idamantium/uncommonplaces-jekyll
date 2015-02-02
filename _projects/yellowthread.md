@@ -15,4 +15,4 @@ The Yellow Thread Society is New York's first (almost) monthly get-together feat
 
 <a href="http://yellowthreadsociety.org/" target="_blank" class="button small info">Visit the Website</a> 
 
-<img src="{{ site.baseurl }}/images//2014/03/14-02-15YTSIndiecade014sm.jpg" /></a>
+<img src="{{ site.baseurl }}/images//2014/03/14-02-15YTSIndiecade014sm.jpg" />
