@@ -1,0 +1,57 @@
+---
+id: 1059
+title: 'Giddy for the Sights: 19th Century Visions of the Panorama, the Horizon, and the Stereoscope'
+author: ida
+layout: post
+guid: http://idaimages.wordpress.com/?p=1059
+permalink: /2009/03/giddy-for-the-sights-19th-century-visions-of-the-panorama-the-horizon-and-the-stereoscope/
+tags:
+  - Archive
+tags:
+  - embodiment
+  - giddyness
+  - hisotry
+  - horizon
+  - panorama
+  - phantasmagoria
+  - stereoscope
+  - visual studies
+---
+*My most recent history paper addresses 19th century visual culture. While I haven&#8217;t brought the implications of these topics into the present with this piece, readers familiar with digital technology might notice why such topics began to fascinate academics in the 1970&#8242;s.*
+
+*  
+*
+
+**Giddy for the Sights: 19th Century Visions of the Panorama, the Horizon, and the Stereoscope**
+
+The scholarship on changing viewing practices in the 19th century reveals a contest over what the physical experience that seeing can and should be. New things to see, like panoramas, and new audiences for visual products, like the urban middle-class, broke existing power structures for visual culture. I will outline this tension as observed in three pieces of scholarship in the effort to identify what is at stake in early experiences of seeing the panorama, the view from a moving train, and the stereoscope, particularly the physical experience of seeing. As Foucault notes in his analysis of Panopticism, sight is a disembodied locus of power (Foucault 76). While a guard in a Panopticon may ostensibly inhabit this office for asserting power, the post is not tied to the guard as an individual in ways that power was tied to the individual of king or pope in previous eras. Foucault asserts that, “Our society is not one of spectacle, but of surveillance”(Foucault 78). I suggest that while disembodied surveillance is a modern technique of power, this is the result of a contest over modes of seeing that may have been won by surveillance in 19th century, though only temporarily and not without some deliberation.
+
+<!--more-->
+
+Oetterman helps us historically situate the rise of the panorama, and the associated giddy experiences of 19th century sight. Schivelbusch describes travel on trains as part of the panoramic viewing experience, which shifted not only the visual plane, but the corporal experience of travel. Crary postulates that photography is a return to single point of focus pictorial planes in lieu of satisfyingly phantasmagorical visual experiences. Each of these analysis provide evidence for new points of leverage in spectacular visual experiences.
+
+The visual experiences I will detail here came to bear amid the productive implementation of industrialism and associated market forces separating leisure time from work. In this leisure time, people could rejuvenate from deadening work routines of industrialization (Oetterman 44). Seeing became a recreational activity of leisure time, in addition to a means of embracing modern society’s fruits. Anyone with purchasing power had a say over what and how seeing happened and access to these pleasures directly effected one’s potential for mastering new means of participating fulling in society.
+
+Oetterman points out that come the mid-19th century, everyone knew what a horizon was and actively sought out the experience of it (9). Panoramas were means by which the horizon, as seen at sea, on top of church spires, and from hot air balloons, could be brought to a wide audience for a small admission fee. The freshness of this fascination with the horizon is evident in changing artistic depictions of the Alps. Once foreboding and ominous peaks, the mountains were now portrayed as a site of uplifting adventure and tourism. Oetterman only vaguely describes what exactly precipitated this fascination, though the change is undeniable. For a society moved beyond its limits with the adoption of industrial production and urban life, the ability to see and identify a limit in the horizon represented a breathtaking expansion of the limits of society.
+
+In Goethe’s experience of the horizon, he describes a feeling of seasickness that he is eager to overcome. “I was especially troubled by a giddiness which came over me every time I looked down from a height. All of these infirmaries I tried to remedy, and, indeed, as I wished to loose no time, in a somewhat violent way,” (Oetterman 13). In one case of viewing the horizon at sea, the view overwhelms him and he needs to retreat to an internal space to recover. Goethe is not pleased with his physical reaction and eager to overcome it, to remove his body from the viewing experience in the effort to gain mastery of the view. Where horizon started out as a mathematical term, it was later applied to these feelings of euphoria at surveying and recognizing a visual limit. Expanding one’s horizons is a hopeful and uplifting experience. Goethe’s desire to overcome sensory overload and emotional rush in favor of mastery is perhaps an analogy for the project of the panorama, to effectively present this new experience of the world as intelligible and replicable. Once accomplished, the panorama faded out of popular use.
+
+Just as the horizon was an enthralling challenge to many 19th century viewers, train travel presented a new visual landscape with associated physical tribulations. “The inability to acquire a mode of perception adequate to technological travel crosses all political, ideological, and aesthetic lines, appearing among the most disparate personalities of the nineteenth century” (Schivelbusch 96). Marked by visual fatigue from the passing scenery, combined with a sense of being nowhere, except in between the origin and destination, train travel is a precursor of virtuality. Location is suspect and sight is the main form or navigation and engagement. A medical journal from the mid-19th century addressed the physical effects of the new form of popular travel; “The rapidity and variety of the impressions necessarily fatigue both the eye and the brain,” (Schivelbusch 94). Train travel was revered for its efficiency despite the dramatic disconnect it created between the person, the landscape traveled through, and associated visual stimuli. The apparatus of the train undermines single point of view seeing modes as sights rushed by the viewer, offering no obvious or consistent anchor other than the self. This viewing mode stands in sharp contradiction to single point of view perception and previous slower modes of travel that could not be subjected to any “mathematical directness” (Schivelbusch 93). The desire to fully take advantage of these efficiencies propelled many travelers to endue the visual and mental fatigue. Disorientation is first embraced and then subdued in the effort to incorporate train travel into ordinary experience.
+
+The stereoscope served to accustomed people to new visual standards, and, like the panorama, its success mandated its own obsolescence. Crary identifies the laps of the stereoscope as a sign of its limited access to the phantasmagorical. The stereoscope most importantly marked the body as a mediator in the faculty of sight. The dominance of the single point of view perspective as somehow empirically definitive is undermined when the two eyes, two lines of sight, are actively accommodated to produce visuals in the form of stereographs. In the 1830’s scientists became enthralled with the question of how the binocular body saw one image, and viewing devices like the stereoscope came into popular use. The means of its visual trick is too obvious to engage viewers in the spectacle by not sufficiently supporting or overcoming established ideas of pure perception. Photography, where one image creates the sight, continued naturalistic visual modes predicated on single point of view perspective and, Crary reasons, dominated over other forms of vision experimented with in the 19th century. The phantasmagorical is clearly a visual experience, though the ability of it to work magic on the viewer requires that the technique remain opaque. Is there a relationship to the phantasmagorical of 19th century visual games and the giddy feeling sought after by horizon chasers? Even though the stereoscope is essentially a scientific attempt to accommodate embodied modes of viewing, Crary suggests that it’s demise is a result of not allowing the viewer to be sufficiently overcome with the viewing process. Single point of view as produced in photographs is actually somehow more phantasmagorical. Embodied viewing looses out, even though the disjuncture between embodiment and sight is the reason for its majesty.
+
+Giddiness is an emotional and physical retreat from the real. Phantasmagoria is a retreat from the intelligible. Train travel is a retreat from the locatable. Surveillance as a technique of power wins out only after physical experiences of new visual modes are experienced and rationalized. I cannot help but feel something is lost in this rationalization. Once Goethe got over the seasickness, what happened? What could he get from the view, the endless sea, the unreachable horizon? I wonder if overcoming this physical disorientation was just a step in mastering what was in front of him in order to access the next disordering and unintelligible experience. Goethe&#8217;s mastery stands in contrast to popular visual culture as the urban middle-class saught out this same trick of the eyes and senses to retreat and rejuvenate from deadening work. They have mastered their task and must dully repeat it in order to meet financial needs for survival. Not privileged like Goethe to be rewarded for constantly seeking out new experience, it is their leisure time where creative and intellectual challenges sustain the full capacity of the human soul.
+
+In analyzing the unstable construct of the flânuer, Walkowitz suggests that, “The hallmark of this virile ethos were self-control, self-discipline, and the absence of emotional expression” (207). To acquire this discipline and self-control, modern subjects in the 19th century engaged with new visual norms that fundamentally challenged their learned means of navigating reality. The middle-classes were often privileged to remain dazzled and engaged with these new experiences as visual recreational delights. The upper class with their time and resources took to the sea or climbed mountains to access the same experience. All are parsing through physical experiences of sight to acquire new techniques for participating in modernity.
+
+Works Cited
+
+Crary, Jonathan. “Techniques of the Observer.” The Nineteenth-Century Visual Culture Reader. Ed.Schwartz, Vanessa R. and Przybliyski, Jeannene. New York: Routlage, 2004. 82-92.
+
+Foucault, Michel. “Panopticism.” The Nineteenth-Century Visual Culture Reader. Ed.Schwartz, Vanessa R. and Przybliyski, Jeannene. New York: Routlage, 2004. 73-79.
+
+Oetterman, Stephan. The Panorama: History of a Mass Medium. New York: Zone, 1997.
+
+Schivelbusch, Wolfgang. “Panormaic Travel.” The Nineteenth-Century Visual Culture Reader. Ed.Schwartz, Vanessa R. and Przybliyski, Jeannene. New York: Routlage, 2004. 92-99.
+
+Walkowitz, Judith. “Urban Spectatorship.” The Nineteenth-Century Visual Culture Reader. Ed.Schwartz, Vanessa R. and Przybliyski, Jeannene. New York: Routlage, 2004. 205-209.

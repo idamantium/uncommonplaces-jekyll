@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<div class="home">
+
+
+  <ul class="post-list">
+    {% for project in site.projects reversed %}
+
+      {% if project.status == 'featured' %}
+  
+      <li class="project-link">
+        <a href="{{ project.url | prepend: site.baseurl }}">
+        <h2 class="post-link">
+          {{ project.title }}
+        </h2>
+        <div class="project-image"><img src="{{ project.small-image  | prepend: site.baseurl }}"></div>
+        <span class="post-meta">{{ project.short-description }}</span>
+        </a>
+      </li>
+      
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <hr />
+
+
+  <ul class="post-list">
+    {% for project in site.projects %}
+
+      {% if project.status == 'live' %}
+  
+      <li class="project-link">
+        <a href="{{ project.url | prepend: site.baseurl }}">
+        <h3 class="post-link">
+          {{ project.title }}
+        </h3>
+        <div class="project-image"><img src="{{ project.small-image  | prepend: site.baseurl }}"></div>
+        <span class="post-meta">{{ project.short-description }}</span>
+      </a>
+      </li>
+      
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+
+</div>

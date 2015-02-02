@@ -1,0 +1,77 @@
+---
+id: 2040
+title: OLPC Ethiopia
+author: ida
+layout: post
+guid: http://blog.idaimages.com/?p=2040
+permalink: /2010/09/olpc-ethiopia/
+aktt_notify_twitter:
+  - no
+tags:
+  - Archive
+tags:
+  - ethiopia
+  - gtz
+  - olpc
+  - xo laptop
+---
+It was a great pleasure to see <a href="http://laptop.org/en/" target="_blank">One Laptop Per Child</a> (OLPC) at work on the ground in Ethiopia. OLPC distributes <a href="http://en.wikipedia.org/wiki/OLPC_XO-1" target="_blank">XO laptops</a> to children in developing counties. The unique design of the laptop’s hardware and operating system encourage <a href="http://wiki.laptop.org/go/Constructionism" target="_blank">learning by doing</a>. I enjoyed being a fly on the wall (and occasional [benign disruption][1]) to photograph 3rd and 4th grade students using their laptops at Menelik II Primary School in Addis Ababa. Selections from the photo essay are below. The full set is [posted here][2]. OLPC has a strong brand with worldwide awareness of its mandate. This look at the laptops in use is rarely part of that image. Are there efforts to make the process and results of the project more readily available? And what about the work that they youth produce with the laptops? How is that being assessed and showcased? This essay only scratches the surface. Making it has pique my interest to see and do more.  
+Many thanks to [GTZ][3] for inviting me to photograph!
+
+<div class="full-image">
+  <img class="alignnone size-full wp-image-2046" title="OLPC" src="{{ site.baseurl }}/images//2010/09/10-03-31OLPCSchoolVisit024.jpg" alt="" width="596" />
+</div>
+
+<!--more-->
+
+Ethiopia is <a href="http://opennet.net/research/profiles/ethiopia" target="_blank">ranked 172 of 181 counties</a> on the <a href="http://en.wikipedia.org/wiki/Digital_Opportunity_Index" target="_blank">Digital Opportunity Index</a>, which measures progress in closing the digital divide. The laptops represent a unique opportunity for the youth to become computer savvy and a staggering challenge for the predominantly computer illiterate educators tasked with using them in their classrooms. The computers include digital versions of local textbooks and the only keyboard ever produced for <a href="http://en.wikipedia.org/wiki/Amharic_language#Fidel_signs" target="_blank">Amharic</a>, one of Ethiopia&#8217;s dominant languages. The content and hardware accommodations make it slightly easier for teachers to incorporate the laptops into the rigid curriculum and authoritarian teaching style. In the absence of extensive teacher training and revised curriculum, the greatest educational benefits of the laptops come from the play, collaboration and creativity that the students bring to the activities it facilitates.
+
+<div class="full-image">
+  <p>
+    <img class="alignnone size-full wp-image-2042" title="OLPC" src="{{ site.baseurl }}/images//2010/09/10-03-22OLPCSchoolVisit079.jpg" alt="" width="596" />
+  </p>
+  
+  <p>
+    <img class="alignnone size-full wp-image-2044" title="OLPC" src="{{ site.baseurl }}/images//2010/09/10-03-31OLPCAnimation039.jpg" alt="" width="596" />
+  </p>
+  
+  <p>
+    <img class="alignnone size-full wp-image-2045" title="OLPC" src="{{ site.baseurl }}/images//2010/09/10-03-31OLPCAnimation051.jpg" alt="" width="596" />
+  </p>
+  
+  <p>
+    <img class="alignnone size-full wp-image-2047" title="10-03-31OLPCAnimation081" src="{{ site.baseurl }}/images//2010/09/10-03-31OLPCAnimation081.jpg" alt="" width="596" />
+  </p>
+  
+  <p>
+    <img class="alignnone size-full wp-image-2048" title="OLPC" src="{{ site.baseurl }}/images//2010/09/10-03-31OLPCSchoolVisit039.jpg" alt="" width="596" />
+  </p>
+  
+  <p>
+    <img class="alignnone size-full wp-image-2049" title="OLPC" src="{{ site.baseurl }}/images//2010/09/10-03-31OLPCSchoolVisit044.jpg" alt="" width="596" />
+  </p>
+  
+  <p>
+    <img class="alignnone size-full wp-image-2050" title="OLPC" src="{{ site.baseurl }}/images//2010/09/10-03-31OLPCSchoolVisit061.jpg" alt="" width="596" />
+  </p>
+  
+  <p>
+    <img class="alignnone size-full wp-image-2051" title="OLPC" src="{{ site.baseurl }}/images//2010/09/10-05-07SchoolVisit041.jpg" alt="" width="596" />
+  </p>
+  
+  <p>
+    <img class="alignnone size-full wp-image-2052" title="OLPC" src="{{ site.baseurl }}/images//2010/09/10-05-07SchoolVisit116.jpg" alt="" width="596" />
+  </p>
+  
+  <p>
+    <img class="alignnone size-full wp-image-2053" title="OLPC" src="{{ site.baseurl }}/images//2010/09/10-05-14Repairs083.jpg" alt="" width="596" />
+  </p>
+  
+  <p>
+    <img class="alignnone size-full wp-image-2054" title="OLPC" src="{{ site.baseurl }}/images//2010/09/10-05-14Repairs077.jpg" alt="" width="596" />
+  </p>
+</div>
+
+ [1]: ../2010/04/02/not-the-only-photographer-in-the-classroom/
+ [2]: http://portfolio.idaimages.com/#634374/OLPC-Ethiopia
+ [3]: http://www.gtz.de/en/praxis/576.htm

@@ -1,0 +1,26 @@
+---
+id: 2530
+title: Appearances
+author: ida
+layout: post
+guid: http://idaimages.wordpress.com/2008/01/02/appearances/
+permalink: /2008/01/appearances/
+tags:
+  - Archive
+tags:
+  - appearances
+  - art school
+  - progress
+  - school
+---
+I am well on my way to recharging my batteries after a week at the family ski cabin. No, I did not go skiing.  The weather was warm, even rainy at the beginning of the week, and the mountain has hazardously crowded later in the week.  <img src="http://farm3.static.flickr.com/2369/2144269392_fa514e5024_m.jpg" align="right" />Besides, I was busy brushing my dreadlocks out. That&#8217;s right! After five years of having dreads, I have taken them out. While in many of my favorite settings, I fit right in and enjoyed it, other settings left me feeling uncomfortably unconventional. As I gain more confidence in myself, my views, and my goals, I have come to see that wearing certain assertions as fashion statements just wasn&#8217;t helping. One of my gay male friends puts it as, &#8220;finding your shimmery nail polish.&#8221; When he worked in corporate settings, he would conform to the unspoke dress code except for his clear, shimmery nail polish. Those who needed to see it did. For everyone else, the hint fell below the radar. So, for the sake of being more stealth and hopefully more effective, I&#8217;ve shed the dreads.
+
+Decompressing from school work has given me the space to pat myself on the back a little. This past semester, I took on video editing, sound design, and flash all for the first time. While I in no way mastered these things, I am arguably proficient in them now. Not bad for three months of work.
+
+In addition, I am making progress with identifying my strengths, weaknesses, and proclivities. As I mentioned in my last entry, it has become apparent that my visual design skills are pretty weak. I undoubtedly do better with captured media (sound, photography, video). Given a blank slate with infinite possibilities, I am lost for what to do visually, even though my concepts tend to be strong. Seeing this weakness helps me understand my interest in documentary. With sound, photography, and video, there are blank slate equivalents that I have repeatedly shunned. I got through two semesters of studio lighting for photography classes last year without ever using the studio or plugging in a professional light.
+
+Oh, snap! I just figured out that I avoid visual planning! That means I&#8217;ve got to put myself in situations requiring visual planning to get over whatever fear or stubbornness I&#8217;ve settled into. One fantastic opportunity for this was the final project for my video class. We had to produce a 5 minute science fiction piece using real actors. Scary, right? Once I actually got a script written and my actors together, I managed the situation surprisingly well and had fun.  BUT! but, I didn&#8217;t follow through with visually designing the aesthetics of the short. I can&#8217;t really get away with this anymore, even with documentary work. It&#8217;s a joke to think that I am not actively governing the aesthetic impact of the work, as much as I might like to focus on other things.
+
+Even if I bust my ass getting the visuals in line, I will still most enjoy the interpersonal and conceptual parts of media work. This is what I want to work in professionally. The Design and Technology department is a promiscuous amalgamation of artistic, design, and technical practices. I am beginning to understand how an artistic process differs from a pragmatic one, and how they inform each other. The brand of irrationality and spontaneity that happens in art school feels wholly foreign to me, so much so that you might have heard me on many occasions express blanket dissatisfaction with art. I remembered that really I love art when I walk by a flowing paper cutout wheatpasted on the street, or go to a party at some erratic and exuberant warehouse space in Brooklyn, or read some snaky, snarling poem the last owner of my used book left in pencil on the flypaper. I am learning to appreciate different artistic process as I watch is at school, even if it doesn&#8217;t feel native, and even if I can&#8217;t explain why it all feels so different.
+
+What I fall back on is my pragmatic self. I like gathering the information, figuring out what the problems are, and making a contribution toward fixing those problems. I do media work as a fun way to engage with diverse situations and remain close to the ground. Now that I understand that, I can look for a balance by strengthening the visual language. I read *How to Think Like a Great Graphic Designer* by Debbie Millman last week, which consists of interviews with prominent graphic designers. Many of the designers showed contempt for the impact of their own work outside of the field of design. Who cares how compelling a book cover is if the book is crap? I think this same contempt is what has me being sloppy with making things aesthetically effective, from my hair to my photographs and websites. But, appearances matter. Lots of people have made amazing things happen with appearances provided they&#8217;ve got the conceptual strength to build on.

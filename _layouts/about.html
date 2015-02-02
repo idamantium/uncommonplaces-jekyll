@@ -1,0 +1,69 @@
+---
+layout: default
+---
+<div class="post">
+	<div class="row">
+
+		<div class="large-12 columns">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.page-title }}</h1>
+  </header>
+
+</div>
+
+<row>
+	<div class="small-12 medium-7 large-8 columns">
+
+		<article class="post-content">
+    {{ content }}
+  	</article>
+	
+	</div>
+
+	<div class="small-12 medium-5 large-4 columns">
+		<img src="{{ page.image  | prepend: site.baseurl }}">
+		<article class="post-content">
+			<h3 class="subheader">Contact</h3>
+			<p>
+		{% include contact.html %}
+	</p>
+		<h3 class="subheader">Selected Press</h3>
+		<p>
+<ul>
+
+	<li>
+<a href="http://www.nytimes.com/2014/12/28/nyregion/they-say-art-is-dead-in-new-york-theyre-wrong.html" target="_blank">The New York Times</a> (2014)
+	</li>
+
+<li>
+<a href="http://www.fastcompany.com/3031330/innovation-agents/this-companys-business-plan-includes-trespassing" target="_blank">Fast Company</a> (2014)
+	</li>
+
+<li>
+<a href="http://www.npr.org/event/music/320741516/on-a-magical-mystery-tour-with-hassan-hakmoun" target="_blank">NPR</a> (2014)
+	</li>
+
+	<li>
+<a href="http://www.newyorker.com/talk/2013/05/27/130527ta_talk_freudenberger?mbid=social_tablet_e&" target="_blank">The New Yorker</a> (2013)
+	</li>
+	
+
+	<li>
+<a href="http://www.thedailybeast.com/articles/2013/12/15/a-most-illegal-adventure-with-new-york-city-s-wildest-underground-event-planners.html" target="_blank">The Daily Beast</a> (2013)
+	</li>
+
+
+
+	
+
+</ul>
+		</p>
+	</article>
+	</div>
+
+</row>
+
+  
+
+</div>

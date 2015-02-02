@@ -1,0 +1,241 @@
+---
+id: 1193
+title: 'Atlantean Adrift: Photos and Recap'
+author: ida
+layout: post
+guid: http://idaimages.wordpress.com/?p=1193
+permalink: /2009/06/atlantean-adrift-photos-and-recap/
+tags:
+  - Archive
+tags:
+  - atlantean adrift
+  - 'come out &amp; play festival'
+  - interactive performance
+---
+<p style="text-align: left;">
+  So, it did rain.  The brave players at the <a href="http://www.comeoutandplay.org/">Come Out & Play Festival</a> who ventured out into the weather to play <a href="http://uncommonplaces.com/2009/06/12/come-out-play-festival/">Atlantean Adrift</a> were rewarded with a charming narrative, inspired acting, and a beautiful setting.  Check it out:
+</p>
+
+<p style="text-align: left;">
+  <img class="size-full wp-image-1194 alignnone" title="09-06-13AAEdit001" src="http://idaimages.files.wordpress.com/2009/06/09-06-13aaedit001.jpg" alt="09-06-13AAEdit001" width="500" height="333" />
+</p>
+
+<p style="text-align: left;">
+  A folklorist waits the arrival of his students and the merman in the park of DUMBO, Brooklyn.
+</p>
+
+<p style="text-align: left;">
+  <!--more-->
+</p>
+
+<p style="text-align: left;">
+  <img class="size-full wp-image-1211 alignnone" title="09-06-13AtlanteanAdrift029" src="http://idaimages.files.wordpress.com/2009/06/09-06-13atlanteanadrift029.jpg" alt="09-06-13AtlanteanAdrift029" width="500" height="333" />
+</p>
+
+<p style="text-align: left;">
+  As students arrive, the folklorist briefs them on reports of a lost merman due to arrive on the shores shortly.
+</p>
+
+<p style="text-align: left;">
+  <img class="size-full wp-image-1214 alignnone" title="09-06-13AAEdit002" src="http://idaimages.files.wordpress.com/2009/06/09-06-13aaedit0023.jpg" alt="09-06-13AAEdit002" width="500" height="333" />
+</p>
+
+<p style="text-align: left;">
+  The merman washes up on the rocky beach under the Manhattan Bridge.
+</p>
+
+<p style="text-align: left;">
+  <img class="size-full wp-image-1196 alignnone" title="09-06-13AAEdit003" src="http://idaimages.files.wordpress.com/2009/06/09-06-13aaedit003.jpg" alt="The merman explains to the folklorist that he has been ejected from Atlantis for the lack of love in the world.  How will the students and the folklorist bring the love back so the merman can return home?" />
+</p>
+
+<p style="text-align: left;">
+  The merman explains to the folklorist that he has been ejected from Atlantis for the lack of love in the world.  How will the students and the folklorist bring the love back so the merman can return home?&nbsp; The merman has several wishes for them to grant.
+</p>
+
+<div class="full-image" style="text-align: left;">
+  <img src="http://idaimages.files.wordpress.com/2009/06/09-06-13aaedit004.jpg" alt="The merman needs a boat, and here this captain sits dependently under the bridge with his boat that is too small for his ambitions." width="500" />
+</div>
+
+<img class="size-full wp-image-1198 alignnone" title="09-06-13AAEdit005" src="http://idaimages.files.wordpress.com/2009/06/09-06-13aaedit005.jpg" alt="Some of the folklorist's student find the captain with his boat, and convince him that even if his boat is too small for his sea fairing ambitions, it can be used to help out a lost merman." width="500" height="333" />
+
+Some of the folklorist&#8217;s student find the captain with his boat, and convince him that even if his boat is too small for his sea fairing ambitions, it can be used to help out a lost merman.
+
+<img class="size-full wp-image-1215 alignnone" title="09-06-13AtlanteanAdrift081" src="http://idaimages.files.wordpress.com/2009/06/09-06-13atlanteanadrift081.jpg" alt="The students and captain bring the boat to the beach." width="500" height="333" />
+
+The students and captain bring the boat to the beach.
+
+<img class="size-full wp-image-1216 alignnone" title="09-06-13AtlanteanAdrift098" src="http://idaimages.files.wordpress.com/2009/06/09-06-13atlanteanadrift098.jpg" alt="Another group of students finds some women wandering around with sugar cookies." width="500" height="333" />
+
+The merman also needs cookies, to nourish him and remind him of the sweet taste of Atlantis. The students encounter some girls with sugar cookies and decorate them.
+
+<img class="size-full wp-image-1201 alignnone" title="09-06-13AAEdit007" src="http://idaimages.files.wordpress.com/2009/06/09-06-13aaedit0071.jpg" alt="The merman also needs cookies, to nourish him and remind him of the sweet taste of Atlantis.  The students decorate sugar cookies." width="500" height="333" />
+
+Thankfully the students are diligent and enthusiastic in decorating the cookies.
+
+<img class="size-full wp-image-1217 alignnone" title="09-06-13AAEdit006" src="http://idaimages.files.wordpress.com/2009/06/09-06-13aaedit0061.jpg" alt="Love Cookies! Brilliant." width="500" height="333" />
+
+Love Cookies! Brilliant.
+
+<img class="size-full wp-image-1202 alignnone" title="09-06-13AAEdit008" src="http://idaimages.files.wordpress.com/2009/06/09-06-13aaedit008.jpg" alt="Presenting the decorated cookies to the merman." width="500" height="333" />
+
+They present the decorated cookies to the merman.
+
+<img class="size-full wp-image-1218 alignnone" title="09-06-13AtlanteanAdrift156" src="http://idaimages.files.wordpress.com/2009/06/09-06-13atlanteanadrift156.jpg" alt="Everyone partakes." width="500" height="333" />
+
+Everyone partakes.
+
+<img class="size-full wp-image-1219 alignnone" title="09-06-13AAEdit009" src="http://idaimages.files.wordpress.com/2009/06/09-06-13aaedit0091.jpg" alt="The merman is regaining his spirits!" width="500" height="333" />
+
+The merman is regaining his spirits! The folklorist couldn&#8217;t be happier.
+
+<div class="mceTemp mceIEcenter" style="text-align: left;">
+  <dl id="attachment_1220" class="wp-caption aligncenter" style="width: 510px;">
+    <dt class="wp-caption-dt">
+      <img class="size-full wp-image-1220" title="09-06-13AtlanteanAdrift131" src="http://idaimages.files.wordpress.com/2009/06/09-06-13atlanteanadrift131.jpg" alt="Students talk several locals out of their chairs in the hopes of finding the proper throne for the merman." width="500" height="333" />
+    </dt>
+    
+    <dd class="wp-caption-dd">
+      Students talk several locals out of their chairs in the hopes of finding the proper throne for the merman.
+    </dd>
+  </dl>
+</div>
+
+<div class="mceTemp mceIEcenter" style="text-align: left;">
+  <dl id="attachment_1221" class="wp-caption aligncenter" style="width: 510px;">
+    <dt class="wp-caption-dt">
+      <img class="size-full wp-image-1221" title="09-06-13AtlanteanAdrift144" src="http://idaimages.files.wordpress.com/2009/06/09-06-13atlanteanadrift144.jpg" alt="The merman carefully considers each option." width="500" height="333" />
+    </dt>
+    
+    <dd class="wp-caption-dd">
+      The merman carefully considers each potential throne.
+    </dd>
+  </dl>
+</div>
+
+<div class="mceTemp mceIEcenter" style="text-align: left;">
+  <dl id="attachment_1222" class="wp-caption aligncenter" style="width: 510px;">
+    <dt class="wp-caption-dt">
+      <img class="size-full wp-image-1222" title="09-06-15AAEdit010" src="http://idaimages.files.wordpress.com/2009/06/09-06-15aaedit010.jpg" alt="He decides on the wooden one, because wood grows with love from the earth." width="500" height="333" />
+    </dt>
+    
+    <dd class="wp-caption-dd">
+      He decides on the wooden one, because wood grows with love from the earth.
+    </dd>
+  </dl>
+</div>
+
+<div class="mceTemp mceIEcenter" style="text-align: left;">
+  <dl id="attachment_1223" class="wp-caption aligncenter" style="width: 510px;">
+    <dt class="wp-caption-dt">
+      <img class="size-full wp-image-1223" title="09-06-13AtlanteanAdrift168" src="http://idaimages.files.wordpress.com/2009/06/09-06-13atlanteanadrift168.jpg" alt="With the merman on his throne, everyone readies themselves for the play about the merman's search for the lost love of Atlantis." width="500" height="333" />
+    </dt>
+    
+    <dd class="wp-caption-dd">
+      With the merman on his throne, everyone readies themselves for a performance.
+    </dd>
+  </dl>
+</div>
+
+<div class="mceTemp mceIEcenter" style="text-align: left;">
+  <dl id="attachment_1205" class="wp-caption aligncenter" style="width: 510px;">
+    <dt class="wp-caption-dt">
+      <img class="size-full wp-image-1205" title="09-06-15AAEdit011" src="http://idaimages.files.wordpress.com/2009/06/09-06-15aaedit011.jpg" alt="And now, a play!  The students have used props to design a play about the merman's home." width="500" height="333" />
+    </dt>
+    
+    <dd class="wp-caption-dd">
+      Several students have used props to design a play about the merman&#8217;s search for the song of love.
+    </dd>
+  </dl>
+</div>
+
+<div class="mceTemp mceIEcenter" style="text-align: left;">
+  <dl id="attachment_1224" class="wp-caption aligncenter" style="width: 510px;">
+    <dt class="wp-caption-dt">
+      <img class="size-full wp-image-1224" title="09-06-13AAEdit012" src="http://idaimages.files.wordpress.com/2009/06/09-06-13aaedit0121.jpg" alt="In the play, the merman consults a sea hag about the forgotten song of love and even blotches a suicide attempt after several failed efforts." width="500" height="333" />
+    </dt>
+    
+    <dd class="wp-caption-dd">
+      In the play, the merman consults a sea hag about the forgotten song of love.  He even blotches a suicide attempt after several failed efforts to discover the song of love.
+    </dd>
+  </dl>
+</div>
+
+<div class="mceTemp mceIEcenter" style="text-align: left;">
+  <dl id="attachment_1225" class="wp-caption aligncenter" style="width: 510px;">
+    <dt class="wp-caption-dt">
+      <img class="size-full wp-image-1225" title="09-06-13AtlanteanAdrift181" src="http://idaimages.files.wordpress.com/2009/06/09-06-13atlanteanadrift181.jpg" alt="The students reenact the merman's arrival on the beach, reminding the merman that he has not forgotten the song of love.  He was singing it when he arrived.  Everyone sings &quot;What the world needs now...&quot;" width="500" height="333" />
+    </dt>
+    
+    <dd class="wp-caption-dd">
+      The students reenact the merman&#8217;s arrival on the beach, reminding the merman that he has not forgotten the song of love. He was singing it when he arrived. Everyone watching the play joins in singing &#8220;What the world needs now&#8230;&#8221;
+    </dd>
+  </dl>
+</div>
+
+<div class="mceTemp mceIEcenter" style="text-align: left;">
+  <dl id="attachment_1226" class="wp-caption aligncenter" style="width: 510px;">
+    <dt class="wp-caption-dt">
+      <img class="size-full wp-image-1226" title="09-06-13AAEdit013" src="http://idaimages.files.wordpress.com/2009/06/09-06-13aaedit0131.jpg" alt="The captain shares a song of his own about Atlantis." width="500" height="333" />
+    </dt>
+    
+    <dd class="wp-caption-dd">
+      The captain shares a song of his own about Atlantis.
+    </dd>
+  </dl>
+</div>
+
+<div class="mceTemp mceIEcenter" style="text-align: left;">
+  <dl id="attachment_1231" class="wp-caption aligncenter" style="width: 510px;">
+    <dt class="wp-caption-dt">
+      <img class="size-full wp-image-1231" title="09-06-13AAEdit014" src="http://idaimages.files.wordpress.com/2009/06/09-06-13aaedit0141.jpg" alt="Now that the four wishes of the merman have been granted, there is one more task: reasemble his broken sea star necklace. The students find the necklage pieces in the boat, with the cookies, under the throne, and amid the play props." width="500" height="333" />
+    </dt>
+    
+    <dd class="wp-caption-dd">
+      Now that the four wishes of the merman have been granted, there is one more task: to reassemble his broken sea star necklace. The students find the necklace pieces in the boat, with the cookies, under the throne, and amid the play props.
+    </dd>
+  </dl>
+</div>
+
+<div class="mceTemp mceIEcenter" style="text-align: left;">
+  <dl id="attachment_1230" class="wp-caption aligncenter" style="width: 510px;">
+    <dt class="wp-caption-dt">
+      <img class="size-full wp-image-1230" title="09-06-13AtlanteanAdrift208" src="http://idaimages.files.wordpress.com/2009/06/09-06-13atlanteanadrift2081.jpg" alt="09-06-13AtlanteanAdrift208" width="500" height="333" />
+    </dt>
+    
+    <dd class="wp-caption-dd">
+      Everything is complete! The merman can return to Atlantis!
+    </dd>
+  </dl>
+</div>
+
+<div class="mceTemp mceIEcenter" style="text-align: left;">
+  <dl id="attachment_1232" class="wp-caption aligncenter" style="width: 510px;">
+    <dt class="wp-caption-dt">
+      <img class="size-full wp-image-1232" title="09-06-13AAEdit016" src="http://idaimages.files.wordpress.com/2009/06/09-06-13aaedit016.jpg" alt="Well, if it weren't for the coast guard, that is...  (see the boat in the background?)" width="500" height="333" />
+    </dt>
+    
+    <dd class="wp-caption-dd">
+      Well, if it weren&#8217;t for the coast guard, that is&#8230; (see the motor boat in the background?)
+    </dd>
+  </dl>
+</div>
+
+<div class="mceTemp mceIEcenter" style="text-align: left;">
+  <dl id="attachment_1233" class="wp-caption aligncenter" style="width: 510px;">
+    <dt class="wp-caption-dt">
+      <img class="size-full wp-image-1233" title="09-06-13AAEdit015" src="http://idaimages.files.wordpress.com/2009/06/09-06-13aaedit015.jpg" alt="The merman spent a night in New York, getting to know the folklorist and his students better, before he returned to the sea the next morning." width="500" height="333" />
+    </dt>
+    
+    <dd class="wp-caption-dd">
+      The merman got to spend a night in New York, getting to know the folklorist and his students better, before he returned to the sea the next morning.
+    </dd>
+  </dl>
+</div>
+
+<p style="text-align: left;">
+  <a href="http://uncommonplaces.com/2009/06/12/come-out-play-festival/">Atlantean Adrift</a> was design by Sam Strick, Joe Mauriello, Clayton Grey, and me.  Katie Bode designed make-up and props.  Sam Strick played the folklorist and designed costumes.  Tiff Fernandez played the merman.  Joe Mauriello played the captain.  Mina Karimi and Kara Suhey baked and managed sugar cookies.  Axel Esquite, Greg Kaplan, Alex Feurer, and Tim Enright played chair sitters.  Sal Garro played the drum.
+</p>
+
+<p style="text-align: left;">
+  Many thanks to everyone who helped and played. And thanks to the <a href="http://www.comeoutandplay.org/">Come Out & Play Festival</a> for the oppertunity to get out into the city and have some fun.
+</p>
