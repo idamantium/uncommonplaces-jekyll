@@ -58,6 +58,7 @@
 
 }
 
+
 }
 
 @media only screen and (min-width: 90.063em) {
@@ -72,6 +73,16 @@
 
 margin-top: 20%;
 
+}
+
+
+.project-image {
+	height: 155px;
+
+}
+
+.project-image img {
+	margin: -80px 0 0 0;
 }
 
 
@@ -94,12 +105,12 @@ margin-top: 25%;
 }
 
 .project-image {
-	height: 125px;
+	height: 150px;
 
 }
 
 .project-image img {
-	margin: -10px 0 0 0;
+	margin: -80px 0 0 0;
 }
 
 .side-nav li a:not(.button) {
@@ -112,9 +123,16 @@ margin-top: 25%;
 @media only screen and (min-width: 40.063em) { 
 
 
-.project-image img {
-	margin: -10px 0 0 0;
+.project-image {
+	height: 150px;
+
 }
+
+.project-image img {
+	margin: -80px 0 0 0;
+}
+
+
 
 .side-nav li a:not(.button) {
 	padding: 0.4375rem 0.2rem;
@@ -291,12 +309,12 @@ blockquote em{
 
 .project-image {
 	width: 100%;
-	height: 150px;
+
 	overflow: hidden;
 }
 
 .project-image img {
-	margin: -80px 0 0 0;
+
 	width: 100%;
 }
 
