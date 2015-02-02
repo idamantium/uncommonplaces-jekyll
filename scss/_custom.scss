@@ -93,12 +93,22 @@ margin-top: 25%;
 
 }
 
+.project-image {
+	height: 125px;
+
+}
+
+.project-image img {
+	margin: -100px 0 0 0;
+}
+
 
 
 }
 
 
 @media only screen and (min-width: 40.063em) { 
+
 
 
 
@@ -138,6 +148,17 @@ position: static;
 .post-title, .post-date {
 	text-align: center;
 }
+
+.project-image {
+	height: 75px;
+
+}
+
+.project-image img {
+	margin: -120px 0 0 0;
+}
+
+
 }
 
 
