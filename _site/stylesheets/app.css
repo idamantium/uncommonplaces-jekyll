@@ -6541,7 +6541,7 @@ th {
   border-radius: 40px;
   -webkit-border-radius: 40px;
   -moz-border-radius: 40px;
-  background: url(http://localhost:4000/images/assets/trcks02sqSM.jpg) no-repeat;
+  background: url(/images/assets/trcks02sqSM.jpg) no-repeat;
   margin: 0.2rem 0 0.2rem auto; }
 
 @media only screen and (min-width: 120.063em) {
@@ -6558,7 +6558,16 @@ th {
     margin-right: 1rem; }
 
   .sidebar {
-    margin-top: 25%; } }
+    margin-top: 25%; }
+
+  .project-image {
+    height: 125px; }
+
+  .project-image img {
+    margin: -10px 0 0 0; }
+
+  .side-nav li a:not(.button) {
+    padding: 0.4375rem 0.2rem; } }
 @media only screen and (max-width: 40em) {
   .content {
     clear: both; }
@@ -6578,7 +6587,13 @@ th {
     position: static; }
 
   .post-title, .post-date {
-    text-align: center; } }
+    text-align: center; }
+
+  .project-image {
+    height: 75px; }
+
+  .project-image img {
+    margin: 0; } }
 /*********** Footer positiining ***/
 .site-footer {
   bottom: -10;
