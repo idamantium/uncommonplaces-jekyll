@@ -33,7 +33,7 @@ small-image: /images/projects/pv/pvethiopia07.png
 
 </ul>
 
-The goal of the workshop was to produce inspirational videos abouth their efforts to adapt to climate change. Ethiopia’s contribution to global climate change is negligible, but devastating droughts and soil erosion are threatening the livelihoods of many rural communities. The village of Wage Warage had successfully implemented numerous climate risk adaptation programs with support from the Red Cross. The community was reaping the benefits in the form of better harvests, more stable household incomes and better working conditions, especially for women.
+The goal of the workshop was to produce inspirational videos abouth the community's efforts to adapt to climate change. Ethiopia’s contribution to global climate change is negligible, but devastating droughts and soil erosion are threatening the livelihoods of many rural communities. The village of Wage Warage had successfully implemented numerous climate risk adaptation programs with support from the Red Cross. They was reaping the benefits in the form of better harvests, more stable household incomes and better working conditions, especially for women. By telling the story of their adaptation efforts themselves, they helped inspire similar villages to proactively prepare for climate change as well.
 
 <div class="flex-video">
     

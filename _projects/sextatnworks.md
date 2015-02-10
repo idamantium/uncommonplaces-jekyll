@@ -3,7 +3,7 @@ layout: project
 title: Sextantworks
 permalink: /projects/sextantworks/
 status: featured
-short-description: Sextantworks is an experience design collaboration I started with urban explorer N.D. Austin. We engage in transgressive placemaking through adventure, intimacy, and exploration.
+short-description: Sextantworks is a design collaboration I started with N.D. Austin. We make experiences in places you aren't supposed to be.
 small-image: /images//2015/01/pennhills.jpg
 ---
 
