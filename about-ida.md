@@ -6,7 +6,7 @@ image: /images/2012/12/IdaCBenedetto.jpg
 page-title: Ida C. Benedetto
 ---
 
-###Expereince Designer & Media Strategist
+###Experience Designer & Media Strategist
 
 I believe in storytelling, empathy, and adventure. They spark the creativity to make us better people and a better society. As a Media Strategist and Experience Designer, I will get you doing and discovering things you might not do otherwise. My creative roots lie in documentary photography, and my current work involves games and interactive experiences.
 
