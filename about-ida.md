@@ -6,7 +6,7 @@ image: /images/2012/12/IdaCBenedetto.jpg
 page-title: Ida C. Benedetto
 ---
 
-###Expereince Designer & Media Strategist
+###Experience Designer & Media Strategist
 
 I believe in storytelling, empathy, and adventure. They spark the creativity to make us better people and a better society. As a Media Strategist and Experience Designer, I will get you doing and discovering things you might not do otherwise. My creative roots lie in documentary photography, and my current work involves games and interactive experiences.
 
@@ -28,6 +28,6 @@ Of all my accomplishments, few will top being voted &#8220;Most Likely to Discov
 
 <h4 class="subheader">Dyslexia Disclaimer</h4>
 
-Think dyslexia is a disability? Dyslexics are visual-spacial thinkers. We understand things in context as part of systems that we can model in our minds. If you work with me on a complex system, like a game, event or website, you'll see what an asset a dyslexic can be.
+Think dyslexia is a disability? Dyslexics are visual-spatial thinkers. We understand things in context as part of systems that we can model in our minds. If you work with me on a complex system, like a game, event or website, you'll see what an asset a dyslexic can be.
 
 I do my best to catch misspellings and typos. Unsolicited copyediting is the fastest way to my heart.

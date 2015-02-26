@@ -3,7 +3,7 @@ layout: project
 title: Accused
 permalink: /projects/accused/
 status: live
-short-description: Accused is a browser-based game about wrongful conviction brought about be coerdive police interrogation techniques designed for the Innocence Project.
+short-description: Accused is a browser-based game about wrongful conviction brought about by coercive police interrogation techniques designed for the Innocence Project.
 small-image: /images//2014/03/Accused03.png
 ---
 
