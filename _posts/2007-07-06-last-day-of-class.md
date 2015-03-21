@@ -1,4 +1,3 @@
-w
 ---
 id: 2496
 title: Last day of class

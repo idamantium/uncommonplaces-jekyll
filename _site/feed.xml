@@ -6,9 +6,123 @@
 </description>
     <link>http://uncommonplaces.com/</link>
     <atom:link href="http://uncommonplaces.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Mar 2015 02:46:57 -0400</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2015 02:46:57 -0400</lastBuildDate>
+    <pubDate>Sat, 21 Mar 2015 18:32:42 -0400</pubDate>
+    <lastBuildDate>Sat, 21 Mar 2015 18:32:42 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>The Move to Jekyll</title>
+        <description>&lt;p&gt;I learned to develop for the internet because of &lt;a href=&quot;https://wordpress.org/&quot;&gt;WordPress&lt;/a&gt;. In the past 6 years, I made over 20 custom WordPress sites for my own projects and for clients. It’s easy to start with small edits on available themes, move to making themes from scratch and later mess with plugins. As my development skills got better, I no longer needed a full blown content management system (CMS) like WordPress to present my own projects online. I bypassed Wordpress to just write vanilla HTML, CSS, and PHP. &lt;/p&gt;
+
+&lt;ul class=&quot;small-block-grid-2&quot;&gt;
+
+&lt;li&gt;
+&lt;img class=&quot;block-th&quot; src=&quot;/images//2015/wordpress.jpg&quot; /&gt;
+    &lt;/li&gt;
+
+    &lt;li&gt;
+&lt;img class=&quot;block-th&quot; src=&quot;/images//2015/jekyll.png&quot; /&gt;
+    &lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;time-for-a-change&quot;&gt;Time for A Change&lt;/h3&gt;
+
+&lt;p&gt;Until recently, my portfolio site was a bloated, clumsy implementation of WordPress. I used it as a testing ground for too many new technologies, from JavaScript plugins I didn’t fully understand to a content distribution network (CDN), which worked fine but was unnecessary for a small site with minimal traffic like mine. The design and some of the content were out of date as well. I design the site to attract freelance work in web development and event production. Now I do most of my projects through &lt;a href=&quot;http://sextant.works/&quot;&gt;Sextanworks&lt;/a&gt;. My personal portfolio site needed to serve a new function.&lt;/p&gt;
+
+&lt;p&gt;I was ready for something new.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sfpc.io/&quot;&gt;SFPC&lt;/a&gt;, where I teach and sit on the steering committee, moved its site to &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. &lt;a href=&quot;https://github.com/SFPC/sfpc.github.io&quot;&gt;Casey and Zach developed the site&lt;/a&gt;, and it was an interesting process to watch. Jekyll is a static site generator. A static site generator is like a CMS in that the content, structure, and style of a site are in separate files. They differ in that the static site generator compiles the website on your local development environment before it’s published to a web host. No need for a server to assemble a page each time it’s requested.  &lt;/p&gt;
+
+&lt;p&gt;I decided to give it a try. In a weekend, I completely redesigned my site and ported the WordPress content over to Jekyll.&lt;/p&gt;
+
+&lt;ul class=&quot;small-block-grid-2&quot;&gt;
+
+&lt;li&gt;
+The Old Site
+&lt;img class=&quot;block-th&quot; src=&quot;/images//2015/2015-03-21_OldPortfolioSite_BlogPost.jpg&quot; /&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+The New Site (You&#39;re looking at it!)
+&lt;img class=&quot;block-th&quot; src=&quot;/images//2015/2015-03-21_NewWebsite_BlogPost.jpg&quot; /&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
+
+&lt;p&gt;After sifting through countless blog posts and tutorials, here are the Jekyll resources that I can recommend:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Podcast: &lt;a href=&quot;http://www.thewebahead.net/54&quot;&gt;The Web Ahead Episode 54&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;An hour long conversation about where static site generators sit in the evolution of the web, including commentary from the people who build the healthcare.gov site on Jekyll. Start here for context on what static site generators are and what it means to work on a large scale project with one.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Screencast: &lt;a href=&quot;http://www.pluralsight.com/courses/static-websites-with-jekyll&quot;&gt;Static Websites with Jekyll&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;This is the only substantive screencast I could find on building sites in Jekyll. It’s an hour long and covers all the basics.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Official Stuff: &lt;a href=&quot;http://jekyllrb.com/docs/home/&quot;&gt;The Jekyll documentation&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Helpful blog post with instruction on migration: &lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;a href=&quot;http://www.girliemac.com/blog/2013/12/27/wordpress-to-jekyll/&quot;&gt;How-to: Migrating Blog from WordPress to Jekyll and Host on Github&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;a href=&quot;http://red-team-design.com/moving-from-wordpress-to-jekyll/&quot;&gt;Moving from WordPress to Jekyll&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;a href=&quot;http://blog.8thcolor.com/en/2014/05/migrate-from-wordpress/&quot;&gt;From Wordpress to Jekyll&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-process&quot;&gt;The Process&lt;/h3&gt;
+
+&lt;p&gt;Here’s what I did to move my site:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Followed instructions in &lt;a href=&quot;http://www.girliemac.com/blog/2013/12/27/wordpress-to-jekyll/&quot;&gt;this blog post&lt;/a&gt; to export comments to Disqus&lt;/li&gt;
+  &lt;li&gt;Exported content out of WordPress with the &lt;a href=&quot;https://wordpress.org/plugins/jekyll-exporter/&quot;&gt;Jekyll Exporter Wordpress Plugin&lt;/a&gt; (This produced much better results than doing a standard export from WordPress and using the Jekyll WordPress importer.)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com/docs/quickstart/&quot;&gt;Downloaded Jekyll&lt;/a&gt; and dropped the exported content into a fresh installation of Jekyll. &lt;/li&gt;
+  &lt;li&gt;Removed legacy WordpPress code, especially blog posts with image styling.&lt;/li&gt;
+  &lt;li&gt;Coded out the design with the help of &lt;a href=&quot;http://foundation.zurb.com/&quot;&gt;Zurb Foundation&lt;/a&gt;. I was hoping to use Grunt while developing the site. I’ve used CodeKit and look forward to dropping, a but the version of Foundation that I used doesn’t support it. As I code, two terminal windows run ‘compass watch’ and ‘jekyll serve’. Easy.&lt;/li&gt;
+  &lt;li&gt;Publish! Any Jekyll site can be hosted with a custom URL for free on GitHub, but I have been deploying most of my repos with &lt;a href=&quot;http://beanstalkapp.com/&quot;&gt;Beanstalk&lt;/a&gt;, so I just stuck with that workflow. Much like my relationship to WordPress, maybe I’m a good enough developer now to move off of beanstalk and start deploying with Capistrano or some other option that works with GitHub. &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;the-results&quot;&gt;The Results&lt;/h3&gt;
+
+&lt;p&gt;My website is way fast. Way, way faster. Others have seen &lt;a href=&quot;http://euri.ca/2012/wordpress-vs-jekylloctopress-speed-test/index.html&quot;&gt;great speed improvements&lt;/a&gt;, too.&lt;/p&gt;
+
+&lt;p&gt;Editing markdown and serving a Jekyll site is a great compromise between coding out the sites with just HTML, CSS, and PHP and using a CMS like WordPress. I’m enjoying the best of both worlds.&lt;/p&gt;
+
+&lt;h3 id=&quot;whats-next&quot;&gt;What’s Next?&lt;/h3&gt;
+
+&lt;p&gt;Will I keep using Wordpress? Yes, but specific purposes that suit client needs and encompass more involved functionality. WordPress is a powerful open source project with a lot of history, a knowledgeable community, and tons of resources.&lt;/p&gt;
+
+&lt;p&gt;That said, a shift is in play.&lt;/p&gt;
+
+&lt;p&gt;Sites that I would have custom designed for clients on WordPress 3 or 4 years ago are being created on hosted services like &lt;a href=&quot;https://en.wikipedia.org/wiki/Squarespace&quot;&gt;Squarespace&lt;/a&gt; by would-be clients themselves today. Developers who would use WordPress to host their own simple sites because it was the best option are moving to static site generators in droves. How we create, organize, and host content online will soon look nothing like the content management systems that have been evolving over the past decade. &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I wrote this blog post at the 2015 &lt;a href=&quot;http://www.writespeakcode.com/&quot;&gt;&amp;lt;Write/Speak/Code&amp;gt;&lt;/a&gt; conference, and amazing organization empowering women software developers to become thought leaders.&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 21 Mar 2015 00:00:00 -0400</pubDate>
+        <link>http://uncommonplaces.com/2015/04/move-to-jekyll/</link>
+        <guid isPermaLink="true">http://uncommonplaces.com/2015/04/move-to-jekyll/</guid>
+        
+        <category>Reflections</category>
+        
+        
+      </item>
     
       <item>
         <title>2014 Year in Review</title>
@@ -708,25 +822,6 @@ $12 each – Advance Tickets Only (follow the links below to reserve your spot)&
         <guid isPermaLink="true">http://uncommonplaces.com/2013/05/before-the-revolution-comes/</guid>
         
         <category>Reflections</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Doing Versus Having</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;The psychologists Leaf van Boven and Tom Gilovich asked people to think back to a time when they spent more than a hundred dollars with the intention of increasing their happiness and enjoyment. One group of subjects was asked to pick a material possession; the other was asked to pick an experience or activity they had paid for. After describing their purchases, subjects subjects were asked to fill out a questionaire. Those who described buying an experience (such as a ski trip, a concert, or a great meal) were happier when thinking about their purchase, and thought that their money was better spent, than those who described buying a material object (such as clothing, jewelry, or electronics). After consucting several variations of thie experiment with similar findings each time, Van Gilovich concluded that experiences give more happiness in part because they have greater social value: Most activities that cost more than a hundred dollars are things we do &lt;em&gt;with&lt;/em&gt; other people, but expensive material possessions are often purchased in part to &lt;em&gt;impress&lt;/em&gt; other people. Activities connect us to others; objects often separate us.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The Art of Happiness by Jonathan Haidt, page 100&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 03 May 2013 00:00:00 -0400</pubDate>
-        <link>http://uncommonplaces.com/2013/05/doing-versus-having/</link>
-        <guid isPermaLink="true">http://uncommonplaces.com/2013/05/doing-versus-having/</guid>
-        
-        <category>Commonplaces</category>
         
         
       </item>
