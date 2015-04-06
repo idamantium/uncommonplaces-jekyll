@@ -3,7 +3,7 @@ layout: project
 title: Sextantworks
 permalink: /projects/sextantworks/
 status: featured
-short-description: Sextantworks is a design collaboration I started with N.D. Austin. We make experiences in places you aren't supposed to be.
+short-description: Sextantworks practices placemaking and experiential gift design through generosity, location, intimacy, and transgression.
 small-image: /images//2015/01/pennhills.jpg
 ---
 
@@ -21,7 +21,9 @@ small-image: /images//2015/01/pennhills.jpg
 </li>
 </ul>
 
-<a href="http://sextant.works" target="_blank">Sextantworks</a> (formerly Wanderlust Projects) is an experience design collaboration I started with N.D. Austin. We make experiences in places you aren’t supposed to be, with a focus on the transformative power of intimacy, transgression, location, and generosity. The Daily Beast called us “New York’s Wildest Underground Event Producers“.
+<a href="http://sextant.works" target="_blank">Sextantworks</a> (formerly Wanderlust Projects) practices placemaking and experiential gift design through generosity, location, intimacy, and transgression.. The Daily Beast called us “New York’s Wildest Underground Event Producers“. I started Sextantworks with N.D. Austin in 2012. We have produced dozens of site specific expereinces in New York City and abroad.
+
+
 
 <ul class="small-block-grid-2">
 <li>
