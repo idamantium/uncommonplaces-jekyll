@@ -3,7 +3,7 @@ layout: project
 title: Sextantworks
 permalink: /projects/sextantworks/
 status: featured
-short-description: Sextantworks practices placemaking and experiential gift design through generosity, location, intimacy, and transgression.
+short-description: Sextantworks practices transgressive placemaking and experiential gift design through generosity, location and intimacy.
 small-image: /images//2015/01/pennhills.jpg
 ---
 
@@ -21,7 +21,7 @@ small-image: /images//2015/01/pennhills.jpg
 </li>
 </ul>
 
-<a href="http://sextant.works" target="_blank">Sextantworks</a> (formerly Wanderlust Projects) practices placemaking and experiential gift design through generosity, location, intimacy, and transgression.. The Daily Beast called us “New York’s Wildest Underground Event Producers“. I started Sextantworks with N.D. Austin in 2012. We have produced dozens of site specific expereinces in New York City and abroad.
+<a href="http://sextant.works" target="_blank">Sextantworks</a> (formerly Wanderlust Projects) practices transgressive placemaking and experiential gift design through generosity, location and intimacy. The Daily Beast called us “New York’s Wildest Underground Event Producers“. I started Sextantworks with N.D. Austin in 2012. We have produced dozens of site specific expereinces in New York City and abroad.
 
 
 
