@@ -2,7 +2,7 @@
 layout: project
 title: The Yellow Thread Society
 permalink: /projects/yellowthread/
-status: live
+status: retired
 short-description: The Yellow Thread Society is New York's first (almost) monthly get-together featuring women in games.
 small-image: /images//2014/03/14-02-15YTSIndiecade014sm.jpg
 ---
