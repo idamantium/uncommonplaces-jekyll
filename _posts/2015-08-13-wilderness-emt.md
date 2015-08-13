@@ -14,7 +14,7 @@ Learning things the hard way seems to be my M.O. of late. The [Wilderness EMT](h
 
 
 ### Why Wilderness EMT?
-I took the course so that Sextantworks can continue be responsible in executing experiences. We have some great medical people who join us regularly, but it’s a different thing to have the core members of the team fully trained and thinking about safety from the get go. Given what we have pulled off already, we’re only getting more ambitious. 
+I took the course so that [Sextantworks](http://sextant.works/) can continue be responsible in executing experiences. We have some great medical people who join us regularly, but it’s a different thing to have the core members of the team fully trained and thinking about safety from the get go. Given what we have pulled off already, we’re only getting more ambitious. 
 
 The course covers everything that a regular urban Emergency Medical Technician training does plus variations and practice for administering care when you don’t have access to more advanced medical support. [The National Outdoor Leadership School](http://www.nols.edu/) and the [Wilderness Medical Institute](http://www.nols.edu/wmi/) have sterling reputations for their rigor and integrity. I seemed to be the least versed in NOLS culture among the students. Everyone else there glowed with respect and admiration for the organization. After going through the WEMT program, I can see why.
 
