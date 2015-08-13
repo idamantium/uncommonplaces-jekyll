@@ -115,7 +115,7 @@ The emergency room environment was alternately boring and enthralling. Either no
 Leadership skills were not an overt part of the course, but they were expertly modeled by our instructors. Tate, Daniel, and Atila worked together seamlessly, delivering a wealth of expertise and support while still putting enough fear of God in us so we excel. 
 
 ### Happy Ending
-In the end, I passed both the course and the national EMT exam. Here's to ever more enriching and responsible endangerment together through Sextantworks! 
+In the end, I passed both the course and the national EMT exam. I am a certified Wilderness EMT! Here's to ever more enriching and responsible endangerment together through [Sextantworks](http://sextant.works/).
 
 <img class="block-th" src="{{ site.baseurl }}/images//2015/wemt/15-07WEMT331cc.jpg" />
 
