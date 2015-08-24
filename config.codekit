@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19033",
+"creatorBuild": "19051",
 "files": {
 	"\/_drafts\/2015-03-21-The-Move-To-Jekyll.md": {
 		"criticStyle": 0,
@@ -5738,6 +5738,27 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/_posts\/2015-08-13-wilderness-emt.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_posts\/2015-08-13-wilderness-emt.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/_posts\/2015-08-13-wilderness-emt.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
 	"\/_projects\/*draft\/aliciakeys.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 0,
@@ -8683,6 +8704,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/2015\/04\/move-to-jekyll\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/2015\/08\/wilderness-emt\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/2015\/08\/wilderness-emt\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -57556,6 +57586,160 @@
 		"initialSize": 2.41703e+06,
 		"inputAbbreviatedPath": "\/_site\/images\/2015\/Wanderlust-SchoolOfSellingOut-2.jpg",
 		"outputAbbreviatedPath": "\/_site\/images\/2015\/Wanderlust-SchoolOfSellingOut-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/2015\/wemt\/15-07WEMT056cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 540131,
+		"inputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT056cc.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT056cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/2015\/wemt\/15-07WEMT070cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 613907,
+		"inputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT070cc.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT070cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/2015\/wemt\/15-07WEMT101cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 440543,
+		"inputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT101cc.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT101cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/2015\/wemt\/15-07WEMT123cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 484349,
+		"inputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT123cc.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT123cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/2015\/wemt\/15-07WEMT128cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 316224,
+		"inputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT128cc.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT128cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/2015\/wemt\/15-07WEMT151cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 431909,
+		"inputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT151cc.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT151cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/2015\/wemt\/15-07WEMT201cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 363925,
+		"inputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT201cc.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT201cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/2015\/wemt\/15-07WEMT207cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 727755,
+		"inputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT207cc.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT207cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/2015\/wemt\/15-07WEMT212cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 576776,
+		"inputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT212cc.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT212cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/2015\/wemt\/15-07WEMT228cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 642986,
+		"inputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT228cc.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT228cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/2015\/wemt\/15-07WEMT329cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 498356,
+		"inputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT329cc.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT329cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/2015\/wemt\/15-07WEMT331cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 513269,
+		"inputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT331cc.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT331cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/2015\/wemt\/15-07WEMT349cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 609580,
+		"inputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT349cc.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT349cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/2015\/wemt\/15-07WEMT359cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 587605,
+		"inputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT359cc.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/2015\/wemt\/15-07WEMT359cc.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -108099,6 +108283,160 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/2015\/wemt\/15-07WEMT056cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 540131,
+		"inputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT056cc.jpg",
+		"outputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT056cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/2015\/wemt\/15-07WEMT070cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 613907,
+		"inputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT070cc.jpg",
+		"outputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT070cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/2015\/wemt\/15-07WEMT101cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 440543,
+		"inputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT101cc.jpg",
+		"outputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT101cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/2015\/wemt\/15-07WEMT123cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 484349,
+		"inputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT123cc.jpg",
+		"outputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT123cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/2015\/wemt\/15-07WEMT128cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 316224,
+		"inputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT128cc.jpg",
+		"outputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT128cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/2015\/wemt\/15-07WEMT151cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 431909,
+		"inputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT151cc.jpg",
+		"outputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT151cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/2015\/wemt\/15-07WEMT201cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 363925,
+		"inputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT201cc.jpg",
+		"outputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT201cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/2015\/wemt\/15-07WEMT207cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 727755,
+		"inputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT207cc.jpg",
+		"outputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT207cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/2015\/wemt\/15-07WEMT212cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 576776,
+		"inputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT212cc.jpg",
+		"outputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT212cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/2015\/wemt\/15-07WEMT228cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 642986,
+		"inputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT228cc.jpg",
+		"outputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT228cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/2015\/wemt\/15-07WEMT329cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 498356,
+		"inputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT329cc.jpg",
+		"outputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT329cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/2015\/wemt\/15-07WEMT331cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 513269,
+		"inputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT331cc.jpg",
+		"outputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT331cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/2015\/wemt\/15-07WEMT349cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 609580,
+		"inputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT349cc.jpg",
+		"outputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT349cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/2015\/wemt\/15-07WEMT359cc.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 587605,
+		"inputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT359cc.jpg",
+		"outputAbbreviatedPath": "\/images\/2015\/wemt\/15-07WEMT359cc.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/2015\/wordpress.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -108143,24 +108481,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/projects\/antidote\/HumansVMosquitoes02e1385762445375.jpg": {
+	"\/images\/projects\/Antidote\/HumansVMosquitoes02e1385762445375.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 198966,
-		"inputAbbreviatedPath": "\/images\/projects\/antidote\/HumansVMosquitoes02e1385762445375.jpg",
-		"outputAbbreviatedPath": "\/images\/projects\/antidote\/HumansVMosquitoes02e1385762445375.jpg",
+		"inputAbbreviatedPath": "\/images\/projects\/Antidote\/HumansVMosquitoes02e1385762445375.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/Antidote\/HumansVMosquitoes02e1385762445375.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/projects\/antidote\/OOO03e1385763813852.png": {
+	"\/images\/projects\/Antidote\/OOO03e1385763813852.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 437937,
-		"inputAbbreviatedPath": "\/images\/projects\/antidote\/OOO03e1385763813852.png",
-		"outputAbbreviatedPath": "\/images\/projects\/antidote\/OOO03e1385763813852.png",
+		"inputAbbreviatedPath": "\/images\/projects\/Antidote\/OOO03e1385763813852.png",
+		"outputAbbreviatedPath": "\/images\/projects\/Antidote\/OOO03e1385763813852.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -109914,10 +110252,6 @@
 			}
 		},
 	"jsLintFlags2": {
-		"ass": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"bitwise": {
 			"active": 0,
 			"flagValue": -1
@@ -109926,15 +110260,7 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"closure": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"continue": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"debug": {
+		"couch": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -109942,75 +110268,27 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"eqeq": {
+		"es6": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"evil": {
+		"eval": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"forin": {
+		"for": {
 			"active": 0,
 			"flagValue": -1
-			},
-		"indent": {
-			"active": 0,
-			"flagValue": 4
 			},
 		"maxlen": {
 			"active": 0,
 			"flagValue": 150
 			},
-		"newcap": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"node": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"nomen": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"plusplus": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"properties": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"regexp": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"rhino": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"sloppy": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"stupid": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"sub": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"todo": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"unparam": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"vars": {
+		"this": {
 			"active": 0,
 			"flagValue": -1
 			},
