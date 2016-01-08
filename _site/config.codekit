@@ -5759,6 +5759,27 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/_posts\/2015-08-24-flux-factory-water.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_posts\/2015-08-24-flux-factory-water.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/_posts\/2015-08-24-flux-factory-water.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
 	"\/_projects\/*draft\/aliciakeys.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 0,
@@ -8704,6 +8725,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/2015\/04\/move-to-jekyll\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/2015\/08\/flux-harbor\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/2015\/08\/flux-harbor\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -57542,6 +57572,28 @@
 		"initialSize": 100147,
 		"inputAbbreviatedPath": "\/_site\/images\/2015\/Club_house_secured.jpg",
 		"outputAbbreviatedPath": "\/_site\/images\/2015\/Club_house_secured.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/2015\/harbor\/14-08-06FortWadsworth001sm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 431002,
+		"inputAbbreviatedPath": "\/_site\/images\/2015\/harbor\/14-08-06FortWadsworth001sm.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/2015\/harbor\/14-08-06FortWadsworth001sm.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/2015\/harbor\/14-08-21NavyYardDryDocks033sm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 822207,
+		"inputAbbreviatedPath": "\/_site\/images\/2015\/harbor\/14-08-21NavyYardDryDocks033sm.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/2015\/harbor\/14-08-21NavyYardDryDocks033sm.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -108235,6 +108287,28 @@
 		"initialSize": 100147,
 		"inputAbbreviatedPath": "\/images\/2015\/Club_house_secured.jpg",
 		"outputAbbreviatedPath": "\/images\/2015\/Club_house_secured.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/2015\/harbor\/14-08-06FortWadsworth001sm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 431002,
+		"inputAbbreviatedPath": "\/images\/2015\/harbor\/14-08-06FortWadsworth001sm.jpg",
+		"outputAbbreviatedPath": "\/images\/2015\/harbor\/14-08-06FortWadsworth001sm.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/2015\/harbor\/14-08-21NavyYardDryDocks033sm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 822207,
+		"inputAbbreviatedPath": "\/images\/2015\/harbor\/14-08-21NavyYardDryDocks033sm.jpg",
+		"outputAbbreviatedPath": "\/images\/2015\/harbor\/14-08-21NavyYardDryDocks033sm.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
