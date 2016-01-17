@@ -41,6 +41,11 @@
 
 */
 
+.wrapper {
+
+	margin-top: 5rem;
+}
+
 .content {
 	float: right;
 	padding: 2em 3em 0;
@@ -67,11 +72,21 @@
     background: none;
     color: #638C57;
     margin: 1rem auto 0 0;
+    
+
+}
+.top-bar-section ul li > a {
+	font-size: 1.2em;
 
 }
 
 nav {
 	font-family: $header-font-family;
+	
+}
+
+.home {
+	font-size: 1.2em;
 }
 
 
@@ -101,7 +116,7 @@ nav {
 
 
 .project-image {
-	height: 150px;
+	height: 250px;
 
 }
 
@@ -129,7 +144,7 @@ nav {
 
 
 .project-image {
-	height: 150px;
+	height: 250px;
 
 }
 
@@ -157,7 +172,7 @@ nav {
 
 
 .project-image {
-	height: 150px;
+	height: 200px;
 
 }
 
@@ -173,7 +188,7 @@ nav {
 
 
 .project-image {
-	height: 150px;
+	height: 200px;
 
 }
 
@@ -184,6 +199,11 @@ nav {
 
 .top-bar {
     padding: 0.875rem 3rem;
+}
+
+.top-bar-section ul li > a {
+	font-size: 1em;
+
 }
 
 

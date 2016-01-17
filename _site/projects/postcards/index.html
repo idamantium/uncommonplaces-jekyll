@@ -7,6 +7,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="stylesheets/app.css" />
+    <link rel="stylesheet" href="stylesheets/slick.css" />
     <script src="bower_components/modernizr/modernizr.js"></script>
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -23,13 +24,10 @@
 
 
 <!-- For image crousels - https://github.com/kenwheeler/slick/ -->
-  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css"/>
-
-<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.9/slick-theme.css"/>
+  
 
 </head>
 
-<body>
 
   <body>
 
@@ -57,7 +55,7 @@
 </ul>
 
       <section class="top-bar-section">
-        <ul class="left">
+        <ul class="right">
       	<li>
       		<a href="/about-ida.html">About Ida</a>
       	</li>
@@ -93,40 +91,6 @@
         
           
           <li><a href="/projects.html">Projects</a></li>
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
           
         
           
@@ -238,34 +202,34 @@
 
   		 
 
-    <ul data-orbit="">
+    <div class="slideshow">
 
-<li>
+<div>
 <img src="/images//2013/01/SVS047_o.jpg" />
-</li>
+</div>
 
-<li>
+<div>
 <img src="/images//2013/01/SA012_1_o.jpg" />
-</li>
+</div>
 
-<li>
+<div>
 <img src="/images//2013/01/SA005sm_o.jpg" />
-</li>
+</div>
 
-<li>
+<div>
 <img src="/images//2013/01/SA007_o.jpg" />
-</li>
+</div>
 
-<li>
+<div>
 <img src="/images//2013/01/SVS015_o.jpg" />
-</li>
+</div>
 
-<li>
+<div>
 <img src="/images//2013/01/SVS043_o.jpg" />
-</li>
+</div>
 
 
-</ul>
+</div>
 
 <p>In these postcards, farmers from Santa Anita La Unión, a coffee cooperative in Guatemala, and Sanjukta Vikas Sanstha, a tea cooperative in India, exchange messages inspired by photographs of eachother. Both communities have participated in local armed struggles and now engage with the world market through fair trade agriculture.</p>
 
@@ -385,21 +349,15 @@ Organizational support came from Darjeeling Ladenla Road Prerna in India and <a 
 
     <script src="/js/vendor/jquery.js"></script>
     <script src="/js/foundation.min.js"></script>
+    <script src="/js/slick/slick.min.js"></script>
+    <link rel="stylesheet" href="js/slick/slick.css"/>
+  <link rel="stylesheet" href="js/slick/slick-theme.css"/>
     <script>
-      $(document).foundation({
-        orbit : {
-          animation: 'slide',
-          animation_speed: 500,
-          next_on_click: true,
-          navigation_arrows: true,
-          bullets: true,
-          slide_number: false,
-          timer: false
-        }
-
-
-
+     $(document).ready(function(){
+      $('.slideshow').slick({
       });
+    });
+  
     </script>
 
     <script>
@@ -433,6 +391,5 @@ Organizational support came from Darjeeling Ladenla Road Prerna in India and <a 
 </div>
 
   </body>
-  <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js"></script>
 
 </html>

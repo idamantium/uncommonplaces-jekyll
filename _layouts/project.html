@@ -12,14 +12,16 @@ layout: default
 
   	{% for project in site.projects %}
   		{% if project.images.size > 1 %}
-  		<ul class="example-orbit" data-orbit>
+
+      <div class="slideshow">
+
   			{% for image in project.image %}
-  			<li>
+  			<div>
   				<img src=" {{ project.image }} ">
-  			</li>
+  			</div>
 
   			{% endfor %}
-  		</ul>
+  		</div>
 
 
   		{% elsif user.image.size == 1 %}

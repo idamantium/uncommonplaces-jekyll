@@ -2,7 +2,7 @@
 title: About Ida
 author: ida
 layout: about
-image: /images/2012/12/IdaCBenedetto.jpg
+image: /images/self/IdaCBenedetto300x375.jpg
 page-title: Ida C. Benedetto
 ---
 
