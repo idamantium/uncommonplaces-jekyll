@@ -5,7 +5,7 @@
 // --- fixed in to the right for large and medium layouts
 // --- above for small layouts
 
-
+/* - commented out 1/16/16 to reposition navigation
 
 .sidebar {
 		position: fixed; 
@@ -27,6 +27,20 @@
 	}
 }
 
+
+.top-bar li { 
+	 margin: 0.2rem 0; 
+    font-size: 1.1rem;
+    font-family: $header-font-family;
+
+    	li a:not(.button) {
+	padding: 0;
+	}
+}
+
+
+*/
+
 .content {
 	float: right;
 	padding: 2em 3em 0;
@@ -40,37 +54,51 @@
 }
 
 .circular {
-	width: 80px;
-	height: 80px;
-	border-radius: 40px;
-	-webkit-border-radius: 40px;
-	-moz-border-radius: 40px;
+	width: 60px;
+	height: 60px;
+	border-radius: 35px;
+	-webkit-border-radius: 35px;
+	-moz-border-radius: 35px;
 	background: url(/images/assets/trcks02sqSM.jpg) no-repeat;
-	margin: 0.2rem 0 0.2rem auto;
+	margin: 0.1rem auto 0.1rem 0;
 	}
 
+.top-bar-section ul li {
+    background: none;
+    color: #638C57;
+    margin: 1rem auto 0 0;
 
+}
 
-
-
-@media only screen and (min-width: 120.063em) {
-
-.side-nav {
-	padding: 0.875rem 5rem;
+nav {
+	font-family: $header-font-family;
 }
 
 
-.side-nav li, .circular {
+/*	
+.top-bar {
+    background: none;
+    margin-bottom: 1px solid #e6e6e6;
+}
+
+.contain-to-grid {
+	background: none;
+}
+
+*/
+
+@media only screen and (min-width: 120.063em) {
+
+.top-bar {
+	padding: 0.875rem 5rem;
+
+}
+
+.top-bar li, .circular {
 	margin-right: 1rem;
 
 }
 
-
-.sidebar {
-
-margin-top: 15%;
-
-}
 
 .project-image {
 	height: 150px;
@@ -81,28 +109,24 @@ margin-top: 15%;
 	margin: -80px 0 0 0;
 }
 
+.sticky {
+
+	min-height: 80px;
+}
+
 
 }
 
 @media only screen and (min-width: 90.063em) and (max-width: 120em) {
+/*
 
-
-.side-nav {
+.top-bar {
 	padding: 0.875rem 5rem;
 }
 
-
-.side-nav li, .circular {
-	margin-right: 1rem;
-
-}
+*/
 
 
-.sidebar {
-
-margin-top: 20%;
-
-}
 
 .project-image {
 	height: 150px;
@@ -119,22 +143,18 @@ margin-top: 20%;
 
 @media only screen and (min-width: 64.063em) and (max-width: 90em) {
 
-.side-nav {
+
+.top-bar {
 	padding: 0.875rem 3rem;
 }
 
 
-.side-nav li, .circular {
+.circular {
 	margin-right: 1rem;
 
 }
 
 
-.sidebar {
-
-margin-top: 25%;
-
-}
 
 .project-image {
 	height: 150px;
@@ -162,11 +182,14 @@ margin-top: 25%;
 }
 
 
-
-.side-nav li a:not(.button) {
-	padding: 0.4375rem 0.2rem;
+.top-bar {
+    padding: 0.875rem 3rem;
 }
 
+
+// .top-bar li a:not(.button) {
+// 	padding: 0.4375rem 0.2rem;
+// }
 
 
 }
@@ -175,6 +198,46 @@ margin-top: 25%;
 
 
 @media only screen and (max-width: 40em) {
+
+.top-bar-section ul li {
+    float: left;
+}
+
+.sticky.contain-to-grid {
+    
+    min-height: 33px;
+}
+
+
+.top-bar .title-area {
+    float: left;
+}
+
+.top-bar {
+    overflow: visible;
+    height: 2.8125rem;
+    line-height: 2.8125rem;
+    position: relative;
+    background: #FFFFFF;
+    margin-bottom: 0;
+    padding: 0.875rem 3rem;
+
+}
+
+.top-bar .title-area {
+	width: 60px;
+	margin: 0 auto;
+} 
+
+.top-bar-section {
+
+}
+
+.left {
+	float: none !important;
+}
+
+
 .content {
 	clear: both;
 }
@@ -206,8 +269,13 @@ position: static;
 }
 
 .project-image {
-	height: 75px;
+	height: 125px;
 
+}
+
+
+.project-image img {
+	margin: -40px 0 0 0;
 }
 
 .project-image img {
@@ -217,6 +285,10 @@ position: static;
 .columns.sidebar {
 
 	padding: inherit 3rem;
+}
+
+.top-bar-section ul li > a {
+	padding: 12px 12px 12px 0.9375rem;
 }
 
 
@@ -377,11 +449,11 @@ li.project-link {
       }
     }
 
-.side-nav li a:not(.button) {
-	transition-property: background-color, color;
- 	  transition-duration: 0.2s;
-}
 
+// .top-bar li a:not(.button) {
+// 	transition-property: background-color, color;
+//  	  transition-duration: 0.2s;
+// }
 
 
 
@@ -487,4 +559,17 @@ font-weight: lighter;
 .alignright {
 	float: right;
 	margin-left: 1rem;
+}
+
+.nav-sticks {
+	padding: 0; 
+	margin: -1rem 0 0 0 ;
+	
+}
+
+.sticky.contain-to-grid {
+	padding: 0.2rem 0;
+	border-bottom: 1px solid #aaa;
+	min-height: 83px;
+	font-family: $header-font-family;
 }

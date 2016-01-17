@@ -1,19 +1,19 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19051",
+"creatorBuild": "19102",
 "files": {
-	"\/_drafts\/2015-03-21-The-Move-To-Jekyll.md": {
+	"\/_drafts\/2016-01-07-2015-Annual-Review.md": {
 		"criticStyle": 0,
-		"enableFootnotes": 1,
-		"enableLabels": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
 		"enableSmartQuotes": 1,
 		"escapeLineBreaks": 0,
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_drafts\/2015-03-21-The-Move-To-Jekyll.md",
+		"inputAbbreviatedPath": "\/_drafts\/2016-01-07-2015-Annual-Review.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/_drafts\/2015-03-21-The-Move-To-Jekyll.html",
+		"outputAbbreviatedPath": "\/_drafts\/2016-01-07-2015-Annual-Review.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -5780,6 +5780,27 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/_posts\/2016-01-07-2015-Annual-Review.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_posts\/2016-01-07-2015-Annual-Review.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/_posts\/2016-01-07-2015-Annual-Review.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
 	"\/_projects\/*draft\/aliciakeys.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 0,
@@ -8743,6 +8764,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/2015\/08\/wilderness-emt\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/2016\/01\/2015-review\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/2016\/01\/2015-review\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -57807,6 +57837,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/2016\/soa7517.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115580,
+		"inputAbbreviatedPath": "\/_site\/images\/2016\/soa7517.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/2016\/soa7517.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/assets\/trcks02sq.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -58752,15 +58793,6 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
-		},
-	"\/_site\/stylesheets\/app.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/stylesheets\/app.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/about-ida.md": {
 		"criticStyle": 0,
@@ -108522,6 +108554,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/2016\/soa7517.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115580,
+		"inputAbbreviatedPath": "\/images\/2016\/soa7517.jpg",
+		"outputAbbreviatedPath": "\/images\/2016\/soa7517.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/assets\/trcks02sq.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -108555,24 +108598,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/projects\/Antidote\/HumansVMosquitoes02e1385762445375.jpg": {
+	"\/images\/projects\/antidote\/HumansVMosquitoes02e1385762445375.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 198966,
-		"inputAbbreviatedPath": "\/images\/projects\/Antidote\/HumansVMosquitoes02e1385762445375.jpg",
-		"outputAbbreviatedPath": "\/images\/projects\/Antidote\/HumansVMosquitoes02e1385762445375.jpg",
+		"inputAbbreviatedPath": "\/images\/projects\/antidote\/HumansVMosquitoes02e1385762445375.jpg",
+		"outputAbbreviatedPath": "\/images\/projects\/antidote\/HumansVMosquitoes02e1385762445375.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/projects\/Antidote\/OOO03e1385763813852.png": {
+	"\/images\/projects\/antidote\/OOO03e1385763813852.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 437937,
-		"inputAbbreviatedPath": "\/images\/projects\/Antidote\/OOO03e1385763813852.png",
-		"outputAbbreviatedPath": "\/images\/projects\/Antidote\/OOO03e1385763813852.png",
+		"inputAbbreviatedPath": "\/images\/projects\/antidote\/OOO03e1385763813852.png",
+		"outputAbbreviatedPath": "\/images\/projects\/antidote\/OOO03e1385763813852.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -109937,8 +109980,16 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"no_plusplus": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_stand_alone_at": {
@@ -109947,6 +109998,10 @@
 			},
 		"no_tabs": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_throwing_strings": {
@@ -110463,7 +110518,9 @@
 	"typescriptAutoOutputPathStyle": 2,
 	"typescriptCreateDeclarationFile": 0,
 	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
 	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
 	"typescriptPreserveConstEnums": 0,

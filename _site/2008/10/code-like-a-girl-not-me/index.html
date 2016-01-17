@@ -20,8 +20,15 @@
   <link rel="canonical" href="http://uncommonplaces.com/2008/10/code-like-a-girl-not-me/">
   <link rel="alternate" type="application/rss+xml" title="" href="http://uncommonplaces.com/feed.xml" />
 
+
+<!-- For image crousels - https://github.com/kenwheeler/slick/ -->
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css"/>
+
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.9/slick-theme.css"/>
+
 </head>
 
+<body>
 
   <body>
 
@@ -34,14 +41,22 @@
 
 </header>
 
-        <div class="small-12 medium-2 columns sidebar">
+      <div class="small-12 medium-12 columns nav-sticks">
 
     <a class="site-title" href="/"></a>
 
-<ul class="side-nav">
 
-<div class="circular"></div>
-      
+<div class="contain-to-grid sticky fixed">
+
+<nav class="top-bar" data-topbar role="navigation" data-options="sticky_on: large">
+
+
+<ul class="title-area">
+<a href="/"><li class="circular"> </li></a>
+</ul>
+
+      <section class="top-bar-section">
+        <ul class="left">
       	<li>
       		<a href="/about-ida.html">About Ida</a>
       	</li>
@@ -54,7 +69,8 @@
       	<li>
       		<a href="/contact.html">Contact</a>
       	</li>
-
+      </ul>
+</section>
 
       <!--
         
@@ -118,8 +134,7 @@
           -->
 
 
-      </ul>
-
+</div>
 
 
     </div>
@@ -128,7 +143,7 @@
 
       
 
-  	<div class="small-12 medium-10  columns content">
+  	<div class="small-12 medium-12  columns content">
 
   		<div class="wrapper">
 
@@ -252,5 +267,6 @@
 </div>
 
   </body>
+  <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js"></script>
 
 </html>
