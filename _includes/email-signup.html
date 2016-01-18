@@ -1,43 +1,24 @@
-<!-- 
-<script language="JavaScript">
-var frmvalidator  = new Validator("contactform");
-frmvalidator.addValidation("email","req","Please provide your email");
-frmvalidator.addValidation("email","email",
-  "Please enter a valid email address");
-</script>
-
-<h4>Infrequent Updates:</h4>
-<form method="post" name="contact_form"
-action="contact-form-handler.php">
-  <div class="row collapse">
-        <div class="small-7 columns">
-          <input type="text" placeholder="">
-        </div>
-        <div class="small-3 columns end">
-          <input class="button postfix info" type="submit" name="subscribe" value="Sign Up" onClick="window.location.href=window.location.href" href="#">
-        </div>
-      </div>
-</form>
-
-
-
--->
+<!-- Uses Formspree and this code:https://jsfiddle.net/228d4snb/, including formspree.js file -->
 
 
 <h4>Infrequent Updates:</h4>
 
-<form action="https://getsimpleform.com/messages?form_api_token=d33a6a6c9d958e7e701a70f228ebb405" method="post">
-  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
+<form id="contact-form" action="http://formspree.io/list-reply@lists.uncommonplaces.com" method="post">
 
 <div class="row collapse">
         <div class="small-7 columns">
-          <input type="email" name="email" id="email" placeholder="">
+          <input type="email" name="email" id="email" onchange="updateInput(this.value)" placeholder="">
         </div>
         <div class="small-3 columns end">
-          <input class="button postfix info" type="submit" name="subscribe" value="Sign Up" onClick="window.location.href=window.location.href" href="#">
+          <input class="button postfix info" type="submit" id="subscribe" name="subscribe" value="Sign Up">
         </div>
       </div>  
+
+      <!-- configuration -->
+    
+  <input type="hidden" name="_subject" value="New Subscriber" />
+  <input type="text" name="_gotcha" style="display:none" />
+
 
 </form>
 
