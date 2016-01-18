@@ -2,7 +2,7 @@
 title: About Ida
 author: ida
 layout: about
-image: /images/self/IdaCBenedetto300x375.jpg
+image: /images/self/IdaCBenedetto-Portrait-BeauBurrows.jpg
 page-title: Ida C. Benedetto
 ---
 

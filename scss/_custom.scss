@@ -308,9 +308,23 @@ position: static;
 }
 
 .top-bar-section ul li > a {
-	padding: 12px 12px 12px 0.9375rem;
+	padding: 6px 6px 6px 0.9375rem;
+	
 }
 
+.top-bar-section ul {
+	font-size: 0.9em;
+}
+
+.right {
+	clear: both;
+	float: none !important;
+}
+
+.top-bar:before, .top-bar:after {
+    content: " ";
+    display: table;
+}
 
 }
 

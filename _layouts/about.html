@@ -4,16 +4,14 @@ layout: default
 <div class="post">
 	<div class="row">
 
-		<div class="large-12 columns">
+<row>
+	<div class="small-12 medium-7 large-8 columns">
+
 
   <header class="post-header">
     <h1 class="post-title">{{ page.page-title }}</h1>
   </header>
 
-</div>
-
-<row>
-	<div class="small-12 medium-7 large-8 columns">
 
 		<article class="post-content">
     {{ content }}
@@ -21,13 +19,14 @@ layout: default
 	
 	</div>
 
+
+<!-- next column!!! -->
+
+
 	<div class="small-12 medium-5 large-4 columns">
 		<img src="{{ page.image  | prepend: site.baseurl }}">
 		<article class="post-content">
-			<h3 class="subheader">Contact</h3>
-			<p>
-		{% include contact.html %}
-	</p>
+		
 		<h3 class="subheader">Selected Press</h3>
 		<p>
 <ul class="no-bullet">
@@ -57,6 +56,8 @@ layout: default
 </ul>
 		</p>
 
+		<!-- 
+
 <h3 class="subheader">Colophon</h3>
 		<p>
 
@@ -72,6 +73,8 @@ layout: default
 </ul>
 
 		</p>
+
+	-->
 
 
 
