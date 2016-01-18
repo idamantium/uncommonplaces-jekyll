@@ -168,81 +168,24 @@ action="contact-form-handler.php">
 
 -->
 
-<?php  
-
-//validate 
-if (isset($_POST[submit])) { 
-//send confirmation email (or insert into database, etc...) 
-
-$to      = 'list-reply@lists.uncommonplaces.com';
-$subject = 'New Subscriber';
-$message = 'New Subscriber: '. $_POST['email_r'] . "\r\n";
-$headers = 'From: list-reply@lists.uncommonplaces.com' . "\r\n" .
-    'Reply-To: list-reply@lists.uncommonplaces.com' . "\r\n" .
-    'X-Mailer: PHP/' . phpversion();
-
-mail($to, $subject, $message, $headers);
-
-    echo 'Sent'; die;  
-    mail($to,$subject,$comments,$headers); 
-} 
-// 
-
-?> 
-
-
-<script> 
-$(document).ready(function() {
-	$("#email-singup").validate({
-		submitHandler: function() {
-			//submit the form
-			$.post("<?php echo $_SERVER[PHP_SELF]; ?>", //post
-				$("#email-singup").serialize(), 
-				function(data){
-				  //if message is sent
-				  if (data == 'Sent') {
-				    $("#message").fadeIn(); //show confirmation message
-				    $("#email-singup")[0].reset(); //reset fields
-				}
-				//
-			});
-			return false; //don't let the page refresh on submit.
-		}
-	}); //validate the form
-});
-</script> 
-
-<!--style the error message--> 
-<style type="text/css"> 
-.error { 
-    display: block; 
-    color: red; 
-    font-style: italic; 
-} 
-#message { 
-    display:none; 
-    font-size:15px; 
-    font-weight:bold; 
-    color:#333333; 
-} 
-</style> 
-
-
 
 <h4>Infrequent Updates:</h4>
-<form action="" method="post" enctype="multipart/form-data" name="email-singup" id="email-singup"> 
 
-  <div class="row collapse">
+<form action="https://getsimpleform.com/messages?form_api_token=d33a6a6c9d958e7e701a70f228ebb405" method="post">
+  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+  <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
+<div class="row collapse">
         <div class="small-7 columns">
-          <input name="email_r" type="text" class="required email" placeholder="">
+          <input type="email" name="email" id="email" placeholder="">
         </div>
         <div class="small-3 columns end">
-          <input class="button postfix info submit_go" name="submit" id="submit"  type="submit" value="Sign Up">
+          <input class="button postfix info" type="submit" name="subscribe" value="Sign Up" onClick="window.location.href=window.location.href" href="#">
         </div>
-      </div>
-      <div id="message">Thank you!<br /><br /></div> 
+      </div>  <input type='text' name='test' />
+  <input type='submit' value='Test form' />
 </form>
- 
+
+
 -->
 </p>
 
