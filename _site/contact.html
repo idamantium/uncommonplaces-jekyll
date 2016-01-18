@@ -171,12 +171,12 @@ action="contact-form-handler.php">
 <?php  
 
 //validate 
-if ($_POST) { 
+if (isset($_POST[submit])) { 
 //send confirmation email (or insert into database, etc...) 
 
 $to      = 'list-reply@lists.uncommonplaces.com';
-$subject = 'New Subscriber:'.echo $_POST['email_r'];
-$message = 'New Subscriber:'.echo $_POST['email_r'];
+$subject = 'New Subscriber';
+$message = 'New Subscriber: '. $_POST['email_r'] . "\r\n";
 $headers = 'From: list-reply@lists.uncommonplaces.com' . "\r\n" .
     'Reply-To: list-reply@lists.uncommonplaces.com' . "\r\n" .
     'X-Mailer: PHP/' . phpversion();
@@ -237,7 +237,7 @@ $(document).ready(function() {
           <input name="email_r" type="text" class="required email" placeholder="">
         </div>
         <div class="small-3 columns end">
-          <input class="button postfix info submit_go" name="Submit" id="submit"  type="submit" name="subscribe" value="Sign Up" onClick="window.location.href=window.location.href" href="#">
+          <input class="button postfix info submit_go" name="submit" id="submit"  type="submit" value="Sign Up">
         </div>
       </div>
       <div id="message">Thank you!<br /><br /></div> 
