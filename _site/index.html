@@ -120,15 +120,13 @@
 	<div class="small-12 medium-6 large-6 columns">
 
 		<article class="post-content home">
-    <h3>
-Ida C. Benedetto is an expereince designer working in real world adventures, game design, and digital media. 
-</h3>
+    <h3 id="ida-c-benedetto-is-an-expereince-designer-working-in-real-world-adventures-game-design-and-digital-media">Ida C. Benedetto is an expereince designer working in real world adventures, game design, and digital media.</h3>
 
-<h4>Upcoming:</h4>
+<h4 id="upcoming">Upcoming:</h4>
 <p><span class="post-date">April 11th, 2016</span><br />
 <a href="http://www.bloomberg.com/businessweek/design-conference/">Speaking at BusinessWeek’s Design Conference</a>  </p>
 
-<h4>Recently:</h4>
+<h4 id="recently">Recently:</h4>
 
 <p><span class="post-date">2015-2016</span> <br />
 <a href="http://designresearch.sva.edu/program/">Graudate Research at SVA</a><br />
@@ -137,7 +135,25 @@ Ida C. Benedetto is an expereince designer working in real world adventures, gam
 <span class="post-date">December 26, 2014</span> <br />
 <a href="http://www.nytimes.com/2014/12/28/nyregion/they-say-art-is-dead-in-new-york-theyre-wrong.html?_r=0">The New York Times Says I’m Saving New York’s Art Scene</a></p>
 
+<script language="JavaScript">
+var frmvalidator  = new Validator("contactform");
+frmvalidator.addValidation("email","req","Please provide your email");
+frmvalidator.addValidation("email","email",
+  "Please enter a valid email address");
+</script>
+
 <h4>Infrequent Updates:</h4>
+<form method="post" name="contact_form" action="contact-form-handler.php">
+  <div class="row collapse">
+        <div class="small-7 columns">
+          <input type="text" placeholder="" />
+        </div>
+        <div class="small-3 columns end">
+          <input class="button postfix info" type="submit" name="subscribe" value="Sign Up" onclick="return checkform();" href="#" />
+        </div>
+      </div>
+</form>
+
 
   	</article>
 	

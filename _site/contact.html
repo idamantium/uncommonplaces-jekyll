@@ -116,20 +116,23 @@
         <div class="post">
 	<div class="row">
 
-		<div class="large-12 columns">
+<div class="large-12 columns">
 
 
-  <article class="post-content">
+ 
 
-<div class="small-12 medium-6 large-5 columns">
+	<div class="small-12 medium-6 large-5 columns">
 
 
-  <header class="post-header">
-    <h1 class="post-title">Contact</h1>
-  </header>
+	 	 <header class="post-header">
+	   	 <h1 class="post-title">Contact</h1>
+	  	</header>
 
-    <p>
-<br />
+
+	 <article class="post-content">
+
+	   	 
+<p>
 Email: <a href="mailto:&#105;&#100;&#097;&#064;&#117;&#110;&#099;&#111;&#109;&#109;&#111;&#110;&#112;&#108;&#097;&#099;&#101;&#115;&#046;&#099;&#111;&#109;">ida -at- uncommonplaces . com</a> 
 <br />
 Home Base: DUMBO, Brooklyn, NYC
@@ -138,27 +141,51 @@ Home Base: DUMBO, Brooklyn, NYC
 Elsewhere online:   <br />
 <a href="http://www.twitter.com/idamantium" target="_blank"> Twitter</a> | <a href="http://www.linkedin.com/in/idabenedetto/" target="_blank">LinkedIn</a> | <a href="http://instagram.com/idamantium" target="_blank">Instagram</a> | <a href="https://github.com/idamantium" target="_blank">GitHub</a>
 </p>
-
 <p>
-Infrequent updates: 
+
+
+<script language="JavaScript">
+var frmvalidator  = new Validator("contactform");
+frmvalidator.addValidation("email","req","Please provide your email");
+frmvalidator.addValidation("email","email",
+  "Please enter a valid email address");
+</script>
+
+<h4>Infrequent Updates:</h4>
+<form method="post" name="contact_form"
+action="contact-form-handler.php">
+  <div class="row collapse">
+        <div class="small-7 columns">
+          <input type="text" placeholder="">
+        </div>
+        <div class="small-3 columns end">
+          <input class="button postfix info" type="submit" name="subscribe" value="Sign Up" onClick="return checkform();" href="#">
+        </div>
+      </div>
+</form>
+
 
 
 </p>
 
-</div>
+</article>
 
-<div class="small-12 medium-6 large-7 columns">
-<p>
-<img src="images/self/2015_WinteringZodiac.JPG">
-</p><p>
-<img src="images/self/S0A6719.jpg">
-<p></p>
-<img src="images/self/13-01-19Adler098.JPG">
-<p></p>
+	  </article>
 
-</div>
+	</div>
 
-  </article>
+	<div class="small-12 medium-6 large-7 columns">
+
+		<p>
+		<img src="images/self/2015_WinteringZodiac.JPG">
+		</p><p>
+		<img src="images/self/S0A6719.jpg">
+		<p></p>
+		<img src="images/self/13-01-19Adler098.JPG">
+		<p>
+
+	</div>
+
 
 </div>
 

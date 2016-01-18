@@ -7,41 +7,46 @@ short-description: Farmers from Guatemala and India exchange messages inspired b
 small-image: /images//2013/01/07-01-09SApostcards25_o.jpg
 ---
 
-<div class="slideshow">
+<!-- <div class="slideshow"> -->
 
-<div>
+<ul class="small-block-grid-2">
+<!-- 
+<li>
 <img src="{{ site.baseurl }}/images//2013/01/SVS047_o.jpg"/>
-</div>
+</li>
+-->
 
-<div>
+<li>
 <img src="{{ site.baseurl }}/images//2013/01/SA012_1_o.jpg" />
-</div>
+</li>
 
-<div>
+<!-- 
+<li>
 <img src="{{ site.baseurl }}/images//2013/01/SA005sm_o.jpg"  />
-</div>
+</li>
+-->
 
-<div>
+<li>
 <img src="{{ site.baseurl }}/images//2013/01/SA007_o.jpg"/>
-</div>
+</li>
 
-<div>
+<li>
 <img src="{{ site.baseurl }}/images//2013/01/SVS015_o.jpg"/>
-</div>
+</li>
 
-<div>
+<li>
 <img src="{{ site.baseurl }}/images//2013/01/SVS043_o.jpg"/>
-</div>
+</li>
 
 
-</div>
+</ul>
 
 In these postcards, farmers from Santa Anita La Unión, a coffee cooperative in Guatemala, and Sanjukta Vikas Sanstha, a tea cooperative in India, exchange messages inspired by photographs of eachother. Both communities have participated in local armed struggles and now engage with the world market through fair trade agriculture.
 
 Upon seeing my photographs of each community in exhibitions and informal albums, the farmers began to ask questions about their commonalities and differences. To open up a direct dialogue, I turned my photographs into postcards. The communities could exchange messages linked to the images that motivated them to be in touch. The farmers use the postcards to discuss their lived experiences, describe what they hope for from the future, and ask what life is like for the other community.
 
 
-<ul class="small-block-grid-3">
+<ul class="medium-block-grid-2 large-block-grid-3">
 
 <li>
 <img src="{{ site.baseurl }}/images//2013/01/bookletCover_o.jpg" />

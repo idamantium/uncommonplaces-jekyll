@@ -14,7 +14,7 @@ The Cupcake Machine is a playful experience about an engineering marvel lost, re
 
 Enticed into the back of a dark truck by the promise of exotic cupcakes, players find the cupcake machine beginning to implode with workers panicking for help to fix it. Players must "fix" the machine and win cupcakes. The machine consists a state-switching game on 4 stations of big levers, buttons and lights. 
 
-<ul class="small-block-grid-2 medium-block-grid-3">
+<ul class="medium-block-grid-2 large-block-grid-3">
 
 <li>
 <img src="{{ site.baseurl }}/images//2013/02/CupcakeCircuit.jpg" />

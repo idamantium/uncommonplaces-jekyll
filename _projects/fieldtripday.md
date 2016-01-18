@@ -22,7 +22,7 @@ small-image: /images//2013/01/120929-3313_o1.jpg
 
 In collaboration with <a href="http://atlasobscura.com/" target="_blank">Atlas Obscura</a>, I produced the New York launch event <a href="http://www.fieldtripday.com/new-york/" target="_blank">Field Trip Day</a>, a mobile app from Google's <a href="https://en.wikipedia.org/wiki/Niantic_Labs" target="_blank">Niantic Labs</a>. The app turns any neighborhood into a museum by pushing curated content to users when they happen upon a location of interest. 
 
-<ul class="small-block-grid-3 medium-grid-2">
+<ul class="small-block-grid-2 medium-grid-3">
     <li>
 <img src="{{ site.baseurl }}/images//2013/01/60752_4117823176524_193001557_nCrop_o1.jpg" alt="60752_4117823176524_193001557_nCrop_o" />
 </li>

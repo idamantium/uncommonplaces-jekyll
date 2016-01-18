@@ -201,10 +201,6 @@ nav {
     padding: 0.875rem 3rem;
 }
 
-.top-bar-section ul li > a {
-	font-size: 1em;
-
-}
 
 
 // .top-bar li a:not(.button) {
@@ -308,7 +304,7 @@ position: static;
 }
 
 .top-bar-section ul li > a {
-	padding: 6px 6px 6px 0.9375rem;
+	padding: 6px 0.7px 6px 0.7rem;
 	
 }
 
@@ -317,7 +313,6 @@ position: static;
 }
 
 .right {
-	clear: both;
 	float: none !important;
 }
 
@@ -506,9 +501,9 @@ text-transform: uppercase;
 }
 
 .post-meta {
-font-weight: 300;
+font-weight: 400;
 font-family: "europa", "Futura LT", san-serif;
-font-size: 0.8rem;
+font-size: 1rem;
 line-height: 0.5rem;
 color: $base;
 }
