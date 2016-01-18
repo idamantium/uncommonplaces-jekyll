@@ -9813,7 +9813,7 @@ nav {
     position: relative;
     background: #FFFFFF;
     margin-bottom: 0;
-    padding: 0.075rem 3rem;
+    padding: 0.075rem 1.6rem;
   }
 
   /* line 252, ../scss/_custom.scss */
@@ -9824,8 +9824,8 @@ nav {
 
   /* line 262, ../scss/_custom.scss */
   .top-bar-section ul li > a {
-    padding: 6px 0.5px 6px 0.5rem;
-    font-size: 1em;
+    padding: 6px 0.4rem;
+    font-size: 0.8em;
   }
 
   /* line 270, ../scss/_custom.scss */
