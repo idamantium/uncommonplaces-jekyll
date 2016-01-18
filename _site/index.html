@@ -135,6 +135,7 @@
 <span class="post-date">December 26, 2014</span> <br />
 <a href="http://www.nytimes.com/2014/12/28/nyregion/they-say-art-is-dead-in-new-york-theyre-wrong.html?_r=0">The New York Times Says I’m Saving New York’s Art Scene</a></p>
 
+<!-- 
 <script language="JavaScript">
 var frmvalidator  = new Validator("contactform");
 frmvalidator.addValidation("email","req","Please provide your email");
@@ -143,15 +144,92 @@ frmvalidator.addValidation("email","email",
 </script>
 
 <h4>Infrequent Updates:</h4>
-<form method="post" name="contact_form" action="contact-form-handler.php">
+<form method="post" name="contact_form"
+action="contact-form-handler.php">
   <div class="row collapse">
         <div class="small-7 columns">
-          <input type="text" placeholder="" />
+          <input type="text" placeholder="">
         </div>
         <div class="small-3 columns end">
-          <input class="button postfix info" type="submit" name="subscribe" value="Sign Up" onclick="return checkform();" href="#" />
+          <input class="button postfix info" type="submit" name="subscribe" value="Sign Up" onClick="window.location.href=window.location.href" href="#">
         </div>
       </div>
+</form>
+
+
+
+-->
+
+<?php  
+
+//validate 
+if ($_POST) { 
+//send confirmation email (or insert into database, etc...) 
+
+$to      = 'list-reply@lists.uncommonplaces.com';
+$subject = 'New Subscriber:'.echo $_POST['email_r'];
+$message = 'New Subscriber:'.echo $_POST['email_r'];
+$headers = 'From: list-reply@lists.uncommonplaces.com' . "\r\n" .
+    'Reply-To: list-reply@lists.uncommonplaces.com' . "\r\n" .
+    'X-Mailer: PHP/' . phpversion();
+
+mail($to, $subject, $message, $headers);
+
+    echo 'Sent'; die;  
+    mail($to,$subject,$comments,$headers); 
+} 
+// 
+
+?>
+
+<script> 
+$(document).ready(function() {
+	$("#email-singup").validate({
+		submitHandler: function() {
+			//submit the form
+			$.post("<?php echo $_SERVER[PHP_SELF]; ?>", //post
+				$("#email-singup").serialize(), 
+				function(data){
+				  //if message is sent
+				  if (data == 'Sent') {
+				    $("#message").fadeIn(); //show confirmation message
+				    $("#email-singup")[0].reset(); //reset fields
+				}
+				//
+			});
+			return false; //don't let the page refresh on submit.
+		}
+	}); //validate the form
+});
+</script>
+
+<!--style the error message-->
+<style type="text/css"> 
+.error { 
+    display: block; 
+    color: red; 
+    font-style: italic; 
+} 
+#message { 
+    display:none; 
+    font-size:15px; 
+    font-weight:bold; 
+    color:#333333; 
+} 
+</style>
+
+<h4>Infrequent Updates:</h4>
+<form action="" method="post" enctype="multipart/form-data" name="email-singup" id="email-singup"> 
+
+  <div class="row collapse">
+        <div class="small-7 columns">
+          <input name="email_r" type="text" class="required email" placeholder="" />
+        </div>
+        <div class="small-3 columns end">
+          <input class="button postfix info submit_go" name="subscribe" id="submit" type="submit" value="Sign Up" onclick="window.location.href=window.location.href" href="#" />
+        </div>
+      </div>
+      <div id="message">Thank you!<br /><br /></div> 
 </form>
 
 

@@ -4,7 +4,7 @@ title: American Realities
 permalink: /projects/americanrealities/
 status: featured
 short-description: The American Realities website is a media rich experience of documentary reporting on poverty in America. 
-small-image: /images//2013/02/americanrealities02.jpg
+small-image: /images//2013/02/americanrealities02-930xnarrow.jpg
 ---
 <img class="alignnone block-th" alt="americanrealities02" src="{{ site.baseurl }}/images//2013/02/americanrealities02.jpg"  />
 

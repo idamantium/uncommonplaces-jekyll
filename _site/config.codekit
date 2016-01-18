@@ -32,6 +32,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_includes\/email-signup.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/email-signup.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_includes\/footer.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -77,11 +86,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_layouts\/contact.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/contact.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_layouts\/default.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_layouts\/default.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_layouts\/home.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/home.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -11748,6 +11775,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/contact-form-handler.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/contact-form-handler.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/_site\/contact.html": {
 		"fileType": 8192,
@@ -58079,6 +58115,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/self\/13-01-19Adler098.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 348784,
+		"inputAbbreviatedPath": "\/_site\/images\/self\/13-01-19Adler098.JPG",
+		"outputAbbreviatedPath": "\/_site\/images\/self\/13-01-19Adler098.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/self\/2015_WinteringZodiac.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 357784,
+		"inputAbbreviatedPath": "\/_site\/images\/self\/2015_WinteringZodiac.JPG",
+		"outputAbbreviatedPath": "\/_site\/images\/self\/2015_WinteringZodiac.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/self\/IdaBenedetto-ByShannonTaggart.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 753688,
+		"inputAbbreviatedPath": "\/_site\/images\/self\/IdaBenedetto-ByShannonTaggart.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/self\/IdaBenedetto-ByShannonTaggart.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/self\/IdaCBenedetto-Portrait-BeauBurrows.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168936,
+		"inputAbbreviatedPath": "\/_site\/images\/self\/IdaCBenedetto-Portrait-BeauBurrows.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/self\/IdaCBenedetto-Portrait-BeauBurrows.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/self\/IdaCBenedetto300x375.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35468,
+		"inputAbbreviatedPath": "\/_site\/images\/self\/IdaCBenedetto300x375.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/self\/IdaCBenedetto300x375.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/self\/S0A6719.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 334690,
+		"inputAbbreviatedPath": "\/_site\/images\/self\/S0A6719.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/self\/S0A6719.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -58297,6 +58399,118 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/_site\/js\/slick\/slick-theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/slick\/slick-theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/js\/slick\/slick-theme.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/slick\/slick-theme.less",
+		"outputAbbreviatedPath": "\/_site\/js\/css\/slick-theme.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/_site\/js\/slick\/slick-theme.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/slick\/slick-theme.scss",
+		"outputAbbreviatedPath": "\/stylesheets\/slick-theme.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_site\/js\/slick\/slick.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/slick\/slick.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/js\/slick\/slick.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/slick\/slick.js",
+		"outputAbbreviatedPath": "\/_site\/js\/slick\/min\/slick-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/slick\/slick.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/slick\/slick.less",
+		"outputAbbreviatedPath": "\/_site\/js\/css\/slick.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/_site\/js\/slick\/slick.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/slick\/slick.min.js",
+		"outputAbbreviatedPath": "\/_site\/js\/slick\/min\/slick.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/slick\/slick.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/slick\/slick.scss",
+		"outputAbbreviatedPath": "\/stylesheets\/slick.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/_site\/js\/vendor\/fastclick.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -58357,159 +58571,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/posts.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/posts\/page10\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/posts\/page10\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/posts\/page11\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/posts\/page11\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/posts\/page12\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/posts\/page12\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/posts\/page13\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/posts\/page13\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/posts\/page14\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/posts\/page14\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/posts\/page15\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/posts\/page15\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/posts\/page16\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/posts\/page16\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/posts\/page17\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/posts\/page17\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/posts\/page18\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/posts\/page18\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/posts\/page2\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/posts\/page2\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/posts\/page3\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/posts\/page3\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/posts\/page4\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/posts\/page4\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/posts\/page5\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/posts\/page5\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/posts\/page6\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/posts\/page6\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/posts\/page7\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/posts\/page7\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/posts\/page8\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/posts\/page8\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/posts\/page9\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/posts\/page9\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -58793,6 +58854,24 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/_site\/stylesheets\/app.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/stylesheets\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/stylesheets\/slick.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/stylesheets\/slick.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/about-ida.md": {
 		"criticStyle": 0,
@@ -62451,6 +62530,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/config.rb",
 		"outputAbbreviatedPath": "\/config.rb",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/contact-form-handler.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/contact-form-handler.php",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -108796,14 +108884,92 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/index.html": {
-		"fileType": 8192,
+	"\/images\/self\/13-01-19Adler098.JPG": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"initialSize": 348784,
+		"inputAbbreviatedPath": "\/images\/self\/13-01-19Adler098.JPG",
+		"outputAbbreviatedPath": "\/images\/self\/13-01-19Adler098.JPG",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/self\/2015_WinteringZodiac.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 357784,
+		"inputAbbreviatedPath": "\/images\/self\/2015_WinteringZodiac.JPG",
+		"outputAbbreviatedPath": "\/images\/self\/2015_WinteringZodiac.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/self\/IdaBenedetto-ByShannonTaggart.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 753688,
+		"inputAbbreviatedPath": "\/images\/self\/IdaBenedetto-ByShannonTaggart.jpg",
+		"outputAbbreviatedPath": "\/images\/self\/IdaBenedetto-ByShannonTaggart.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/self\/IdaCBenedetto-Portrait-BeauBurrows.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168936,
+		"inputAbbreviatedPath": "\/images\/self\/IdaCBenedetto-Portrait-BeauBurrows.jpg",
+		"outputAbbreviatedPath": "\/images\/self\/IdaCBenedetto-Portrait-BeauBurrows.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/self\/IdaCBenedetto300x375.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35468,
+		"inputAbbreviatedPath": "\/images\/self\/IdaCBenedetto300x375.jpg",
+		"outputAbbreviatedPath": "\/images\/self\/IdaCBenedetto300x375.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/self\/S0A6719.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 334690,
+		"inputAbbreviatedPath": "\/images\/self\/S0A6719.jpg",
+		"outputAbbreviatedPath": "\/images\/self\/S0A6719.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/index.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/index.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
 		},
 	"\/js\/app.js": {
 		"fileType": 64,
@@ -109013,6 +109179,118 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/js\/slick\/slick-theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/slick\/slick-theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/slick\/slick-theme.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/slick\/slick-theme.less",
+		"outputAbbreviatedPath": "\/js\/css\/slick-theme.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/js\/slick\/slick-theme.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/slick\/slick-theme.scss",
+		"outputAbbreviatedPath": "\/stylesheets\/slick-theme.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/js\/slick\/slick.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/slick\/slick.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/slick\/slick.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/slick\/slick.js",
+		"outputAbbreviatedPath": "\/js\/slick\/min\/slick-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/slick\/slick.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/slick\/slick.less",
+		"outputAbbreviatedPath": "\/js\/css\/slick.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/js\/slick\/slick.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/slick\/slick.min.js",
+		"outputAbbreviatedPath": "\/js\/slick\/min\/slick.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/slick\/slick.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/slick\/slick.scss",
+		"outputAbbreviatedPath": "\/stylesheets\/slick.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
 		},
 	"\/js\/vendor\/fastclick.js": {
 		"fileType": 64,
@@ -109873,6 +110151,15 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/stylesheets\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheets\/slick.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/slick.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

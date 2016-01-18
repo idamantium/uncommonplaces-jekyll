@@ -22,3 +22,4 @@ image: /images/self/IdaBenedetto-ByShannonTaggart.jpg
 [The New York Times Says I'm Saving New York's Art Scene](http://www.nytimes.com/2014/12/28/nyregion/they-say-art-is-dead-in-new-york-theyre-wrong.html?_r=0)
 
 {% include email-signup.html %}
+

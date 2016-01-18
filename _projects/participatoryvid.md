@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Participatry Video Training
+title: Red Cros / Red Crescent Participatry Video Training
 permalink: /projects/participatoryvid/
 status: live
 short-description: I taught villagers in rural Ethiopia to make films about their efforts to mitigate the impact of climate change.
