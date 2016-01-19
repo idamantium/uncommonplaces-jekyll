@@ -15,7 +15,7 @@ Our clients included the United Nations Office for Disaster Risk Reduction, the 
 
 <a href="http://playistheantidote.com/" target="_blank" class="button small info">Visit the Website</a>
 
-<ul class="small-block-grid-2">
+<ul class="medium-block-grid-2 small-block-grid-1">
 
 <li>
 <img class="aligncenter size-full wp-image-3500" alt="Bottleneck02" src="{{ site.baseurl }}/images//2013/01/Bottleneck02.jpg" width="857" height="481" /> 

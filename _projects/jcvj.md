@@ -15,7 +15,7 @@ Teams were assigned a JCVD movie at random to use as inspiration. The 9 teams cr
 <a href="http://jeanclaudevanjam.com/" target="_blank" class="button small info">Visit the Website</a> <a href="https://vimeo.com/47872729" target="_blank" class="button small info">Watch the Final Presentations</a>
 
 
-<ul class="small-block-grid-2">
+<ul class="medium-block-grid-2 small-block-grid-1">
     <li>
 <img src="{{ site.baseurl }}/images//2013/01/12-08-17JCVJ012_o1.jpg" alt="12-08-17JCVJ012_o" width="864" height="576" class="alignnone size-full wp-image-2855" />
 </li>

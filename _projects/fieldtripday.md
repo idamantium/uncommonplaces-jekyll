@@ -7,7 +7,7 @@ short-description: I produced the New York launch event for Google's Niantic Lab
 small-image: /images//2013/01/120929-3313_o1.jpg
 ---
 
-<ul class="small-block-grid-2">
+<ul class="medium-block-grid-2 small-block-grid-1">
 <li>
 <img src="{{ site.baseurl }}/images//2013/01/120929-3360_o1.jpg"  />
 </li>

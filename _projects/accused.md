@@ -16,7 +16,7 @@ According to the Innocence Project, false confessions may be the single leading 
 <a href="http://playaccused.com" target="_blank" class="button small info">Play Accused</a> 
 <a href="http://www.openlawlab.com/2013/11/19/games-legal-complexities-interview-ida-benedetto/" target="_blank"  class="button small info">Interview: Standord's Open Law Lab</a>
 
-<ul class="small-block-grid-2">
+<ul class="medium-block-grid-2 small-block-grid-1">
 
 <li>
 <img class="block-th" src="{{ site.baseurl }}/images//2014/03/Accused03.png" />

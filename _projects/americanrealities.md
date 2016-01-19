@@ -20,7 +20,7 @@ I designed the Wordpress site to immerse visitors in the personal stories that j
 Natasha Del Toro, Journalist and Project Director, American Realities
 
 
-<ul class="small-block-grid-2">
+<ul class="medium-block-grid-2 small-block-grid-1 ">
 
 <li><img class="block-th" alt="New-Orleans---Plaquemines-Parish" src="{{ site.baseurl }}/images//2013/02/New-Orleans-Plaquemines-Parish-931x1024.jpg" /></li>
 

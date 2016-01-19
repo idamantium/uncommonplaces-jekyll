@@ -10,7 +10,7 @@ small-image: /images//2015/01/pennhills.jpg
 
 
 
-<ul class="small-block-grid-2">
+<ul class="medium-block-grid-2 small-block-grid-1">
 
 <li>
 <img src="{{ site.baseurl }}/images/projects/sextantworks/JR00925.jpeg" />
@@ -25,7 +25,8 @@ small-image: /images//2015/01/pennhills.jpg
 
 
 
-<ul class="small-block-grid-2">
+<ul class="medium-block-grid-2 small-block-grid-1">
+    
 <li>
 <img src="{{ site.baseurl }}/images/projects/sextantworks/13-10-03SnugHarborParty014.jpg" />
 </li>
