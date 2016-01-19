@@ -48,7 +48,7 @@
 
 .content {
 	float: right;
-	/* padding: 2em 3em 0; */
+	padding: 2em 3em 0;
 	min-height: 100vh;
 }
 
@@ -65,7 +65,7 @@
 	-webkit-border-radius: 35px;
 	-moz-border-radius: 35px;
 	background: url(/images/assets/trcks02sqSM.jpg) no-repeat;
-	margin: 0.1rem auto 0.1rem 0;
+	margin: 0.3rem auto 0.1rem 0;
 	}
 
 .top-bar-section ul li {
@@ -115,7 +115,7 @@ nav {
 @media only screen and (min-width: 120.063em) {
 
 .top-bar {
-	padding: 0.875rem 5rem;
+	padding: 0.575rem 3rem;
 
 }
 
@@ -168,10 +168,6 @@ nav {
 
 @media only screen and (min-width: 64.063em) and (max-width: 90em) {
 
-
-.top-bar {
-	padding: 0.875rem 3rem;
-}
 
 
 .circular {
@@ -496,7 +492,7 @@ blockquote em{
 
 li.project-link {
       display: block;
-      padding: 0.4375rem 0.875rem;
+      padding: 0.4375rem 0;
       transition-property: background-color, color;
  	  transition-duration: 0.2s;
     
