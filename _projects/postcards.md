@@ -98,6 +98,4 @@ Upon seeing my photographs of each community in exhibitions and informal albums,
 Funding for this project came from the <a href="http://www.newschool.edu/ici/" target="_blank">India China Institute</a>, the <a href="http://cdt.parsons.edu/" target="_blank">Parsons Communication Design + Technology Department</a>, the Parsons Student Senate, and the Eugene Lang Student Union. 
 Organizational support came from Darjeeling Ladenla Road Prerna in India and <a href="http://www.cafeconciencia.org/" target="_blank">Cafe Conciencia</a> in Guatemala. 
 <a href="http://maralminassian.com/" target="_blank">Maral Minassian</a> and <a href="http://www.imadethisthing.net/" target="_blank">Samuel Strick</a> designed the booklets.
-<a href="http://www.beehivecollective.org/">The Beehive Collective</a> and <a href="http://www.micropage.com/">Micropage</a> provided printing services. 
-<a href="http://www.fairtraderesource.org/" target="_blank">The Fair Trade Resource Network</a> funded and organized a touring an exhibition of the postcards in the United States.
 

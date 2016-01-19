@@ -6,9 +6,11 @@ status: featured
 short-description: The American Realities website is a media rich experience of documentary reporting on poverty in America. 
 small-image: /images//2013/02/americanrealities02-930xnarrow.jpg
 ---
-<img class="alignnone block-th" alt="americanrealities02" src="{{ site.baseurl }}/images//2013/02/americanrealities02.jpg"  />
 
 The American Realities website is a media rich experience of documentary reporting on poverty in America. 
+
+<img class="alignnone block-th" alt="americanrealities02" src="{{ site.baseurl }}/images//2013/02/americanrealities02.jpg"  />
+
 
 I designed the Wordpress site to immerse visitors in the personal stories that journalist Natasha del Toro and photographer Joakim Eskildsen gathered on their cross-country reporting for Time Magazine. Parallax scrolling, HTML5 media and a responsive layout make for a narratively rich experience that is compatible across devices. 
 

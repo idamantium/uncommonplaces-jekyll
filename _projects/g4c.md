@@ -9,7 +9,7 @@ small-image: /images//2013/01/6277693393b.jpg
 <img src="{{ site.baseurl }}/images//2013/01/games_for_change1.jpg" alt="games_for_change" width="1000" height="243" class="alignnone size-full wp-image-2814" />
 
 
-[Games for Change](http://www.gamesforchange.org/) is the leading advocate for games for social impact. For the 8th annual festival, I managed 30 hours of programming, produced the event schedule, coached speakers and oversaw the production team, designer and event staff. The Games for Change Festival is the largest gaming event in New York City and the only international event uniting "games for change" creators, the public, civil society, academia, the gaming industry and media.
+[Games for Change](http://www.gamesforchange.org/) is the leading advocate for games for social impact. For the 8th annual festival, I managed 30 hours of programming, produced the event schedule, coached speakers and oversaw the production team, designer and event staff. In addition to programming the event, I created a relational database of all speakers and game designers involved so that the organization could more smartly leverage their network going forward. The Games for Change Festival is the largest gaming event in New York City and the only international event uniting "games for change" creators, the public, civil society, academia, the gaming industry and media.
 
 <ul class="medium-block-grid-2 small-block-grid-1">
     <li>

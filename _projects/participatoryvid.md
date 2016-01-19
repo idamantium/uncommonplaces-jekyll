@@ -10,7 +10,7 @@ small-image: /images/projects/pv/pvethiopia07.png
 <a href="http://www.climatecentre.org/">The Red Cross/Red Crescent Climate Centre</a> asked me to teach participatory video to a community of farmers in north western Ethiopia. 
 
 
-<ul class="small-block-grid-2">
+<ul class="medium-block-grid-2 small-block-grid-1">
 
     <li>
 <img src="{{ site.baseurl }}/images/projects/pv/pvethiopia03.png" />
