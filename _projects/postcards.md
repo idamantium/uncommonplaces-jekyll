@@ -3,7 +3,7 @@ layout: project
 title: Postcards in Solidarity
 permalink: /projects/postcards/
 status: featured
-short-description: Farmers from Guatemala and India exchange messages inspired by photographs of their communities which share a history of armed conflict and now practice fair trade agriculture.
+short-description: A postcard dialogue between fair trade farmers on opposite sides of the globe
 small-image: /images//2013/01/07-01-09SApostcards25_o.jpg
 ---
 

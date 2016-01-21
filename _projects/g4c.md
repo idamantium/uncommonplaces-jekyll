@@ -3,8 +3,8 @@ layout: project
 title: Games For Change Festival
 permalink: /projects/g4c/
 status: live
-short-description: For the 8th annual Games For Change festival, I managed 30 hours of programming, produced the event schedule, coached speakers and oversaw the production team, designer and event staff.
-small-image: /images//2013/01/6277693393b.jpg
+short-description: Production of the largest games event in New York City
+small-image: /images//2013/01/6277693393b_narrow.jpg
 ---
 <img src="{{ site.baseurl }}/images//2013/01/games_for_change1.jpg" alt="games_for_change" width="1000" height="243" class="alignnone size-full wp-image-2814" />
 

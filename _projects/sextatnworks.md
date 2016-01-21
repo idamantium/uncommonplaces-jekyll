@@ -3,12 +3,9 @@ layout: project
 title: Sextantworks
 permalink: /projects/sextantworks/
 status: featured
-short-description: Sextantworks practices transgressive placemaking and experiential gift design through generosity, location and intimacy.
+short-description: The notorious collaboration of transgressive placemaking and experiential gift design
 small-image: /images//2015/01/pennhills.jpg
 ---
-
-
-
 
 <ul class="medium-block-grid-2 small-block-grid-1">
 

@@ -3,7 +3,7 @@ layout: project
 title: Google's Field Trip Day
 permalink: /projects/fieldtripday/
 status: live
-short-description: I produced the New York launch event for Google's Niantic Labs Field Trip app. The app turns any neighborhood into a museum with location based curated content.
+short-description: The New York launch event for Field Trip, an app from Google's Niantic Labs
 small-image: /images//2013/01/120929-3313_o1.jpg
 ---
 

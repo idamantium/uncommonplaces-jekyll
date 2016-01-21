@@ -3,9 +3,9 @@ layout: project
 title: Antidote Games
 permalink: /projects/antidote/
 status: live
-short-description: Antidote Games is a design studio I co-founded to create playful experiences for understanding complex realities.
+short-description: A design studio to create playful experiences for understanding complex realities
 
-small-image: /images//2013/01/HumansVMosquitoes04.jpg
+small-image: /images//2013/01/HumansVMosquitoes04_narrow.jpg
 ---
 <img  src="{{ site.baseurl }}/images//2013/01/Screen-Shot-2013-01-06-at-7.35.01-PM.png" />
 

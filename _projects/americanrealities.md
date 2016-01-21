@@ -2,8 +2,8 @@
 layout: project
 title: American Realities
 permalink: /projects/americanrealities/
-status: featured
-short-description: The American Realities website is a media rich experience of documentary reporting on poverty in America. 
+status: live
+short-description: A media-rich website of documentary reporting on poverty in America
 small-image: /images//2013/02/americanrealities02-930xnarrow.jpg
 ---
 

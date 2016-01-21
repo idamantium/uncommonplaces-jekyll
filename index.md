@@ -12,7 +12,7 @@ image: /images/self/IdaBenedetto-ByShannonTaggart.jpg
 [Speaking at BusinessWeek's Design Conference](http://www.bloomberg.com/businessweek/design-conference/)  
 
 
-####Recently:
+####Of Note:
   
 <span class="post-date">2015-2016</span>   
 [Graduate Research at SVA](http://designresearch.sva.edu/program/)  

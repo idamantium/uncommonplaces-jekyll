@@ -3,8 +3,8 @@ layout: project
 title: Jean-Claude Van Jam
 permalink: /projects/jcvj/
 status: live
-short-description: Jean-Claude Van Jam brought together game designers, artist and programmers to create games inspired by Jean-Claude Van Damme's expansive filmography.
-small-image: /images//2013/01/12-08-18JCVJ099_o1.jpg
+short-description: A game jam inspired by Jean-Claude Van Damme's expansive filmography
+small-image: /images//2013/01/12-08-18JCVJ099_narrow.jpg
 ---
 
 <img src="{{ site.baseurl }}/images//2013/01/logoA_600x245_12.png" alt="logoA_600x245_1" width="750" height="306" class="alignnone size-full wp-image-2863" />

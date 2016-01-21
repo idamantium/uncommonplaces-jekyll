@@ -3,7 +3,7 @@ layout: project
 title: The Cupcake Machine
 permalink: /projects/cupcake/
 status: live
-short-description: The Cupcake Machine is a playful experience about an engineering marvel lost, revived and tragically broken again.
+short-description: A playful experience about an engineering marvel lost, revived and tragically broken again
 small-image: /images//2013/02/CupcakeCircuit.jpg
 images:
 ---
