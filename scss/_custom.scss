@@ -110,6 +110,10 @@ nav {
 	font-family: $header-font-family;
 }
 
+a img {
+    border: 0px none;
+}
+
 
 
 @media only screen and (min-width: 120.063em) {
@@ -482,6 +486,7 @@ blockquote em{
 
 .project-link a {
 	color: $jet;
+	width: 100%;
 }
 
 .project-link h2 {
