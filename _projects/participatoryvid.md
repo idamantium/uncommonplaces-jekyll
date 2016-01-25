@@ -4,7 +4,7 @@ title: Red Cross / Red Crescent Participatry Video Training
 permalink: /projects/participatoryvid/
 status: live
 short-description: Workshops for Ethiopia farmers to tell their own stories of confronting climate change
-small-image: /images/projects/pv/pvethiopia07.png
+small-image: /images/projects/pv/pvethiopia07.jpg
 ---
 
 <a href="http://www.climatecentre.org/">The Red Cross/Red Crescent Climate Centre</a> asked me to teach participatory video to a community of farmers in north western Ethiopia. 
