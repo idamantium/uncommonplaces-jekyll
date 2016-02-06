@@ -9,7 +9,7 @@ image: /images/self/IdaBenedetto-ByShannonTaggart.jpg
 
 ####Upcoming:
 <span class="post-date">April 11th, 2016</span>  
-[Speaking at BusinessWeek's Design Conference](http://www.bloomberg.com/businessweek/design-conference/)  
+[Speaking at Businessweek's Design Conference](http://www.bloomberg.com/businessweek/design-conference/)  
 
 
 ####Of Note:
