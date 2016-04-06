@@ -15,7 +15,7 @@ image: /images/self/IdaBenedetto-ByShannonTaggart.jpg
 ####Of Note:
   
 <span class="post-date">2015-2016</span>   
-[Graduate Research at SVA](http://designresearch.sva.edu/program/)  
+["Designing Sex, Death, and Survival in the 21st Century"](/2016/04/sex-death-survival/)  
 <span class="post-date">January 11, 2016</span>    
 [Nieman Storyboard @ Harvard Quotes Me on Games](http://niemanstoryboard.org/stories/harnessing-the-power-of-video-games-for-journalism/)  
 <span class="post-date">December 26, 2014</span>   
