@@ -4,18 +4,16 @@ excerpt: Experience Designer, Media Strategist, Co-Founder Sextantworks
 image: /images/self/IdaBenedetto-ByShannonTaggart.jpg
 ---
 ### Ida C. Benedetto is an experience designer working in real world adventures, game design, and digital media. 
+  
 
-
-
-####Upcoming:
-<span class="post-date">April 11th, 2016</span>  
-[Speaking at Businessweek's Design Conference](http://www.bloomberg.com/businessweek/design-conference/)  
-
+  
+####Currently: 
+["Designing Sex, Death, and Survival in the 21st Century"](/2016/04/sex-death-survival/)  
 
 ####Of Note:
   
-<span class="post-date">2015-2016</span>   
-["Designing Sex, Death, and Survival in the 21st Century"](/2016/04/sex-death-survival/)  
+<span class="post-date">April 11th, 2016</span>  
+[Sextantworks Profiled in Businessweek](http://www.bloomberg.com/features/2016-design/a/ida-benedetto/)   
 <span class="post-date">January 11, 2016</span>    
 [Nieman Storyboard @ Harvard Quotes Me on Games](http://niemanstoryboard.org/stories/harnessing-the-power-of-video-games-for-journalism/)  
 <span class="post-date">December 26, 2014</span>   
