@@ -2,7 +2,6 @@
 layout: project
 title: Games For Change Festival
 permalink: /projects/g4c/
-status: live
 short-description: Production of the largest games event in New York City
 small-image: /images//2013/01/6277693393b_narrow.jpg
 ---
