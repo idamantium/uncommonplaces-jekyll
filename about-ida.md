@@ -20,15 +20,15 @@ I advises documentary and educational organizations like:
 * <a href="http://theheartradio.org/" target="_blank">The Heart Radio</a>, a podcast about love and intimacy on the Radiotopia network
 * <a title="School For Poetic Computation" href="http://sfpc.io/" target="_blank">The School for Poetic Computation</a>, an artist run school about the intersection of code, design, hardware and theory
 
-I also teach workshops on media and design and give talks at venues like the Tribeca Film Festival and Businessweek's Deign Conference. 
+I also teach workshops on media and design and give talks at venues like the Tribeca Film Festival and Businessweek's Design Conference. 
 
 <h3 class="subheader">Formerly</h3>
 
 I've co­founded two design outfits: [Sextantworks](http://sextantworks.com/), which orchestrated adventures in places you aren’t supposed to be, and [Antidote Games](http://playistheantidote.com/), which creates playful experiences for understanding complex realities. 
 
-Sextantworks functioned like a mix between a design studio and a Burning Man camp, creating dozens of site-specific adventures in New York City and abroad over the course of three and a half years. I organized the scattershot exploits of intrepid underground creatives into a design methodology that drilled into the historical nature of unloved and overlooked locations. We created experiences that embraced place and transform people's understanding of the built environment. Our most famous project was a speakeasy in a dry water tower in Chealea, Manhattan. We garnered a fair bit of attention in the press for our daring exploits, attracting high-end, private commissions, among other client work. 
+[Sextantworks](http://sextantworks.com/) functioned like a mix between a design studio and a Burning Man camp, creating dozens of site-specific adventures in New York City and abroad over the course of three and a half years. I organized the inspired exploits of intrepid underground creatives into a design methodology that drilled into the historical nature of unloved and overlooked places. We transformed people's sense of risk and possibility in the built environment. Our most famous project was a speakeasy in a dry water tower in Chelsea, Manhattan. We garnered a fair bit of attention in the press, attracting high-end, private commissions, among other client work.  
 
-Antidote Games caters to humanitarian organizations and NGOs like the International Federation of the Red Cross, the African Climate Change Resilience Network, and the Innocence Project, making games that convey unfamiliar realities so players can understand why people make the decisions that they do. I worked with Antdote for the first two years of its existence, leading client relations and establishing the design workflow. 
+[Antidote Games](http://playistheantidote.com/) caters to humanitarian organizations and NGOs like the International Federation of the Red Cross, the African Climate Change Resilience Network, and the Innocence Project, making games that convey unfamiliar realities so players can understand why people make the decisions that they do. I worked with Antidote for the first two years of its existence, leading client relations and establishing the design workflow.  
 
 Before founding the above-mentioned design entities, I traveled compulsively doing documentary projects and collaborative media production in Guatemala, India, and Brazil, and pursued a Fulbright-funded project in Ethiopia. 
 
