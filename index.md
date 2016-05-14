@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: Experience Designer, Media Strategist, Co-Founder Sextantworks
-image: /images/self/IdaBenedetto-ByShannonTaggart.jpg
+excerpt: Experience Designer & Media Strategist
+image: /images/self/DanielShea-IdaCBenedetto.jpg
 ---
 ### Ida C. Benedetto is an experience designer working in real world adventures, game design, and digital media. 
   
