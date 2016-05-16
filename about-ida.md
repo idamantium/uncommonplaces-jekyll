@@ -1,5 +1,5 @@
 ---
-title: About Ida
+title: About
 author: ida
 layout: about
 image: /images/self/Businessweek-Peter-Prato(vert).jpg
@@ -8,7 +8,7 @@ page-title: Ida C. Benedetto
 
 ###Experience Designer & Media Strategist
 
-I believe in storytelling, empathy, and adventure. They spark the creativity to make us better people and a better society. As an experience designer and media strategist, I will get you doing and discovering things you might not otherwise. I'm often at the helm of a fair bit of creative chaos, be it with a film collective of AIDS orphans in Ethiopia or a punk rock video game gallery in New York City. I bring on order for the sake of greater stability and impact. My creative roots lie in documentary photography, and my current work involves games and real world adventures. 
+I believe in storytelling, empathy, and adventure. They spark the creativity to make us better people and a better society. As an experience designer and media strategist, I will get you doing and discovering things you might not otherwise. I'm often at the helm of a fair bit of creative chaos, be it with a film collective of AIDS orphans in Ethiopia or a punk rock video game gallery in New York City. I accentuate potential for the sake of greater impact and stability. My creative roots lie in documentary photography, and my current work involves games and real world adventures. 
 
 <h3 class="subheader">Currently</h3>
 
