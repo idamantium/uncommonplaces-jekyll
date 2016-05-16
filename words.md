@@ -13,7 +13,7 @@ page-title: Words
 
 ###Reflections of Educational Expereinces###
 SVA Design Research MA <span class="post-date">2016</span>  
-[NOLS Wilderness WEMT](/2015/08/wilderness-emt/) <span class="post-date">2015</span>  
+[NOLS Wilderness EMT](/2015/08/wilderness-emt/) <span class="post-date">2015</span>  
 [The School For Poetic Computation](/2014/06/school-poetic-computation/) <span class="post-date">2014</span>  
 
 ###Talks###
