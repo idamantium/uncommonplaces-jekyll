@@ -20,7 +20,7 @@ I advises documentary and educational organizations like:
 * <a href="http://theheartradio.org/" target="_blank">The Heart Radio</a>, a podcast about love and intimacy on the Radiotopia network
 * <a title="School For Poetic Computation" href="http://sfpc.io/" target="_blank">The School for Poetic Computation</a>, an artist run school about the intersection of code, design, hardware and theory
 
-I also teach workshops on media and design and give talks at venues like the Tribeca Film Festival and Businessweek's Design Conference. 
+I also teach workshops on media, design, and exploration and give talks at venues like the Tribeca Film Festival and Businessweek's Design Conference. 
 
 <h3 class="subheader">Formerly</h3>
 
