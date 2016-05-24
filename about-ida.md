@@ -14,11 +14,11 @@ I believe in storytelling, empathy, and adventure. They spark the creativity to 
 
 Through graduate work at the School of Visual Arts's <a href="http://designresearch.sva.edu/program/" target="_blank">Design Research Program</a>, I'm exploring the design components of [transformative social experiences](/2016/04/sex-death-survival/).
 
-I advises documentary and educational organizations like:
+I advise documentary and educational organizations like:
 
 * <a href="http://magnumfoundation.org/photoex/" target="_blank">Photography, Expanded</a>, an initiative of the Magnum Foundation inspiring documentary photographers to extend their storytelling practice beyond the still image
 * <a href="http://theheartradio.org/" target="_blank">The Heart Radio</a>, a podcast about love and intimacy on the Radiotopia network
-* <a title="School For Poetic Computation" href="http://sfpc.io/" target="_blank">The School for Poetic Computation</a>, an artist run school about the intersection of code, design, hardware and theory
+* <a title="School For Poetic Computation" href="http://sfpc.io/" target="_blank">The School for Poetic Computation</a>, an artist-run school about the intersection of code, design, hardware, and theory
 
 I also teach workshops on media, design, and exploration and give talks at venues like the Tribeca Film Festival and Businessweek's Design Conference. 
 
