@@ -8,7 +8,7 @@ permalink: /2016/05/businessweek-design-conference/
 ---
 
 <div class="flex-video">
-<iframe src="https://player.vimeo.com/video/162730054" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="http://www.bloomberg.com/api/embed/iframe?id=XlY7_EC5R7yiKXIzQqAs0A" allowscriptaccess="always" frameborder="0"></iframe>
 
 </div>
 

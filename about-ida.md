@@ -12,7 +12,7 @@ I believe in storytelling, empathy, and adventure. They spark the creativity to 
 
 <h3 class="subheader">Currently</h3>
 
-Through graduate work at the School of Visual Arts's <a href="http://designresearch.sva.edu/program/" target="_blank">Design Research Program</a>, I'm exploring the design components of [transformative social experiences](/2016/04/sex-death-survival/).
+I'm exploring the design components of [transformative social experiences](/2016/04/sex-death-survival/). My research started through graduate work at the School of Visual Arts's <a href="http://designresearch.sva.edu/program/" target="_blank">Design Research Program</a>.
 
 I advise documentary and educational organizations like:
 
