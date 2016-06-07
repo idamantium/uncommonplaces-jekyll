@@ -11,7 +11,7 @@ page-title: Words
 [Notes on Gift Giving](/2013/05/notes-on-gift-giving/) <span class="post-date">2013</span>  
 [Transported by Wanderlust](2013/04/transported-by-wanderlust-projects/) <span class="post-date">2013</span>  
 
-###Reflections of Educational Expereinces###
+###Reflections on Educational Expereinces###
 SVA Design Research MA <span class="post-date">2016</span>  
 [NOLS Wilderness EMT](/2015/08/wilderness-emt/) <span class="post-date">2015</span>  
 [The School For Poetic Computation](/2014/06/school-poetic-computation/) <span class="post-date">2014</span>  
