@@ -20,7 +20,7 @@ I advise documentary and educational organizations like:
 * <a href="http://theheartradio.org/" target="_blank">The Heart Radio</a>, a podcast about love and intimacy on the Radiotopia network
 * <a title="School For Poetic Computation" href="http://sfpc.io/" target="_blank">The School for Poetic Computation</a>, an artist-run school about the intersection of code, design, hardware, and theory
 
-I also teach workshops on media, design, and exploration and give talks at venues like the Tribeca Film Festival and Businessweek's Design Conference. 
+I also teach workshops on media and design, and I give talks at venues like the Tribeca Film Festival and [Businessweek's Design Conference](/2016/05/businessweek-design-conference/). 
 
 <h3 class="subheader">Formerly</h3>
 
@@ -32,6 +32,6 @@ I've co­founded two design outfits: [Sextantworks](http://sextantworks.com/), w
 
 Before founding the above-mentioned design entities, I traveled compulsively doing documentary projects and collaborative media production in Guatemala, India, and Brazil, and pursued a Fulbright-funded project in Ethiopia. 
 
-As for schooling, I have an MA in Design Research from the School of Visual Arts, a BFA in Design & Technology from Parsons and a BA in History from The New School University.
+As for schooling, I have an MA in Design Research from the School of Visual Arts, a BFA in Design & Technology from Parsons, and a BA in History from The New School University.
 
 Of all my accomplishments, few will top being voted &#8220;Most Likely to Discover Time Travel&#8221; by my junior high classmates.
