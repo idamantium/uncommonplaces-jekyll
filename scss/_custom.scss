@@ -1,46 +1,6 @@
 /****************** custom styles *******************/
 
 
-// Side Navigation, 
-// --- fixed in to the right for large and medium layouts
-// --- above for small layouts
-
-/* - commented out 1/16/16 to reposition navigation
-
-.sidebar {
-		position: fixed; 
-		top: 0;
-		bottom: 0;
-		text-align: right;
-		margin-top: 30%;
-		list-style: none;
-
-	}
-
-.side-nav li {
-	margin: 0.2rem 0;
-    font-size: 1.1rem;
-    font-family: $header-font-family;
-
-    	li a:not(.button) {
-	padding: 0;
-	}
-}
-
-
-.top-bar li { 
-	 margin: 0.2rem 0; 
-    font-size: 1.1rem;
-    font-family: $header-font-family;
-
-    	li a:not(.button) {
-	padding: 0;
-	}
-}
-
-
-*/
-
 .wrapper {
 
 	margin-top: 5rem;
@@ -338,6 +298,8 @@ position: static;
 
 
 }
+
+
 
 blockquote {
     padding: 15px 20px 15px 30px;
