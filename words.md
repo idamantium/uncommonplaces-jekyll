@@ -5,7 +5,7 @@ layout: default
 page-title: Words
 ---
 
-###Miscelanious Essays###
+###Miscellaneous Essays###
 [The Diagrams](/2016/01/the-diagrams/) <span class="post-date">2016</span>  
 [Moving From Wordpress to Jekyll](/2015/04/move-to-jekyll/) <span class="post-date">2015</span>  
 [Wanderlust's Foiled Goodbye to the Borscht Belt](/2014/06/wanderlust-borscht-belt-kutchers/) <span class="post-date">2014</span>  
