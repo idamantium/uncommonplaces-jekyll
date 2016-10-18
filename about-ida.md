@@ -16,7 +16,7 @@ My big undertaking at the moment is an exploration of the design of [transformat
 
 I advise documentary and educational organizations, including <a href="http://theheartradio.org/" target="_blank">The Heart Radio</a>, a podcast about love and intimacy on the Radiotopia network, <a href="http://magnumfoundation.org/photoex/" target="_blank">Photography, Expanded</a>, an initiative of the Magnum Foundation to inspire documentary photographers to extend their storytelling practice beyond the still image and <a title="School For Poetic Computation" href="http://sfpc.io/" target="_blank">The School for Poetic Computation</a>, an artist-run school about the intersection of code, design, hardware, and theory.   
 
-I give talks at venues like the Tribeca Film Festival and [Businessweek's Design Conference](/2016/05/businessweek-design-conference/), and I teach for organizations like the Oculus DevLab and Virgina Commonwealth University.  
+I give talks at venues like the Tribeca Film Festival and [Businessweek's Design Conference](/2016/05/businessweek-design-conference/), and I teach for organizations like the Red Cross and Virgina Commonwealth University.  
 
 <h3 class="subheader">Formerly</h3>
 
