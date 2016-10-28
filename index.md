@@ -10,7 +10,7 @@ image: /images/self/DanielShea-IdaCBenedetto.jpg
 
 ####Of Note:
 <span class="post-date">October 28th, 2016</span>   
-[VR DevLab by from Oculus & Kaleidoscope Invites Me to Teach](http://kaleidovr.com/2016devlab)   
+[VR DevLab by Oculus & Kaleidoscope Invites Me to Teach](http://kaleidovr.com/2016devlab)   
 <span class="post-date">September 7nd, 2016</span>  
 [NEW INC Accepts Me as a Researcher-in-Residence](http://www.newinc.org/blog-post/new-inc-year-3)  
 <span class="post-date">June 2nd, 2016</span>  
