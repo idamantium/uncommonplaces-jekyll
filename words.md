@@ -18,7 +18,7 @@ SVA Design Research MA <span class="post-date">2016</span>
 [The School For Poetic Computation](/2014/06/school-poetic-computation/) <span class="post-date">2014</span>  
 
 ###Talks###
-[Businessweek's Design Conference](/2016/05/businessweek-design-conference/) <span class="post-date">2016</span>  
+[Businessweek's Design Conference](http://www.bloomberg.com/news/videos/2016-06-02/bloomberg-businessweek-design-2016-ida-benedetto) <span class="post-date">2016</span>  
 Tribeca Film Festival <span class="post-date">2015</span>  
 
 ###Annual Reviews###
