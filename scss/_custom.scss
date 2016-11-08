@@ -104,16 +104,25 @@ a img {
 }
 
 
+.words .post-header {
+
+
+}
+
+.words .post-content {
+
+	
+}
+
+
 }
 
 @media only screen and (min-width: 90.063em) and (max-width: 120em) {
-/*
 
 .top-bar {
 	padding: 0.875rem 5rem;
 }
 
-*/
 
 
 
@@ -156,6 +165,9 @@ a img {
 
 @media only screen and (min-width: 40.063em) and (max-width: 64em) { 
 
+.top-bar { 
+	padding: 0.875rem 3rem;
+}
 
 .project-image {
 	height: 200px;
@@ -183,6 +195,10 @@ a img {
 
 
 @media only screen and (max-width: 40em) {
+
+.top-bar { 
+	padding: 0.875rem 3rem;
+}
 
 .top-bar-section ul li {
     float: left;

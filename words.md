@@ -13,7 +13,7 @@ page-title: Words
 [Transported by Wanderlust](2013/04/transported-by-wanderlust-projects/) <span class="post-date">2013</span>  
 
 ###Reflections on Educational Expereinces###
-SVA Design Research MA <span class="post-date">2016</span>  
+[SVA Design Research MA](/2016/11/sva-design-research/) <span class="post-date">2016</span>  
 [NOLS Wilderness EMT](/2015/08/wilderness-emt/) <span class="post-date">2015</span>  
 [The School For Poetic Computation](/2014/06/school-poetic-computation/) <span class="post-date">2014</span>  
 
