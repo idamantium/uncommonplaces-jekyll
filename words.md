@@ -5,6 +5,10 @@ layout: default
 page-title: Words
 ---
 
+###Resources###
+[FAQ](/faq.html)   
+Reading List
+
 ###Miscellaneous Essays###
 [The Diagrams](/2016/01/the-diagrams/) <span class="post-date">2016</span>  
 [Moving From Wordpress to Jekyll](/2015/04/move-to-jekyll/) <span class="post-date">2015</span>  

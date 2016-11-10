@@ -12,8 +12,6 @@ tags:
 ---
 This post links to most of the work I did over the past year as a Fulbrighter in Ethiopia (October 2009 &#8211; August 2010). While it will take some time to fully digest my experiences there, summarizing my work in one place serves to bookend that adventure.  The past month and a half back home in NYC has been an energetic leap toward new projects as I reconnect with friends and look for paid work.  Before I jump headlong into independent games and digital media strategy and art happenings, let me take stock of what I worked on over the past year.
 
-<!--more-->
-
 <span style="text-decoration: underline;">Sudden Flowers Productions</span>
 
 My primary project in Addis Ababa entailed working with [Sudden Flowers Productions][1], a youth film collective of AIDS orphans. I went to Ethiopia with the intention of studying the collective, focusing specifically on the [impact that their creative work had on their sense of self and role in their community][2].  Sudden Flowers was much more interested in having me teach though, so I taught twice weekly lessons in [digital design and interactive media][3].  My favorite moment was when, upon explaining [a game][4] that initially baffled the group, [Adane][5] chimed in with this realization that &#8220;you make the story happen by playing it.&#8221; It was so gratifying to help them wrap their heads around new cultural forms and create some themselves.  Together we produced a website about their contributions to the 9th anniversary of the orphanage many of them call home.  The project is call *[A Talent No One Knew We Had][6]*.  After all the gaming and coding, Sudden Flowers wanted to get back to filmmaking for a little.  I helped them [fundraise for their new film on Kickstarter][7].  Contributors were treated to weekly letter from the collective on the progress of the film and a copy of the finished work.
@@ -39,23 +37,23 @@ Shortly after I finished the Fulbright, the [Climate Center of the International
 And when things were slow, I worked on photo essays.  [Shegar FM is Ethiopia&#8217;s first independent radio station][18].  [T&H Designs is a jewelry design and training business][19] by two young talented designers who are identical twins.  [One Laptop Per Child is distributing laptops][20] to a few grade schools in Ethiopia. I vented my frustrations with the sexism I encountered in Addis by [photographing discarded used condoms][21].
 
  [1]: http://www.suddenflowers.org/
- [2]: http://blog.idaimages.com/2010/01/18/theater-as-catharsis-in-grappling-with-hivaids/
- [3]: http://blog.idaimages.com/2009/12/13/first-encounter-with-olpc/
+ [2]: /2010-01-18-theater-as-catharsis-in-grappling-with-hivaids/
+ [3]: /2009-12-13-first-encounter-with-olpc/
  [4]: http://portfolio.idaimages.com/#70175/Atlantean-Adrift
  [5]: http://www.idaimages.com/SF/talent/adane.html
- [6]: http://blog.idaimages.com/2010/06/20/new-project-live-a-talent-no-one-knew-we-had/
- [7]: http://blog.idaimages.com/2010/06/05/fund-sudden-flowers-next-film/
+ [6]: /2010/06/20/new-project-live-a-talent-no-one-knew-we-had/
+ [7]: /2010/06/05/fund-sudden-flowers-next-film/
  [8]: http://www.videochallenge.america.gov/
- [9]: http://blog.idaimages.com/2010/03/30/democracy-video-challenge-ethiopian-semifinalist/
- [10]: http://blog.idaimages.com/2010/02/09/seeds-for-an-ethiopian-photo-curriculum/
- [11]: http://blog.idaimages.com/2010/03/11/visual-literacy-and-photography-series-at-aau/
+ [9]: /2010/03/30/democracy-video-challenge-ethiopian-semifinalist/
+ [10]: /2010/02/09/seeds-for-an-ethiopian-photo-curriculum/
+ [11]: /2010/03/11/visual-literacy-and-photography-series-at-aau/
  [12]: http://www.internews.org/regions/africa/ethiopia.shtm
- [13]: http://blog.idaimages.com/2010/05/19/thoughts-on-informed-consent-photojournalism/
- [14]: http://blog.idaimages.com/2010/07/14/a-light-in-a-shadow-internews-exhibit-catalog/
+ [13]: /2010/05/19/thoughts-on-informed-consent-photojournalism/
+ [14]: /2010/07/14/a-light-in-a-shadow-internews-exhibit-catalog/
  [15]: http://www.climatecentre.org/
  [16]: http://en.wikipedia.org/wiki/Participatory_Video
  [17]: http://www.flickr.com/photos/76664227@N00/sets/72157625014581091/
- [18]: http://blog.idaimages.com/2009/12/12/sheger-fm/
- [19]: http://blog.idaimages.com/2010/08/28/double-blessing-double-talent/
- [20]: http://blog.idaimages.com/2010/09/17/olpc-ethiopia/
- [21]: http://blog.idaimages.com/2010/06/04/photo-essay-used-condoms/
+ [18]: /2009/12/12/sheger-fm/
+ [19]: /2010/08/28/double-blessing-double-talent/
+ [20]: /2010/09/olpc-ethiopia/
+ [21]: /2010-06-04-photo-essay-used-condoms/
