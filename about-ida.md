@@ -31,3 +31,5 @@ Before founding the above-mentioned design entities, I traveled compulsively doi
 As for schooling, I have an MA in Design Research from the School of Visual Arts, a BFA in Design & Technology from Parsons, and a BA in History from The New School University.
 
 Of all my accomplishments, few will top being voted &#8220;Most Likely to Discover Time Travel&#8221; by my junior high classmates.
+
+For more, try the [FAQs](/faq.html).

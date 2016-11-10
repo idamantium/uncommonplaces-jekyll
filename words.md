@@ -6,7 +6,7 @@ page-title: Words
 ---
 
 ###Resources###
-[FAQ](/faq.html)   
+[FAQs](/faq.html)   
 Reading List
 
 ###Miscellaneous Essays###
