@@ -29,7 +29,7 @@ Antidote Games is [alive and kicking](http://www.playistheantidote.com/). My co-
    
 ###Whatever happened to your experience design practice Sextantworks?
 
-[Sextantworks](http://sextant.works/) closed down in mid-2016 after four busy, successful years. It was a wild ride. The highs were as high as the lows were low, and I grew a lot through the process. Eventually the interests of me and me co-founder N.D. Austin diverged, so we disbanded. Through it all, we assembled a dedicated, unconventional team. I can only dream of working with such an inspiring group of oddball creatives again in the future.  
+[Sextantworks](http://sextant.works/) closed down in mid-2016 after four busy, successful years. It was a wild ride. The road was as thrilling as it was bumpy, and I grew a lot through the process. Eventually the interests of me and me co-founder N.D. Austin diverged, so we disbanded. Through it all, we assembled a dedicated, unconventional team. I can only dream of working with such an inspiring group of oddball creatives again in the future.  
 
 Many of you have expressed disappointment at Sextantworks closing down. Thank you for the love and appreciation. While it was sad to close up shop, I am deeply gratified applying everything I learned to broader endeavors with an eye toward sustained impact. 
 
@@ -43,16 +43,17 @@ Yes, yes, and no.
    
 ###Do you still design adventures?
 
-I've been focused on research lately, but I am working on few private adventures. 
+I've been focused on research and consulting lately, but I am working on few private adventures. 
    
    
 ###I think the Night Heron is just the coolest. Can you come do a talk about it or make me a hipper than hip marketing thing based on it?
 
-I'm happy to speak about [The Night Heron](http://nightheronspeakeasy.com/) in the context of Sextantworks' practice generally, but I'm more interest in speaking about my [current research](/2016/04/sex-death-survival/). (Organizations like IDEO, Oculus, Kaleidoscope, and littleBits have had me in for talks.) 
+I'm happy to speak about [the Night Heron](http://nightheronspeakeasy.com/) in the context of Sextantworks' practice generally, but I'm more interest in speaking about my [current research](/2016/04/sex-death-survival/). (Organizations like IDEO, Oculus, Kaleidoscope, and littleBits have had me in for talks.) 
+
+If you want a custom bar designed and built, contact <a href="http://dirby.info/">Dirby</a>, the Night Heron's lead craftsman and a regular creative superhero at Sextantworks. I can't recommend his work enough.
 
 If you just want to get in on the Night Heron craze, N.D. is your man. <a href="mailto:imbibe@nightheronspeakeasy.com">Drop him a line</a>.
 
-If you want a custom bar designed and built, contact <a href="http://dirby.info/">Dirby</a>, the Night Heron's lead craftsman and a regular creative superhero at Sextantworks. I can't recommend his work enough.
    
    
 ###I'm dreaming up this super great project that just needs a killer location. Can you help?
@@ -67,7 +68,7 @@ Now you're talking. <a href="mailto:&#105;&#100;&#097;&#064;&#117;&#110;&#099;&#
    
 ###What else can I hire you for?
 
-My work schedule is spoken for through at least the end of 2017, possibly longer. I take on a limited number of consulting and design contracts if the project is a great fit with a clear, specific scope. I'm always open to giving a talk or teaching. <a href="mailto:&#105;&#100;&#097;&#064;&#117;&#110;&#099;&#111;&#109;&#109;&#111;&#110;&#112;&#108;&#097;&#099;&#101;&#115;&#046;&#099;&#111;&#109;">Please get in touch.</a>
+My work schedule is spoken for through the beginning of 2018, possibly longer. Before then, I will consider consulting and design projects that are a great fit with a clear, specific scope. I'm always open to giving a talk or teaching. <a href="mailto:&#105;&#100;&#097;&#064;&#117;&#110;&#099;&#111;&#109;&#109;&#111;&#110;&#112;&#108;&#097;&#099;&#101;&#115;&#046;&#099;&#111;&#109;">Please get in touch.</a>
    
    
 ###How can I help with your current work?

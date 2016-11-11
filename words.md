@@ -9,6 +9,12 @@ page-title: Words
 [FAQs](/faq.html)   
 Reading List
 
+###Reflections on Educational Expereinces###
+[SVA Design Research MA](/2016/11/sva-design-research/) <span class="post-date">2016</span>  
+[NOLS Wilderness EMT](/2015/08/wilderness-emt/) <span class="post-date">2015</span>  
+[The School For Poetic Computation](/2014/06/school-poetic-computation/) <span class="post-date">2014</span>  
+
+
 ###Miscellaneous Essays###
 [The Diagrams](/2016/01/the-diagrams/) <span class="post-date">2016</span>  
 [Moving From Wordpress to Jekyll](/2015/04/move-to-jekyll/) <span class="post-date">2015</span>  
@@ -16,12 +22,8 @@ Reading List
 [Notes on Gift Giving](/2013/05/notes-on-gift-giving/) <span class="post-date">2013</span>  
 [Transported by Wanderlust](2013/04/transported-by-wanderlust-projects/) <span class="post-date">2013</span>  
 
-###Reflections on Educational Expereinces###
-[SVA Design Research MA](/2016/11/sva-design-research/) <span class="post-date">2016</span>  
-[NOLS Wilderness EMT](/2015/08/wilderness-emt/) <span class="post-date">2015</span>  
-[The School For Poetic Computation](/2014/06/school-poetic-computation/) <span class="post-date">2014</span>  
 
-###Talks###
+###Public Talks###
 [Businessweek's Design Conference](http://www.bloomberg.com/news/videos/2016-06-02/bloomberg-businessweek-design-2016-ida-benedetto) <span class="post-date">2016</span>  
 Tribeca Film Festival <span class="post-date">2015</span>  
 
