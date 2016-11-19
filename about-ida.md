@@ -12,13 +12,13 @@ I believe in storytelling, empathy, and adventure. They spark the creativity to 
 
 <h3 class="subheader">Currently</h3>
 
-As a Senior Designer at <a href="https://www.sypartners.com/" target="_blank">SYPartners</a>, I create systems of human-led, purpose-driven transformation at the individual and orgnaizational level to propogate large scale, positive impact in society.   
+As a Senior Designer at <a href="https://www.sypartners.com/" target="_blank">SYPartners</a>, I create systems of human-led, purpose-driven transformation at the individual and organizational level to propagate large-scale, positive impact in society.   
 
 Independently, I'm exploring the design of [transformative social experiences](/2016/04/sex-death-survival/) by comparing sex parties, funeral, and wilderness trips. The research started through graduate work at the School of Visual Arts's <a href="http://designresearch.sva.edu/program/" target="_blank">Design Research Program</a>. I'm a Researcher-in-Residence at <a href="http://www.newinc.org/"  target="_blank">NEW INC</a> and a member of <a href="http://orbital.nyc/"  target="_blank">Orbital</a>.
 
 I advise documentary and educational organizations, including <a href="http://theheartradio.org/" target="_blank">The Heart Radio</a>, a podcast about love and intimacy on the Radiotopia network, <a href="http://magnumfoundation.org/photoex/" target="_blank">Photography, Expanded</a>, an initiative of the Magnum Foundation to inspire documentary photographers to extend their storytelling practice beyond the still image, and <a title="School For Poetic Computation" href="http://sfpc.io/" target="_blank">The School for Poetic Computation</a>, an artist-run school about the intersection of code, design, hardware, and theory.   
 
-I give talks at venues like the Tribeca Film Festival and [Businessweek's Design Conference](http://www.bloomberg.com/news/videos/2016-06-02/bloomberg-businessweek-design-2016-ida-benedetto), and I teach for organizations like [Virgina Commonwealth University](https://github.com/idamantium/ExperienceDesign) and the [VR DevLab by Oculus & Kaleidescop](http://kaleidovr.com/2016devlab).  
+I give talks at venues like the Tribeca Film Festival and [Businessweek's Design Conference](http://www.bloomberg.com/news/videos/2016-06-02/bloomberg-businessweek-design-2016-ida-benedetto), and I teach for organizations like [Virgina Commonwealth University](https://github.com/idamantium/ExperienceDesign) and the [VR DevLab by Oculus & Kaleidoscope](http://kaleidovr.com/2016devlab).  
 
 <h3 class="subheader">Formerly</h3>
 

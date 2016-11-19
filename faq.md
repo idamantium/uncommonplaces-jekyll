@@ -33,7 +33,7 @@ Antidote Games is [alive and kicking](http://www.playistheantidote.com/). My co-
 
 Many of you have expressed disappointment at Sextantworks closing down. Thank you for the love and appreciation. While it was sad to close up shop, I am deeply gratified applying everything I learned to broader endeavors with an eye toward sustained impact. 
 
-Sextantworks' expedition tools went with the daring and mysterious N.D.. He's still making magical adventures, so <a href="mailto:imbibe@nightheronspeakeasy.com">reach out to him</a> if you want in.   
+Sextantworks' expedition equipment went with the daring and mysterious N.D.. He's still making magical adventures, so <a href="mailto:imbibe@nightheronspeakeasy.com">reach out to him</a> if you want in.   
    
    
 ###Is it true that Sextantworks orchestrated a huge secret project in New York Harbor? And in wintry Iceland? Can you tell me more?
@@ -48,7 +48,7 @@ I've been focused on research and consulting lately, but I am working on few pri
    
 ###I think the Night Heron is just the coolest. Can you come do a talk about it or make me a hipper than hip marketing thing based on it?
 
-I'm happy to speak about [the Night Heron](http://nightheronspeakeasy.com/) in the context of Sextantworks' practice generally, but I'm more interest in speaking about my [current research](/2016/04/sex-death-survival/). (Organizations like IDEO, Oculus, Kaleidoscope, and littleBits have had me in for talks.) 
+I'm happy to speak about [the Night Heron](http://sextant.works/nightheron) in the context of Sextantworks' practice generally, but I'm more interest in speaking about my [current research](/2016/04/sex-death-survival/). (Organizations like IDEO, Oculus, Kaleidoscope, and littleBits have had me in for talks.) 
 
 If you want a custom bar designed and built, contact <a href="http://dirby.info/">Dirby</a>, the Night Heron's lead craftsman and a regular creative superhero at Sextantworks. I can't recommend his work enough.
 
