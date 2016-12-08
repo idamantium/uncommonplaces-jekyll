@@ -24,12 +24,12 @@ Nope. [Performance artists](https://en.wikipedia.org/wiki/Performance_art) make 
     
 ###Whatever happened to your game design consultancy Antidote?
 
-Antidote Games is [alive and kicking](http://www.playistheantidote.com/). My co-founders Mohini Dutta and Ben Norskov kept carrying the torch after I moved on. They are super smart and talented. Definitely [hit them up](mailto:hello@playistheantidote.com) for game design services. 
+Antidote Games is [alive and kicking](http://www.playistheantidote.com/). My co-founders Mohini Dutta and Ben Norskov kept carrying the torch after I moved on. Don't hesitate to [hit them up](mailto:hello@playistheantidote.com) for game design services. 
    
    
 ###Whatever happened to your experience design practice Sextantworks?
 
-[Sextantworks](http://sextant.works/) closed down in mid-2016 after four busy, successful years. It was a wild ride. The road was as thrilling as it was bumpy, and I grew a lot through the process. Eventually the interests of me and me co-founder N.D. Austin diverged, so we disbanded. Through it all, we assembled a dedicated, unconventional team. I can only dream of working with such an inspiring group of oddball creatives again in the future.  
+[Sextantworks](http://sextant.works/) closed down in mid-2016 after nearly four busy, successful years. It was a wild ride. The road was as thrilling as it was bumpy, and I grew a lot through the process. Eventually the interests of me and me co-founder N.D. Austin diverged, so we disbanded. Through it all, we assembled a dedicated, unconventional team. I can only dream of working with such an inspiring group of oddball creatives again in the future.  
 
 Many of you have expressed disappointment at Sextantworks closing down. Thank you for the love and appreciation. While it was sad to close up shop, I am deeply gratified applying everything I learned to broader endeavors with an eye toward sustained impact. 
 
@@ -68,7 +68,7 @@ Now you're talking. <a href="mailto:&#105;&#100;&#097;&#064;&#117;&#110;&#099;&#
    
 ###What else can I hire you for?
 
-My work schedule is spoken for through the beginning of 2018, possibly longer. Before then, I will consider consulting and design projects that are a great fit with a clear, specific scope. I'm always open to giving a talk or teaching. <a href="mailto:&#105;&#100;&#097;&#064;&#117;&#110;&#099;&#111;&#109;&#109;&#111;&#110;&#112;&#108;&#097;&#099;&#101;&#115;&#046;&#099;&#111;&#109;">Please get in touch.</a>
+My work schedule is spoken for through the beginning of 2018, possibly longer. Before then, I will consider consulting and design projects that are a great fit with a clear, specific scope. I'm always open to giving a talk or teaching. <a href="mailto:&#105;&#100;&#097;&#064;&#117;&#110;&#099;&#111;&#109;&#109;&#111;&#110;&#112;&#108;&#097;&#099;&#101;&#115;&#046;&#099;&#111;&#109;">Just get in touch.</a>
    
    
 ###How can I help with your current work?
