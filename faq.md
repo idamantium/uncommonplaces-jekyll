@@ -14,7 +14,7 @@ Experience design is the creation of experiences for the purpose of entertainmen
    
    
 ###So, you're not a performance artist?
-Nope. [Performance artists](https://en.wikipedia.org/wiki/Performance_art) make aesthetic experiences where, more often than not, they are the instigator, the reason for the work, and the focus of the audience's attention (think: Marina Abramović). If you insist on throwing me in an art bucket, [social practice](https://en.wikipedia.org/wiki/Social_practice_(art)) would be more accurate. I care about the relational, not the performative.
+Nope. [Performance artists](https://en.wikipedia.org/wiki/Performance_art) make aesthetic experiences where, more often than not, they are the instigator, the reason for the work, and the focus of the audience's attention (think: Marina Abramović or David Blaine). If you insist on throwing me in an art bucket, [social practice](https://en.wikipedia.org/wiki/Social_practice_(art)) would be more accurate. I care about the relational, not the performative.
   
   
 ###What's caught your attention at the moment?
@@ -29,7 +29,7 @@ Antidote Games is [alive and kicking](http://www.playistheantidote.com/). My co-
    
 ###Whatever happened to your experience design practice Sextantworks?
 
-[Sextantworks](http://sextant.works/) closed down in mid-2016 after nearly four busy, successful years. It was a wild ride. The road was as thrilling as it was bumpy, and I grew a lot through the process. Eventually the interests of me and me co-founder N.D. Austin diverged, so we disbanded. Through it all, we assembled a dedicated, unconventional team. I can only dream of working with such an inspiring group of oddball creatives again in the future.  
+[Sextantworks](http://sextant.works/) closed down in mid-2016 after nearly four wild, busy years. We started out doing projects for fun. Their success outpaced our ability to manage all the oppertunities let alone our own aspirations. Eventually the interests of me and my co-founder N.D. Austin diverged, so we disbanded. Through it all, we assembled a dedicated, unconventional team. I can only dream of working with such an inspiring group of oddball creatives again in the future.  
 
 Many of you have expressed disappointment at Sextantworks closing down. Thank you for the love and appreciation. While it was sad to close up shop, I am deeply gratified applying everything I learned to broader endeavors with an eye toward sustained impact. 
 
