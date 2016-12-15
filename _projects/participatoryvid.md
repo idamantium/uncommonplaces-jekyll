@@ -32,7 +32,7 @@ small-image: /images/projects/pv/pvethiopia07.jpg
 
 <a href="http://www.climatecentre.org/">The Red Cross/Red Crescent Climate Centre</a> asked me to teach participatory video to a community of farmers in north western Ethiopia. 
 
-The goal of the workshop was to produce inspirational videos abouth the community's efforts to adapt to climate change. Ethiopia’s contribution to global climate change is negligible, but devastating droughts and soil erosion are threatening the livelihoods of many rural communities. The village of Wage Warage had successfully implemented numerous climate risk adaptation programs with support from the Red Cross. They was reaping the benefits in the form of better harvests, more stable household incomes and better working conditions, especially for women. By telling the story of their adaptation efforts themselves, they helped inspire similar villages to proactively prepare for climate change as well.
+The goal of the workshop was to produce inspirational videos about the community's efforts to adapt to climate change. Ethiopia’s contribution to global climate change is negligible, but devastating droughts and soil erosion are threatening the livelihoods of many rural communities. The village of Wage Warage had successfully implemented numerous climate risk adaptation programs with support from the Red Cross. They were reaping benefits in the form of better harvests, more stable household incomes and better working conditions, especially for women. By telling the story of their adaptation efforts themselves, they helped inspire similar villages to proactively prepare for climate change as well.
 
 
 <a href="http://vimeo.com/album/3240441" target="_blank" class="button small info">See All the Videos</a> 

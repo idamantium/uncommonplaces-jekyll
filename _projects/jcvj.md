@@ -8,7 +8,7 @@ small-image: /images//2013/01/12-08-18JCVJ099_narrow.jpg
 ---
 
 <img src="{{ site.baseurl }}/images//2013/01/logoA_600x245_12.png" alt="logoA_600x245_1" width="750" height="306" class="alignnone size-full wp-image-2863" />
-Jean-Claude Van Jam was a 48 hour event that brought together game designers, artist and programers to create games inspired by Jean-Claude Van Damme's expansive filmography. 
+Jean-Claude Van Jam was a 48-hour event that brought together game designers, artist and programers to create games inspired by Jean-Claude Van Damme's expansive filmography. 
 
 Teams were assigned a JCVD movie at random to use as inspiration. The 9 teams created everything from custom physical interfaces to a dating simulation. Judges included Kaita Takahashi, Greg Trefry, <a href="http://ericzimmerman.wordpress.com/2012/08/20/judging-the-jean-claude-van-jam/" target="_blank">Eric Zimmerman</a> and Kaho Abe. The jam was generously hosted by the <a href="http://eyebeam.org/" target="_blank">Eye Beam Art and Technology Center</a>. 
 
