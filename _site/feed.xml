@@ -4,14 +4,22 @@
     <title></title>
     <description>Experience Design &amp; Media Strategy
 </description>
+<<<<<<< HEAD
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 31 Dec 2016 00:08:04 -0500</pubDate>
+    <lastBuildDate>Sat, 31 Dec 2016 00:08:04 -0500</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+=======
     <link>http://uncommonplaces.com/</link>
     <atom:link href="http://uncommonplaces.com/feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>Thu, 15 Dec 2016 17:47:58 -0500</pubDate>
     <lastBuildDate>Thu, 15 Dec 2016 17:47:58 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+>>>>>>> Revert "copy error on about, added mind/body/consciousness to faq"
     
       <item>
-        <title>SVA&#39;s Design Research, Writing, and Criticism MA</title>
+        <title>SVA's Design Research, Writing, and Criticism MA</title>
         <description>&lt;p&gt;The &lt;a href=&quot;http://designresearch.sva.edu/&quot;&gt;Design Research, Writing, and Criticism&lt;/a&gt; program at the School of Visual Arts in New York City is a one year journey through the practice of analyzing and critiquing design for both academic audiences and the general public. Recently reconfigured from a two-year MFA that focused on criticism, the program is finding ways to be both more accessible to practicing professionals and more forward thinking about the place of research and criticism in today’s design world. I entered the program intent on improving my writing skills and left with a sharper understanding of my own proclivities around design, not to mention a thesis project that I’m totally in love with.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/2016/sva-design-research/IMG_20151118_130715.jpg&quot; /&gt;
@@ -21,69 +29,69 @@
 
 &lt;p&gt;I flirted with grad programs for upwards of five years before applying. As much as I love hands-on, tinkery, makery endeavors, the irreplaceable contributions I make to projects are primary research, strategic thinking, and imaginative leaps, so best to get a degree that would push those skills. (Take for example my experience in the &lt;a href=&quot;/2014/06/school-poetic-computation/&quot;&gt;School for Poetic Computation&lt;/a&gt;. I loved being a student, but my ongoing involvement is not through writing code but as a member of the Steering Committee for the school itself.)&lt;/p&gt;
 
-&lt;p&gt;I couldn’t wholly put aside the idea of working on a craft though, so the Design Research, Writing, and Criticism program won out over other programs for its focus on teaching quality writing. Despite any talent I have with words, baggage around growing up with &lt;a href=&quot;http://www.davidsongifted.org/Search-Database/entry/A10435&quot;&gt;stealth dyslexia&lt;/a&gt; dogs me to this day. Stealth dyslexia develops in smart kids who aren’t debilitatingly dyslexic when they are left to their own devices to get through traditional, primary school education. We create jerry-rigged mental hacks to get by and hide the fact that we are working double-time to keep up. We can hide it even from ourselves. Stealth dyslexics are notoriously good at persevering in the face of uncertainty and thriving in systems that aren’t designed to accommodate them. This is why it can be so humiliating when small errors with the “easy” stuff, like spelling, betray people’s confidence in our ability to do complex, demanding work. &lt;/p&gt;
+&lt;p&gt;I couldn’t wholly put aside the idea of working on a craft though, so the Design Research, Writing, and Criticism program won out over other programs for its focus on teaching quality writing. Despite any talent I have with words, baggage around growing up with &lt;a href=&quot;http://www.davidsongifted.org/Search-Database/entry/A10435&quot;&gt;stealth dyslexia&lt;/a&gt; dogs me to this day. Stealth dyslexia develops in smart kids who aren’t debilitatingly dyslexic when they are left to their own devices to get through traditional, primary school education. We create jerry-rigged mental hacks to get by and hide the fact that we are working double-time to keep up. We can hide it even from ourselves. Stealth dyslexics are notoriously good at persevering in the face of uncertainty and thriving in systems that aren’t designed to accommodate them. This is why it can be so humiliating when small errors with the “easy” stuff, like spelling, betray people’s confidence in our ability to do complex, demanding work.&lt;/p&gt;
 
 &lt;p&gt;Personal frustration with the emotional baggage of my stealth dyslexia mounted until I ran toward my fears by applying to a writing program. Even though no one at the program has an in-depth perspective on dyslexia, I hoped that confronting writing head on would force me to understand my cognitive style more thoroughly.&lt;/p&gt;
 
 &lt;h2 id=&quot;what-i-did&quot;&gt;What I did&lt;/h2&gt;
 
-&lt;p&gt;To succeed in a short graduate program, it was paramount to walk in the door with a thesis project in mind. I knew I wanted to study experience design, especially experiences that required active participation and some sort of relinquishing of control on the part of the guests. I further narrowed down the range of experiences by focusing on those that offered the potential for human enrichment and transformation. After surveying game design, anthropology, sociology, and psychology texts in the first-semester literature review, I identified four broad areas of any social experience with transformative potential. I then applied this lens to sex parties, funerals, and wilderness trips to discover what high-level design decisions need to be made when exposing people to primal risk in a caring way. &lt;/p&gt;
+&lt;p&gt;To succeed in a short graduate program, it was paramount to walk in the door with a thesis project in mind. I knew I wanted to study experience design, especially experiences that required active participation and some sort of relinquishing of control on the part of the guests. I further narrowed down the range of experiences by focusing on those that offered the potential for human enrichment and transformation. After surveying game design, anthropology, sociology, and psychology texts in the first-semester literature review, I identified four broad areas of any social experience with transformative potential. I then applied this lens to sex parties, funerals, and wilderness trips to discover what high-level design decisions need to be made when exposing people to primal risk in a caring way.&lt;/p&gt;
 
-&lt;p&gt;While some of the uncomfortable, scary parts of the masters had to do with the nature of any educational process, some of them came from a methodological mismatch between me and the department that only surfaced with time. I was dumbstruck to realize that my notion of design didn’t interface nicely with the department’s notion of design.  &lt;/p&gt;
+&lt;p&gt;While some of the uncomfortable, scary parts of the masters had to do with the nature of any educational process, some of them came from a methodological mismatch between me and the department that only surfaced with time. I was dumbstruck to realize that my notion of design didn’t interface nicely with the department’s notion of design.&lt;/p&gt;
 
 &lt;p&gt;Having studied media, technology, and games in my BFA at Parsons, I took for granted a systems-minded approach. The department prides itself on welcoming a wide variety of research subjects, but it flourishes best when limiting design to things you can look at, hold, or walk through. (Think: a storefront, a youtube ad, a pamphlet, a doll, a coin, a housing complex.) This might explain why the program can falter when dealing with systems, technology, innovation, and human experience. (Think: a game, an algorithm, a database, a methodology, a meal, an event).&lt;/p&gt;
 
-&lt;p&gt;I certainly could have chosen a thesis topic closer to home for the department, like found photographs or derelict buildings, but that analysis would have been trite compared to the bigger questions I had about why the games and adventures I designed could at times produce unanticipated, transformational effects on people and if the effects were a product of the design. &lt;/p&gt;
+&lt;p&gt;I certainly could have chosen a thesis topic closer to home for the department, like found photographs or derelict buildings, but that analysis would have been trite compared to the bigger questions I had about why the games and adventures I designed could at times produce unanticipated, transformational effects on people and if the effects were a product of the design.&lt;/p&gt;
 
-&lt;p&gt;The department repeatedly asked me to justify how my thesis research fit within the field of design. Surprised and distraught, I asked outside mentors about this. They scoffed at the notion that social relations and experiences &lt;em&gt;aren’t&lt;/em&gt; designed. So, I weighed my options. Should I spend my time in the program justifying my inquiry or should I spend my time doing the primary research? I chose the latter. And it seems that either choice would have sunk me. At my final defense, I was held up as an example of how &lt;em&gt;not&lt;/em&gt; to use your time in the program because I failed to analyze the “look at, hold, walk through” stuff of the experiences I studied, like room layouts, lighting choices, and the typography of invitations. Indeed, the favored projects in my year were all grounded in a semiotic analysis. &lt;/p&gt;
+&lt;p&gt;The department repeatedly asked me to justify how my thesis research fit within the field of design. Surprised and distraught, I asked outside mentors about this. They scoffed at the notion that social relations and experiences &lt;em&gt;aren’t&lt;/em&gt; designed. So, I weighed my options. Should I spend my time in the program justifying my inquiry or should I spend my time doing the primary research? I chose the latter. And it seems that either choice would have sunk me. At my final defense, I was held up as an example of how &lt;em&gt;not&lt;/em&gt; to use your time in the program because I failed to analyze the “look at, hold, walk through” stuff of the experiences I studied, like room layouts, lighting choices, and the typography of invitations. Indeed, the favored projects in my year were all grounded in a semiotic analysis.&lt;/p&gt;
 
-&lt;p&gt;In order to maintain my line of inquiry without being overpowered by the department’s predilections, my mind gradually erected an impenetrable mental wall every time I had to analyze objects or visuals, causing me to faultered with some assignments outside thesis. I didn’t understand what the block was about until the second semester was in full swing. The realization came at one of the department’s public lectures. The program’s branding visuals were projected on the screen, a busy grid of objects and images removed from their contexts as if selected out as specimens of study filling rows of square Petri dishes, each one overlaid with the department’s logo. “All that &lt;em&gt;stuff&lt;/em&gt;,” I thought. I knew that if I got lost in the material, visual stuff of the experiences I studied, I would miss the fleshy, feely, human “transformation” parts that were the point of doing the research in the first place. (It’s like studying a game of chess by looking at the game board and pieces alone. You miss the complexity produced by the ruleset and the interpersonal dynamics ignited through play.) But here I am in a program that runs so eagerly &lt;em&gt;toward the stuff&lt;/em&gt;. “Oh, yeah, I’ve gotten myself into some sticky trouble here,” I thought. The Petri dish grid suddenly sickened me. &lt;/p&gt;
+&lt;p&gt;In order to maintain my line of inquiry without being overpowered by the department’s predilections, my mind gradually erected an impenetrable mental wall every time I had to analyze objects or visuals, causing me to faultered with some assignments outside thesis. I didn’t understand what the block was about until the second semester was in full swing. The realization came at one of the department’s public lectures. The program’s branding visuals were projected on the screen, a busy grid of objects and images removed from their contexts as if selected out as specimens of study filling rows of square Petri dishes, each one overlaid with the department’s logo. “All that &lt;em&gt;stuff&lt;/em&gt;,” I thought. I knew that if I got lost in the material, visual stuff of the experiences I studied, I would miss the fleshy, feely, human “transformation” parts that were the point of doing the research in the first place. (It’s like studying a game of chess by looking at the game board and pieces alone. You miss the complexity produced by the ruleset and the interpersonal dynamics ignited through play.) But here I am in a program that runs so eagerly &lt;em&gt;toward the stuff&lt;/em&gt;. “Oh, yeah, I’ve gotten myself into some sticky trouble here,” I thought. The Petri dish grid suddenly sickened me.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/2016/sva-design-research/DesignResearchBranding.jpg&quot; /&gt;   &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2016/sva-design-research/DesignResearchBranding.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/2016/sva-design-research/DesignResearchBranding2.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The department’s object grid branding as used in email blasts.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Another place where I ran into trouble involved the tension between research that informs a design process and criticism that pinpoints a design’s value (or lack thereof) in the world. My cohort was only the second batch in the newly reformatted version of the program that was once a Design Criticism MFA and is now a Design Research, Writing, and Criticism MA. I was squarely on the research end of things, gathering insights to inform and enable new work. How this tension will play out as the program settles into its new format is yet to be seen. &lt;/p&gt;
+&lt;p&gt;Another place where I ran into trouble involved the tension between research that informs a design process and criticism that pinpoints a design’s value (or lack thereof) in the world. My cohort was only the second batch in the newly reformatted version of the program that was once a Design Criticism MFA and is now a Design Research, Writing, and Criticism MA. I was squarely on the research end of things, gathering insights to inform and enable new work. How this tension will play out as the program settles into its new format is yet to be seen.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(I’m happy to report that while drafting this review, the department invited me to advise on curriculum changes inspired by technology and systems thinking, starting with a discussion series for the current students.)&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;success-in-the-end&quot;&gt;Success in The End&lt;/h2&gt;
 
-&lt;p&gt;Despite all the discomfort and the methodological clash, the thesis process totally worked. Advisors coaxed me into adopting a more open-ended thesis question than I initially proposed in my application. The literature review revealed unanticipated insights that set the parameters for the primary research. In the end, I came up with findings that feel like design secret sauce even more delicious than I could have hope for. The process was uncomfortable and even scary at times. (Education is a transformative experience, after all.) I couldn’t have done it without the support and structure of an academic program. I had a blast with the work. Even though I was not exactly applauded at my thesis defense, I passed with a good grade and the powers that be congratulated me on improving my writing notably through the program. &lt;/p&gt;
+&lt;p&gt;Despite all the discomfort and the methodological clash, the thesis process totally worked. Advisors coaxed me into adopting a more open-ended thesis question than I initially proposed in my application. The literature review revealed unanticipated insights that set the parameters for the primary research. In the end, I came up with findings that feel like design secret sauce even more delicious than I could have hope for. The process was uncomfortable and even scary at times. (Education is a transformative experience, after all.) I couldn’t have done it without the support and structure of an academic program. I had a blast with the work. Even though I was not exactly applauded at my thesis defense, I passed with a good grade and the powers that be congratulated me on improving my writing notably through the program.&lt;/p&gt;
 
 &lt;p&gt;In the end, I do think I’ve inadvertently become a better critic, which is such a relief. I haven’t always been the most graceful in delivering criticism. While I stand by my insights, they are best aired in ways that can help improve the work of the people and organizations I believe in. Success lies in both the quality of the insights &lt;em&gt;and&lt;/em&gt; the technique of the delivery. While I expect that much of my criticism work will be behind closed doors in advisory roles, the tact and savvy needed for public criticism has certainly set raised my bar for criticism generally.&lt;/p&gt;
 
 &lt;h2 id=&quot;so-what-of-this-dyslexia-thing&quot;&gt;So What of This Dyslexia Thing?&lt;/h2&gt;
 
-&lt;p&gt;It turns out that dyslexics are hard wired systems thinkers who make sense of the world by creating complex models in our minds and fitting new information into those models. We’re also adept at learning through experience and accessing insights through vivid, contextual memory. (I wish I had a more succinct source for this, but &lt;a href=&quot;https://youtu.be/SBqpxzx4i5E?list=PLsilMSaqafYiUE3r0z0OBpfzC_U4KNHFu&quot;&gt;Dr. Enright’s presentation at Microsoft&lt;/a&gt; does a better job explaining it than anything else I’ve looked at.) In many ways, my research process mapped neatly onto my strengths. I had a vague sketch of those strengths before starting the program, but going through it and stepping back to notice how different my process was from many of my classmates, painted the strengths in technicolor. &lt;/p&gt;
+&lt;p&gt;It turns out that dyslexics are hard wired systems thinkers who make sense of the world by creating complex models in our minds and fitting new information into those models. We’re also adept at learning through experience and accessing insights through vivid, contextual memory. (I wish I had a more succinct source for this, but &lt;a href=&quot;https://youtu.be/SBqpxzx4i5E?list=PLsilMSaqafYiUE3r0z0OBpfzC_U4KNHFu&quot;&gt;Dr. Enright’s presentation at Microsoft&lt;/a&gt; does a better job explaining it than anything else I’ve looked at.) In many ways, my research process mapped neatly onto my strengths. I had a vague sketch of those strengths before starting the program, but going through it and stepping back to notice how different my process was from many of my classmates, painted the strengths in technicolor.&lt;/p&gt;
 
 &lt;p&gt;I had hoped that the program would force me to slow down and reflect more on all the experience I had so I could synthesize insights and writing around them. My own intrepid tendencies foiled those hopes as I leveraged the structure of the program to enable new kinds of adventuring. My thesis propelled me to attend as many sex parties, funerals, and wilderness trips as I could. I was understandably criticized for this in the end since I had failed to get out of my comfort zone in doing my thesis work. Oops!&lt;/p&gt;
 
 &lt;p&gt;One dyslexic strength that became unexpectedly vibrant is the disconnect between written language skills and oral language skills. The neuroscience of how humans decipher verbal communication differently than written language is opaque to me. All I know is that completely different parts of the brain handle each and process them differently. The famous dyslexic weaknesses in the mechanics of written language are generally offset by uncommon strength in oral communication. Before starting the program, I knew I was a competent public speaker, but I didn’t realize how much of a strength it was until I got a consistent positive feedback on my presentations through the entire school year. As soon as I picked up on this, I started using speech-to-text to compose first drafts of papers. It might scandalize the faculty to know that my highest marks were for papers “written” with speech-to-text in the 11th hour before they were due. The piece of my thesis portfolio that received the most polish (thanks to department chair Molly Heintz’s wonderful coaching) and the most attention was not the thesis document itself, but my &lt;a href=&quot;http://www.bloomberg.com/news/videos/2016-06-02/bloomberg-businessweek-design-2016-ida-benedetto&quot;&gt;Businessweek talk&lt;/a&gt;. (Thank you also to my outside advisor Christian Howard for the zombie politics nerd fest.)&lt;/p&gt;
 
-&lt;p&gt;Anyone who thinks in systems is a sucker for a good feedback loop. Most assignments involved sharing only one final version and then moving on to the next assignment. In a few cases where the stakes were higher, I brought in a shadow team of discussants and editors to help me through the process, creating the feedback loops I needed to produce higher quality thinking and writing. (Thank you, thank you Myric Lehner, Lois Beckett, and Toni Pizza.) Even still, some of my best writing all year happened in the Slack, prompted by dialogue with my classmates. &lt;/p&gt;
+&lt;p&gt;Anyone who thinks in systems is a sucker for a good feedback loop. Most assignments involved sharing only one final version and then moving on to the next assignment. In a few cases where the stakes were higher, I brought in a shadow team of discussants and editors to help me through the process, creating the feedback loops I needed to produce higher quality thinking and writing. (Thank you, thank you Myric Lehner, Lois Beckett, and Toni Pizza.) Even still, some of my best writing all year happened in the Slack, prompted by dialogue with my classmates.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/2016/sva-design-research/26513389403_8a2f5888bf_o.jpg&quot; /&gt;
 &lt;em&gt;Here’s most of the 2016 class after the public thesis presentations in May.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;whats-next&quot;&gt;What’s Next?&lt;/h2&gt;
 
-&lt;p&gt;The research is in a strong place, but it’s not done yet. I want to put out a version accessible to practitioners, so morticians, wilderness guides, sex party purveyors, educators, and modern convenors of all kinds can more readily compare notes. I’m still looking for all the funeral invitations I can get. Enough with the sex party invites. Got plenty of those. &lt;/p&gt;
+&lt;p&gt;The research is in a strong place, but it’s not done yet. I want to put out a version accessible to practitioners, so morticians, wilderness guides, sex party purveyors, educators, and modern convenors of all kinds can more readily compare notes. I’m still looking for all the funeral invitations I can get. Enough with the sex party invites. Got plenty of those.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/2016/sva-design-research/printed-thesis.jpg&quot; /&gt;
 &lt;em&gt;The finished thesis.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 08 Nov 2016 00:00:00 -0500</pubDate>
-        <link>http://uncommonplaces.com/2016/11/sva-design-research/</link>
-        <guid isPermaLink="true">http://uncommonplaces.com/2016/11/sva-design-research/</guid>
+        <link>http://localhost:4000/2016/11/sva-design-research/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/11/sva-design-research/</guid>
         
         
       </item>
     
       <item>
-        <title>Businessweek&#39;s Design Conference</title>
+        <title>Businessweek's Design Conference</title>
         <description>&lt;div class=&quot;flex-video&quot;&gt;
 &lt;iframe src=&quot;http://www.bloomberg.com/api/embed/iframe?id=XlY7_EC5R7yiKXIzQqAs0A&quot; allowscriptaccess=&quot;always&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
@@ -93,8 +101,8 @@
 Designing Sex, Death, and Survival in the 21st Century&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 May 2016 00:00:00 -0400</pubDate>
-        <link>http://uncommonplaces.com/2016/05/businessweek-design-conference/</link>
-        <guid isPermaLink="true">http://uncommonplaces.com/2016/05/businessweek-design-conference/</guid>
+        <link>http://localhost:4000/2016/05/businessweek-design-conference/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/05/businessweek-design-conference/</guid>
         
         
       </item>
@@ -109,16 +117,16 @@ Designing Sex, Death, and Survival in the 21st Century&lt;/p&gt;
 
 &lt;p&gt;After years of creating transgressive adventures that transform people’s sense of risk and possibility in urban environments, I was bombarded by requests from onlookers who wanted in. They’d send eager emails asking how they can be added to the list as if pitching themselves to me would gain them admission to some secret society.&lt;/p&gt;
 
-&lt;p&gt;Each request broke my heart a little. I would love for more folks to make their own daring rituals of transgression and transformation. Why are they waiting for us to do it for them? This question has sent me on a quest to distill what exactly makes an intimate social experience truly transformative in the hopes of creating tools to inspire others. By mashing up game design and the anthropology of ritual, I think I’ve figured out what some of the key elements are. &lt;/p&gt;
+&lt;p&gt;Each request broke my heart a little. I would love for more folks to make their own daring rituals of transgression and transformation. Why are they waiting for us to do it for them? This question has sent me on a quest to distill what exactly makes an intimate social experience truly transformative in the hopes of creating tools to inspire others. By mashing up game design and the anthropology of ritual, I think I’ve figured out what some of the key elements are.&lt;/p&gt;
 
-&lt;p&gt;Successful experience designers, self-identified or not, tend to employ similar strategies, especially when it comes to opening people up to risk in a caring way. I’ve been going on adventures with avant-garde morticians, sex party purveyors, and seasoned wilderness guides to understand how they bring people into intimate contact with challenging situations. &lt;/p&gt;
+&lt;p&gt;Successful experience designers, self-identified or not, tend to employ similar strategies, especially when it comes to opening people up to risk in a caring way. I’ve been going on adventures with avant-garde morticians, sex party purveyors, and seasoned wilderness guides to understand how they bring people into intimate contact with challenging situations.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://designresearch.sva.edu/&quot;&gt;The Design Research Program&lt;/a&gt; at the School of Visual Arts has gotten me started. I’m preparing a public version of the research thanks to a residency at &lt;a href=&quot;http://www.newinc.org/&quot;&gt;NEW INC&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 06 Apr 2016 00:00:00 -0400</pubDate>
-        <link>http://uncommonplaces.com/2016/04/sex-death-survival/</link>
-        <guid isPermaLink="true">http://uncommonplaces.com/2016/04/sex-death-survival/</guid>
+        <link>http://localhost:4000/2016/04/sex-death-survival/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/04/sex-death-survival/</guid>
         
         <category>Reflections</category>
         
@@ -144,8 +152,8 @@ Designing Sex, Death, and Survival in the 21st Century&lt;/p&gt;
 &lt;p&gt;When I found the machine shop, the diagrams represented things that still existed on the floors above me, though they had stopped being repaired years ago. The factory ended production 2007 and was sold to a developer in 2010. I went rooting around the place in late 2012 after the site changed hands from the first incompetent developer to an accomplished, determined one. Destruction was imminent. Historic landmarking in New York only protects the outside of buildings. Very rarely do the insides get of cially preserved, too. I think there is an old bar or club inside the Woolworth Building that is landmarked, and there is a funny little museum on Staten Island that’s so proud of their interior landmarking. With the Domino Sugar Refinery, the innards were not landmarked, though their vastness and complexity carried just as much historic significance as the shell that held them together. Maintaining landmarked buildings is a lot of work. Keeping Domino going while it was active was a lot of work, too. The diagrams fill me with equal parts sadness as they do nerdy delight. The machines are all gone now.&lt;/p&gt;
 </description>
         <pubDate>Tue, 19 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://uncommonplaces.com/2016/01/the-diagrams/</link>
-        <guid isPermaLink="true">http://uncommonplaces.com/2016/01/the-diagrams/</guid>
+        <link>http://localhost:4000/2016/01/the-diagrams/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/the-diagrams/</guid>
         
         <category>Reflections</category>
         
@@ -154,22 +162,22 @@ Designing Sex, Death, and Survival in the 21st Century&lt;/p&gt;
     
       <item>
         <title>2015 Year in Review</title>
-        <description>&lt;p&gt;I’ve now finished my first &lt;a href=&quot;https://en.wikipedia.org/wiki/Saturn_return&quot;&gt;Saturn return&lt;/a&gt;. (I don’t believe in astrology but can’t help getting into it). All the illusions of what adulthood would be have fallen away. The discomfort of perpetual challenge and uncertainty is starting to feel exciting. &lt;/p&gt;
+        <description>&lt;p&gt;I’ve now finished my first &lt;a href=&quot;https://en.wikipedia.org/wiki/Saturn_return&quot;&gt;Saturn return&lt;/a&gt;. (I don’t believe in astrology but can’t help getting into it). All the illusions of what adulthood would be have fallen away. The discomfort of perpetual challenge and uncertainty is starting to feel exciting.&lt;/p&gt;
 
-&lt;p&gt;Lots of people are telling me that I seem to be doing great on a purely energetic level. Something about my vibe is much more grounded and engaged than previous years. It’s delightful to be told this spontaneously on a regular basis. Something’s working in my favor. &lt;/p&gt;
+&lt;p&gt;Lots of people are telling me that I seem to be doing great on a purely energetic level. Something about my vibe is much more grounded and engaged than previous years. It’s delightful to be told this spontaneously on a regular basis. Something’s working in my favor.&lt;/p&gt;
 
 &lt;p&gt;(See previous reviews: &lt;a href=&quot;http://uncommonplaces.com/2015/04/2014-year-review/&quot;&gt;2014&lt;/a&gt;, &lt;a href=&quot;http://uncommonplaces.com/2014/01/2013-year-review/&quot;&gt;2013&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/2016/soa7517.jpg&quot; alt=&quot;Crew Party&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;the-laundry-list-of-what-i-did-in-2015&quot;&gt;The Laundry List of What I Did in 2015&lt;/h3&gt;
+&lt;p&gt;###The Laundry List of What I Did in 2015&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Sextantworks&lt;/span&gt; (&lt;a href=&quot;http://sextant.works/&quot;&gt;sextant.works&lt;/a&gt;)&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Orchestrated an intrepid overseas &lt;a href=&quot;https://www.instagram.com/p/yDgwtgLLnj/&quot;&gt;private&lt;/a&gt; &lt;a href=&quot;https://www.instagram.com/p/ySgTLMQ1Iz&quot;&gt;commission&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Ran a big, wild, crazy domestic private commission&lt;/li&gt;
-  &lt;li&gt;Hosted a &lt;a href=&quot;http://sextant.works/lab.php&quot;&gt;Placemaking Lab on Governors Island&lt;/a&gt; in NYC &lt;/li&gt;
+  &lt;li&gt;Hosted a &lt;a href=&quot;http://sextant.works/lab.php&quot;&gt;Placemaking Lab on Governors Island&lt;/a&gt; in NYC&lt;/li&gt;
   &lt;li&gt;Ran &lt;a href=&quot;https://twitter.com/hashtag/TimCon31?src=hash&quot;&gt;TimCon31&lt;/a&gt; (4th year now, here’s &lt;a href=&quot;http://sextant.works/timcon&quot;&gt;the first one&lt;/a&gt;)&lt;/li&gt;
   &lt;li&gt;Lead a little undercover adventure at &lt;a href=&quot;http://futureofstorytelling.org/&quot;&gt;FoST&lt;/a&gt; (again)&lt;/li&gt;
   &lt;li&gt;Got certified as a &lt;a href=&quot;http://uncommonplaces.com/2015/08/wilderness-emt/&quot;&gt;Wilderness EMT&lt;/a&gt;&lt;/li&gt;
@@ -200,31 +208,31 @@ Designing Sex, Death, and Survival in the 21st Century&lt;/p&gt;
 &lt;h3 id=&quot;themes-of-the-year&quot;&gt;Themes of The Year&lt;/h3&gt;
 &lt;p&gt;The insights below are culled from my weekly and monthly reviews over the course of the year. I have 4 years of written weekly and monthly reviews at this point. It’s uncanny to watch myself change by reading the structured relections. I highly recommend picking up this pracitce. It might help you imagine yourself changing in the future, &lt;a href=&quot;http://www.ted.com/talks/dan_gilbert_you_are_always_changing&quot;&gt;a curiously hard things to do&lt;/a&gt;!&lt;/p&gt;
 
-&lt;h4 id=&quot;settling-into-my-intuition&quot;&gt;1. Settling into My Intuition&lt;/h4&gt;
+&lt;h4 id=&quot;1-settling-into-my-intuition&quot;&gt;1. Settling into My Intuition&lt;/h4&gt;
 
-&lt;p&gt;Building on &lt;a href=&quot;/2015/04/2014-year-review/&quot;&gt;my intentions last year&lt;/a&gt;, I’ve been following my intuition, maybe too much! The shame and tension of doing what my gut says has more or less fallen away. A few years ago, I read the &lt;a href=&quot;http://happinesshypothesis.com/&quot;&gt;Happiness Hypothesis&lt;/a&gt;, which does a lovely job of describing a view of the mind as an elephant and a rider. The elephant is the huge and powerful unconscious. The rider is the conscious, and the rider and elephant working together can really go places. My intuition is the elephant, and now that I have spent some time letting the elephant run the show, it’s time to get the rider and elephant more in sync. &lt;/p&gt;
+&lt;p&gt;Building on &lt;a href=&quot;/2015/04/2014-year-review/&quot;&gt;my intentions last year&lt;/a&gt;, I’ve been following my intuition, maybe too much! The shame and tension of doing what my gut says has more or less fallen away. A few years ago, I read the &lt;a href=&quot;http://happinesshypothesis.com/&quot;&gt;Happiness Hypothesis&lt;/a&gt;, which does a lovely job of describing a view of the mind as an elephant and a rider. The elephant is the huge and powerful unconscious. The rider is the conscious, and the rider and elephant working together can really go places. My intuition is the elephant, and now that I have spent some time letting the elephant run the show, it’s time to get the rider and elephant more in sync.&lt;/p&gt;
 
-&lt;h4 id=&quot;steering-a-big-ship&quot;&gt;2. Steering A Big Ship&lt;/h4&gt;
+&lt;h4 id=&quot;2-steering-a-big-ship&quot;&gt;2. Steering A Big Ship&lt;/h4&gt;
 
 &lt;p&gt;This last year saw me carrying the weight of substantial responsibilities, including the biggest projects I’ve ever led by a magnitude of 10. In the past, I felt like I was on a fun and at times nauseating roller coaster called life. Now, it feels like I am steering a damn big ship (my elephant???) and mostly keeping us on course despite the storm. This is partly evident in my shorter laundry list of things I did, amounting to fewer things on a larger scale.&lt;/p&gt;
 
-&lt;h4 id=&quot;cant-control-other-people&quot;&gt;3. Can’t Control Other People&lt;/h4&gt;
+&lt;h4 id=&quot;3-cant-control-other-people&quot;&gt;3. Can’t Control Other People&lt;/h4&gt;
 
-&lt;p&gt;Some of my biggest fails on projects had to do with relationships that went sour. I was dogged about bringing things to a happy conclusion, but that can only happen when all parties play ball. I can’t force an amicable resolution, especially when the other party has needs and expectations that are beyond my ability to address, and even more so when they don’t accept that it’s beyond my ability to address them. I can’t force a happy ending for everyone in these cases.  &lt;/p&gt;
+&lt;p&gt;Some of my biggest fails on projects had to do with relationships that went sour. I was dogged about bringing things to a happy conclusion, but that can only happen when all parties play ball. I can’t force an amicable resolution, especially when the other party has needs and expectations that are beyond my ability to address, and even more so when they don’t accept that it’s beyond my ability to address them. I can’t force a happy ending for everyone in these cases.&lt;/p&gt;
 
-&lt;h4 id=&quot;lost-in-the-weeds&quot;&gt;4. Lost in the Weeds&lt;/h4&gt;
+&lt;h4 id=&quot;4-lost-in-the-weeds&quot;&gt;4. Lost in the Weeds&lt;/h4&gt;
 
 &lt;p&gt;It’s weird reading through weekly and monthly reviews to find insights I had, smart knowledge about situations and people, that I proceeded to ignore when I got deeper into the situation. It’s like my naivete overran my wisdom, or my intellectual beliefs about the world caused me to deny what I knew about what was going on. I was not great at doing monthly and quarterly reviews this past year. I wonder if the gap in higher level perspective let me get lost in the weeds periodically.&lt;/p&gt;
 
-&lt;h4 id=&quot;no-more-suffering-in-failure&quot;&gt;5. No More Suffering In Failure&lt;/h4&gt;
+&lt;h4 id=&quot;5-no-more-suffering-in-failure&quot;&gt;5. No More Suffering In Failure&lt;/h4&gt;
 
-&lt;p&gt;I’m finding greater satisfaction in diving in and surrendering to something with full attention and drive, not necessarily knowing how things will turn out because of it. Rather than hedging my bets to play it safe, I’m mustering the courage to go all in. There is greater pain along the way with this approach, but choosing the pain of complete engagement over the numbness of not fully trying has its benefits. No more judging myself for failure if I know I gave it my all. Judging myself for not having done things in my power is far more devastating. &lt;/p&gt;
+&lt;p&gt;I’m finding greater satisfaction in diving in and surrendering to something with full attention and drive, not necessarily knowing how things will turn out because of it. Rather than hedging my bets to play it safe, I’m mustering the courage to go all in. There is greater pain along the way with this approach, but choosing the pain of complete engagement over the numbness of not fully trying has its benefits. No more judging myself for failure if I know I gave it my all. Judging myself for not having done things in my power is far more devastating.&lt;/p&gt;
 
 &lt;p&gt;In the couple of quarterly reviews that I did complete, I remarked on lingering remorse in the wake of old optimism about things that didn’t pan out. Optimism is a setup for disappointment if the visions of success is not predicated on one’s efforts and actions now. Turns out a more fulfilling optimism can be found in wholehearted engagement, in current effort and presentness. It requires maintaining a vibrant vision of success while sustaining enough skepticism about it happening to give it your all at every step of the way. It’s a curious mental trick to sustain balanced optimism and skepticism for full engagement.&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://uncommonplaces.com/2016/01/2015-review/</link>
-        <guid isPermaLink="true">http://uncommonplaces.com/2016/01/2015-review/</guid>
+        <link>http://localhost:4000/2016/01/2015-review/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/2015-review/</guid>
         
         <category>Reflections</category>
         
@@ -238,29 +246,29 @@ Designing Sex, Death, and Survival in the 21st Century&lt;/p&gt;
 &lt;p&gt;&lt;img class=&quot;block-th&quot; src=&quot;/images//2015/harbor/14-08-21NavyYardDryDocks033sm.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;best-open-space-in-nyc&quot;&gt;Best open space in NYC&lt;/h3&gt;
-&lt;p&gt;New York harbor is one of the largest natural harbors in the world, and it feels like almost no one out there. May times I was out on the water with dense skylines and not another boat in sight. The harbor offers a sense of openness like nowhere else in the city.  &lt;/p&gt;
+&lt;p&gt;New York harbor is one of the largest natural harbors in the world, and it feels like almost no one out there. May times I was out on the water with dense skylines and not another boat in sight. The harbor offers a sense of openness like nowhere else in the city.&lt;/p&gt;
 
 &lt;h3 id=&quot;nowhere-to-park&quot;&gt;Nowhere to park&lt;/h3&gt;
-&lt;p&gt;Berthing (or docking) a boat is a deceptively complex task. The berth needs to be the right shape and material for the given vessel, spots need to be available to secure the right kind of lines, the water needs to be deep enough, and you need to be able to get on and off the boat safely. Then, on top of this, you need permission to be there and services such as electricity, running water, and waste disposal options. In a city once geared toward the waterfront, options of berthing boats are now few and far between, often coming at a steep rental price. No wonder no one is out on the water anymore.  &lt;/p&gt;
+&lt;p&gt;Berthing (or docking) a boat is a deceptively complex task. The berth needs to be the right shape and material for the given vessel, spots need to be available to secure the right kind of lines, the water needs to be deep enough, and you need to be able to get on and off the boat safely. Then, on top of this, you need permission to be there and services such as electricity, running water, and waste disposal options. In a city once geared toward the waterfront, options of berthing boats are now few and far between, often coming at a steep rental price. No wonder no one is out on the water anymore.&lt;/p&gt;
 
 &lt;h3 id=&quot;oldest-regulations-in-the-city&quot;&gt;Oldest regulations in the city&lt;/h3&gt;
-&lt;p&gt;This was the excuse the coastguard gave us for all sorts of activities being complicated to pull off. New York was founded and populated by water. Movement of people and goods by water was one of the first things to be regulated. The layers of rules and agencies gets into a complexity that I only brushed up against over the course of the year, so I can’t speak to it in detail. But the combination of old regulations combined with comparatively minimal usage and traffic today make for a high friction environment for getting things done.  &lt;/p&gt;
+&lt;p&gt;This was the excuse the coastguard gave us for all sorts of activities being complicated to pull off. New York was founded and populated by water. Movement of people and goods by water was one of the first things to be regulated. The layers of rules and agencies gets into a complexity that I only brushed up against over the course of the year, so I can’t speak to it in detail. But the combination of old regulations combined with comparatively minimal usage and traffic today make for a high friction environment for getting things done.&lt;/p&gt;
 
 &lt;h3 id=&quot;historic-boat-people-are-dedicated&quot;&gt;Historic boat people are dedicated&lt;/h3&gt;
-&lt;p&gt;Given the berthing and regulations challenges, it’s nearly a miracle that historic boat operators keep their operations going. Folks like David Sharps of the &lt;a href=&quot;http://waterfrontmuseum.org/&quot;&gt;Lehigh Valley Barge&lt;/a&gt; and Mary Habstritt of the &lt;a href=&quot;http://lilacpreservationproject.org/&quot;&gt;Lilac Lighthouse Tender&lt;/a&gt; run passion projects of keeping these ships accessible to the public despite what seems like every possible natural and bureaucratic and financial obstacle to do so.   &lt;/p&gt;
+&lt;p&gt;Given the berthing and regulations challenges, it’s nearly a miracle that historic boat operators keep their operations going. Folks like David Sharps of the &lt;a href=&quot;http://waterfrontmuseum.org/&quot;&gt;Lehigh Valley Barge&lt;/a&gt; and Mary Habstritt of the &lt;a href=&quot;http://lilacpreservationproject.org/&quot;&gt;Lilac Lighthouse Tender&lt;/a&gt; run passion projects of keeping these ships accessible to the public despite what seems like every possible natural and bureaucratic and financial obstacle to do so.&lt;/p&gt;
 
 &lt;h3 id=&quot;lighthouses-are-in-limbo&quot;&gt;Lighthouses are in limbo&lt;/h3&gt;
-&lt;p&gt;One of those quiet shifts in the build environment that captures my imagination so is changes in lighthouse administration. Gone are the days when a person needed to live at a lighthouse year round to keep the light burning. Now the lights are automated and solar powered. Coast guard simply has to check up on them every few weeks. This leaves the houses and towers of lighthouses available for re-purposing. The government &lt;a href=&quot;http://disposal.gsa.gov/LighthouseProgram&quot;&gt;has been auctioning them off at bargain rates&lt;/a&gt; since 2008. Takes include the independently wealthy to the dedicated cultural institution to wide-eyed entrepreneurs to dubious New York mob affiliates. Many more lighthouses are up for sale. It will be interesting to see how they are re-purposed.   &lt;/p&gt;
+&lt;p&gt;One of those quiet shifts in the build environment that captures my imagination so is changes in lighthouse administration. Gone are the days when a person needed to live at a lighthouse year round to keep the light burning. Now the lights are automated and solar powered. Coast guard simply has to check up on them every few weeks. This leaves the houses and towers of lighthouses available for re-purposing. The government &lt;a href=&quot;http://disposal.gsa.gov/LighthouseProgram&quot;&gt;has been auctioning them off at bargain rates&lt;/a&gt; since 2008. Takes include the independently wealthy to the dedicated cultural institution to wide-eyed entrepreneurs to dubious New York mob affiliates. Many more lighthouses are up for sale. It will be interesting to see how they are re-purposed.&lt;/p&gt;
 
 &lt;h3 id=&quot;islands-hold-dirty-secrets&quot;&gt;Islands hold dirty secrets&lt;/h3&gt;
-&lt;p&gt;For each beautiful, maintained, polished island in NYC, there is a forgotten, neglected island of dubious history. These islands are the psychological underbelly of a city that has grown and shifted through multiple historical periods and shifting populations. &lt;a href=&quot;https://en.wikipedia.org/wiki/Hoffman_Island&quot;&gt;Hoffman&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Swinburne_Island&quot;&gt;Swinburne Islands&lt;/a&gt; were created to dump off immigrants too sick for even Ellis Island. &lt;a href=&quot;https://en.wikipedia.org/wiki/North_and_South_Brother_Islands&quot;&gt;North Brother&lt;/a&gt; similarly rots away as former home to institutions for the sick and unwanted. Roosevelt Island is currently getting remade, with the various hospitals being removed for modern academic institutions. Still in dark times are &lt;a href=&quot;https://www.hartisland.net/&quot;&gt;Hart Island&lt;/a&gt; and &lt;a href=&quot;http://www.nytimes.com/2014/07/14/nyregion/rikers-study-finds-prisoners-injured-by-employees.html&quot;&gt;Riker’s Islands&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;For each beautiful, maintained, polished island in NYC, there is a forgotten, neglected island of dubious history. These islands are the psychological underbelly of a city that has grown and shifted through multiple historical periods and shifting populations. &lt;a href=&quot;https://en.wikipedia.org/wiki/Hoffman_Island&quot;&gt;Hoffman&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Swinburne_Island&quot;&gt;Swinburne Islands&lt;/a&gt; were created to dump off immigrants too sick for even Ellis Island. &lt;a href=&quot;https://en.wikipedia.org/wiki/North_and_South_Brother_Islands&quot;&gt;North Brother&lt;/a&gt; similarly rots away as former home to institutions for the sick and unwanted. Roosevelt Island is currently getting remade, with the various hospitals being removed for modern academic institutions. Still in dark times are &lt;a href=&quot;https://www.hartisland.net/&quot;&gt;Hart Island&lt;/a&gt; and &lt;a href=&quot;http://www.nytimes.com/2014/07/14/nyregion/rikers-study-finds-prisoners-injured-by-employees.html&quot;&gt;Riker’s Islands&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;block-th&quot; src=&quot;/images//2015/harbor/14-08-06FortWadsworth001sm.jpg&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 24 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http://uncommonplaces.com/2015/08/flux-harbor/</link>
-        <guid isPermaLink="true">http://uncommonplaces.com/2015/08/flux-harbor/</guid>
+        <link>http://localhost:4000/2015/08/flux-harbor/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/08/flux-harbor/</guid>
         
         <category>Reflections</category>
         
@@ -272,7 +280,7 @@ Designing Sex, Death, and Survival in the 21st Century&lt;/p&gt;
         <description>&lt;p&gt;Learning things the hard way seems to be my M.O. of late. The &lt;a href=&quot;http://www.nols.edu/wmi/courses/wemt.shtml&quot;&gt;Wilderness EMT&lt;/a&gt; course by NOLS WMI kicked my ass. I haven’t taken a science class or studied for a standardized test since high school. After bombing the first quiz, I had to do a major turn around on my study habits to keep up. The pace was unrelenting.&lt;/p&gt;
 
 &lt;h3 id=&quot;why-wilderness-emt&quot;&gt;Why Wilderness EMT?&lt;/h3&gt;
-&lt;p&gt;I took the course so that &lt;a href=&quot;http://sextant.works/&quot;&gt;Sextantworks&lt;/a&gt; can continue be responsible in executing experiences. We have some great medical people who join us regularly, but it’s a different thing to have the core members of the team fully trained and thinking about safety from the get go. Given what we have pulled off already, we’re only getting more ambitious. &lt;/p&gt;
+&lt;p&gt;I took the course so that &lt;a href=&quot;http://sextant.works/&quot;&gt;Sextantworks&lt;/a&gt; can continue be responsible in executing experiences. We have some great medical people who join us regularly, but it’s a different thing to have the core members of the team fully trained and thinking about safety from the get go. Given what we have pulled off already, we’re only getting more ambitious.&lt;/p&gt;
 
 &lt;p&gt;The course covers everything that a regular urban Emergency Medical Technician training does plus variations and practice for administering care when you don’t have access to more advanced medical support. &lt;a href=&quot;http://www.nols.edu/&quot;&gt;The National Outdoor Leadership School&lt;/a&gt; and the &lt;a href=&quot;http://www.nols.edu/wmi/&quot;&gt;Wilderness Medical Institute&lt;/a&gt; have sterling reputations for their rigor and integrity. I seemed to be the least versed in NOLS culture among the students. Everyone else there glowed with respect and admiration for the organization. After going through the WEMT program, I can see why.&lt;/p&gt;
 
@@ -288,7 +296,7 @@ Designing Sex, Death, and Survival in the 21st Century&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;what-we-studied&quot;&gt;What We Studied&lt;/h3&gt;
-&lt;p&gt;In addition to classroom time, we practiced hands on practical skills, outdoor scenarios, and did emergency room rotations in local hospitals. &lt;/p&gt;
+&lt;p&gt;In addition to classroom time, we practiced hands on practical skills, outdoor scenarios, and did emergency room rotations in local hospitals.&lt;/p&gt;
 
 &lt;h4 id=&quot;patient-assessment&quot;&gt;Patient Assessment&lt;/h4&gt;
 &lt;p&gt;The core skill is the patient assessment system, a series of steps to determine the condition of a patient. Breathing, circulation, and consciousness are the big picture components to life, and checking those out first offers signs to underlying issues. Obvious bloody, painful traumas might not actually be the biggest life threat in an accident. Following the patient assessment system increases the likelihood that you will catch life threats immediately.&lt;/p&gt;
@@ -306,7 +314,7 @@ Designing Sex, Death, and Survival in the 21st Century&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;practical-skills&quot;&gt;Practical Skills&lt;/h4&gt;
-&lt;p&gt;You wouldn’t think that putting a splint on someone would be so hard, but there are plenty of ways to do it wrong. We practiced skills like splinting, administering oxygen, and CPR until they sunk in on the muscle memory level. By the end of the course, I could backboard a patient in under 5 minutes. &lt;/p&gt;
+&lt;p&gt;You wouldn’t think that putting a splint on someone would be so hard, but there are plenty of ways to do it wrong. We practiced skills like splinting, administering oxygen, and CPR until they sunk in on the muscle memory level. By the end of the course, I could backboard a patient in under 5 minutes.&lt;/p&gt;
 
 &lt;ul class=&quot;small-block-grid-2&quot;&gt;
 
@@ -358,10 +366,10 @@ Designing Sex, Death, and Survival in the 21st Century&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;emergency-room&quot;&gt;Emergency Room&lt;/h4&gt;
-&lt;p&gt;The emergency room environment was alternately boring and enthralling. Either nothing was happening or there was a flurry. Helping with real medical emergencies burned those particular issues indelibly into my brain. I prepped a man with a gangrenous foot for amputation, watched a woman have a transient ischemic attack, and helped a doctor insert a chest tube into a man with tension pneumothorax. &lt;/p&gt;
+&lt;p&gt;The emergency room environment was alternately boring and enthralling. Either nothing was happening or there was a flurry. Helping with real medical emergencies burned those particular issues indelibly into my brain. I prepped a man with a gangrenous foot for amputation, watched a woman have a transient ischemic attack, and helped a doctor insert a chest tube into a man with tension pneumothorax.&lt;/p&gt;
 
 &lt;h4 id=&quot;leadership&quot;&gt;Leadership&lt;/h4&gt;
-&lt;p&gt;Leadership skills were not an overt part of the course, but they were expertly modeled by our instructors. Tate, Daniel, and Atila worked together seamlessly, delivering a wealth of expertise and support while still putting enough fear of God in us so we excel. &lt;/p&gt;
+&lt;p&gt;Leadership skills were not an overt part of the course, but they were expertly modeled by our instructors. Tate, Daniel, and Atila worked together seamlessly, delivering a wealth of expertise and support while still putting enough fear of God in us so we excel.&lt;/p&gt;
 
 &lt;h3 id=&quot;happy-ending&quot;&gt;Happy Ending&lt;/h3&gt;
 &lt;p&gt;In the end, I passed both the course and the national EMT exam. I am a certified Wilderness EMT! Here’s to ever more enriching and responsible endangerment together through &lt;a href=&quot;http://sextant.works/&quot;&gt;Sextantworks&lt;/a&gt;.&lt;/p&gt;
@@ -371,8 +379,8 @@ Designing Sex, Death, and Survival in the 21st Century&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;All photos by Tate Higgins.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 13 Aug 2015 00:00:00 -0400</pubDate>
-        <link>http://uncommonplaces.com/2015/08/wilderness-emt/</link>
-        <guid isPermaLink="true">http://uncommonplaces.com/2015/08/wilderness-emt/</guid>
+        <link>http://localhost:4000/2015/08/wilderness-emt/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/08/wilderness-emt/</guid>
         
         <category>Reflections</category>
         
@@ -381,7 +389,7 @@ Designing Sex, Death, and Survival in the 21st Century&lt;/p&gt;
     
       <item>
         <title>The Move to Jekyll</title>
-        <description>&lt;p&gt;I learned to develop for the internet because of &lt;a href=&quot;https://wordpress.org/&quot;&gt;WordPress&lt;/a&gt;. In the past 6 years, I made over 20 custom WordPress sites for my own projects and for clients. It’s easy to start with small edits on available themes, move to making themes from scratch and later mess with plugins. As my development skills got better, I no longer needed a full blown content management system (CMS) like WordPress to present my own projects online. I bypassed Wordpress to just write vanilla HTML, CSS, and PHP. &lt;/p&gt;
+        <description>&lt;p&gt;I learned to develop for the internet because of &lt;a href=&quot;https://wordpress.org/&quot;&gt;WordPress&lt;/a&gt;. In the past 6 years, I made over 20 custom WordPress sites for my own projects and for clients. It’s easy to start with small edits on available themes, move to making themes from scratch and later mess with plugins. As my development skills got better, I no longer needed a full blown content management system (CMS) like WordPress to present my own projects online. I bypassed Wordpress to just write vanilla HTML, CSS, and PHP.&lt;/p&gt;
 
 &lt;ul class=&quot;small-block-grid-2&quot;&gt;
 
@@ -401,7 +409,7 @@ Designing Sex, Death, and Survival in the 21st Century&lt;/p&gt;
 
 &lt;p&gt;I was ready for something new.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://sfpc.io/&quot;&gt;SFPC&lt;/a&gt;, where I teach and sit on the steering committee, moved its site to &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. &lt;a href=&quot;https://github.com/SFPC/sfpc.github.io&quot;&gt;Casey and Zach developed the site&lt;/a&gt;, and it was an interesting process to watch. Jekyll is a static site generator. A static site generator is like a CMS in that the content, structure, and style of a site are in separate files. They differ in that the static site generator compiles the website on your local development environment before it’s published to a web host. No need for a server to assemble a page each time it’s requested.  &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://sfpc.io/&quot;&gt;SFPC&lt;/a&gt;, where I teach and sit on the steering committee, moved its site to &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. &lt;a href=&quot;https://github.com/SFPC/sfpc.github.io&quot;&gt;Casey and Zach developed the site&lt;/a&gt;, and it was an interesting process to watch. Jekyll is a static site generator. A static site generator is like a CMS in that the content, structure, and style of a site are in separate files. They differ in that the static site generator compiles the website on your local development environment before it’s published to a web host. No need for a server to assemble a page each time it’s requested.&lt;/p&gt;
 
 &lt;p&gt;I decided to give it a try. In a weekend, I completely redesigned my site and ported the WordPress content over to Jekyll.&lt;/p&gt;
 
@@ -413,7 +421,7 @@ The Old Site
 &lt;/li&gt;
 
 &lt;li&gt;
-The New Site (You&#39;re looking at it!)
+The New Site (You're looking at it!)
 &lt;img class=&quot;block-th&quot; src=&quot;/images//2015/2015-03-21_NewWebsite_BlogPost.jpg&quot; /&gt;
 &lt;/li&gt;
 
@@ -438,7 +446,7 @@ The New Site (You&#39;re looking at it!)
     &lt;p&gt;The Official Stuff: &lt;a href=&quot;http://jekyllrb.com/docs/home/&quot;&gt;The Jekyll documentation&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Helpful blog post with instruction on migration: &lt;/p&gt;
+    &lt;p&gt;Helpful blog post with instruction on migration:&lt;/p&gt;
 
     &lt;ul&gt;
       &lt;li&gt;
@@ -461,10 +469,10 @@ The New Site (You&#39;re looking at it!)
 &lt;ol&gt;
   &lt;li&gt;Followed instructions in &lt;a href=&quot;http://www.girliemac.com/blog/2013/12/27/wordpress-to-jekyll/&quot;&gt;this blog post&lt;/a&gt; to export comments to Disqus&lt;/li&gt;
   &lt;li&gt;Exported content out of WordPress with the &lt;a href=&quot;https://wordpress.org/plugins/jekyll-exporter/&quot;&gt;Jekyll Exporter Wordpress Plugin&lt;/a&gt; (This produced much better results than doing a standard export from WordPress and using the Jekyll WordPress importer.)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com/docs/quickstart/&quot;&gt;Downloaded Jekyll&lt;/a&gt; and dropped the exported content into a fresh installation of Jekyll. &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com/docs/quickstart/&quot;&gt;Downloaded Jekyll&lt;/a&gt; and dropped the exported content into a fresh installation of Jekyll.&lt;/li&gt;
   &lt;li&gt;Removed legacy WordpPress code, especially blog posts with image styling.&lt;/li&gt;
   &lt;li&gt;Coded out the design with the help of &lt;a href=&quot;http://foundation.zurb.com/&quot;&gt;Zurb Foundation&lt;/a&gt;. I was hoping to use Grunt while developing the site. I’ve used CodeKit and look forward to dropping, a but the version of Foundation that I used doesn’t support it. As I code, two terminal windows run ‘compass watch’ and ‘jekyll serve’. Easy.&lt;/li&gt;
-  &lt;li&gt;Publish! Any Jekyll site can be hosted with a custom URL for free on GitHub, but I have been deploying most of my repos with &lt;a href=&quot;http://beanstalkapp.com/&quot;&gt;Beanstalk&lt;/a&gt;, so I just stuck with that workflow. Much like my relationship to WordPress, maybe I’m a good enough developer now to move off of beanstalk and start deploying with Capistrano or some other option that works with GitHub. &lt;/li&gt;
+  &lt;li&gt;Publish! Any Jekyll site can be hosted with a custom URL for free on GitHub, but I have been deploying most of my repos with &lt;a href=&quot;http://beanstalkapp.com/&quot;&gt;Beanstalk&lt;/a&gt;, so I just stuck with that workflow. Much like my relationship to WordPress, maybe I’m a good enough developer now to move off of beanstalk and start deploying with Capistrano or some other option that works with GitHub.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h3 id=&quot;the-results&quot;&gt;The Results&lt;/h3&gt;
@@ -473,20 +481,20 @@ The New Site (You&#39;re looking at it!)
 
 &lt;p&gt;Editing markdown and serving a Jekyll site is a great compromise between coding out the sites with just HTML, CSS, and PHP and using a CMS like WordPress. I’m enjoying the best of both worlds.&lt;/p&gt;
 
-&lt;h3 id=&quot;whats-next&quot;&gt;What’s Next?&lt;/h3&gt;
+&lt;p&gt;###What’s Next?&lt;/p&gt;
 
 &lt;p&gt;Will I keep using Wordpress? Yes, but specific purposes that suit client needs and encompass more involved functionality. WordPress is a powerful open source project with a lot of history, a knowledgeable community, and tons of resources.&lt;/p&gt;
 
 &lt;p&gt;That said, a shift is in play.&lt;/p&gt;
 
-&lt;p&gt;Sites that I would have custom designed for clients on WordPress 3 or 4 years ago are being created on hosted services like &lt;a href=&quot;https://en.wikipedia.org/wiki/Squarespace&quot;&gt;Squarespace&lt;/a&gt; by would-be clients themselves today. Developers who would use WordPress to host their own simple sites because it was the best option are moving to static site generators in droves. How we create, organize, and host content online will soon look nothing like the content management systems that have been evolving over the past decade. &lt;/p&gt;
+&lt;p&gt;Sites that I would have custom designed for clients on WordPress 3 or 4 years ago are being created on hosted services like &lt;a href=&quot;https://en.wikipedia.org/wiki/Squarespace&quot;&gt;Squarespace&lt;/a&gt; by would-be clients themselves today. Developers who would use WordPress to host their own simple sites because it was the best option are moving to static site generators in droves. How we create, organize, and host content online will soon look nothing like the content management systems that have been evolving over the past decade.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;I wrote this blog post at the 2015 &lt;a href=&quot;http://www.writespeakcode.com/&quot;&gt;&amp;lt;Write/Speak/Code&amp;gt;&lt;/a&gt; conference, and amazing organization empowering women software developers to become thought leaders.&lt;/em&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 21 Mar 2015 00:00:00 -0400</pubDate>
-        <link>http://uncommonplaces.com/2015/04/move-to-jekyll/</link>
-        <guid isPermaLink="true">http://uncommonplaces.com/2015/04/move-to-jekyll/</guid>
+        <link>http://localhost:4000/2015/04/move-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/04/move-to-jekyll/</guid>
         
         <category>Reflections</category>
         
@@ -495,7 +503,7 @@ The New Site (You&#39;re looking at it!)
     
       <item>
         <title>2014 Year in Review</title>
-        <description>&lt;p&gt;I’ve avoided writing this post for a month and a half now. I did my yearly review on time, right around the beginning of January. The verdict: 2014 was tough. It dragged and gnawed at me in subtle, frustrating ways. Looking through my weekly and monthly reviews was painful. &lt;/p&gt;
+        <description>&lt;p&gt;I’ve avoided writing this post for a month and a half now. I did my yearly review on time, right around the beginning of January. The verdict: 2014 was tough. It dragged and gnawed at me in subtle, frustrating ways. Looking through my weekly and monthly reviews was painful.&lt;/p&gt;
 
 &lt;p&gt;Was there a major catastrophe in 2014? No. Did things near and dear to me come crashing down? Not exactly. So what made the year (and my review) so painful? Groundwork was done for things that will take some time to bear fruit, I confronted personal hurdles, and I disengaged from ingrained ways of thinking that were holding me back.&lt;/p&gt;
 
@@ -547,27 +555,27 @@ The New Site (You&#39;re looking at it!)
 
 &lt;h3 id=&quot;what-was-so-tough&quot;&gt;What Was So Tough?&lt;/h3&gt;
 
-&lt;h4 id=&quot;leaving-the-first-company-i-started&quot;&gt;1. Leaving The First Company I Started&lt;/h4&gt;
+&lt;h4 id=&quot;1-leaving-the-first-company-i-started&quot;&gt;1. Leaving The First Company I Started&lt;/h4&gt;
 
-&lt;p&gt;Starting &lt;a href=&quot;http://playistheantidote.com/&quot;&gt;Antidote Games&lt;/a&gt; with Mohini Dutta and Ben Norskov was a delightful and empowering career move. We studied game design in school at Parsons. As students, we worked on a few projects for major humanitarian organizations. The demand for our work continued. Our little design studio / consultancy was born. Sextantworks grew alongside Antidote in a similarly organic fashion. After a while, it was hard to maintain my involvement in both in any satisfactory way. I knew that Ben &amp;amp; Mohini could carry on without me. I’m proud of the foundational work I did to get Antidote off the ground. I miss being involved in game design projects and social impact work, but I love focusing on Sextantworks wholeheartedly and moving people in profound ways through experience design.  &lt;/p&gt;
+&lt;p&gt;Starting &lt;a href=&quot;http://playistheantidote.com/&quot;&gt;Antidote Games&lt;/a&gt; with Mohini Dutta and Ben Norskov was a delightful and empowering career move. We studied game design in school at Parsons. As students, we worked on a few projects for major humanitarian organizations. The demand for our work continued. Our little design studio / consultancy was born. Sextantworks grew alongside Antidote in a similarly organic fashion. After a while, it was hard to maintain my involvement in both in any satisfactory way. I knew that Ben &amp;amp; Mohini could carry on without me. I’m proud of the foundational work I did to get Antidote off the ground. I miss being involved in game design projects and social impact work, but I love focusing on Sextantworks wholeheartedly and moving people in profound ways through experience design.&lt;/p&gt;
 
-&lt;h4 id=&quot;following-my-intuition&quot;&gt;2. Following My Intuition&lt;/h4&gt;
+&lt;h4 id=&quot;2-following-my-intuition&quot;&gt;2. Following My Intuition&lt;/h4&gt;
 
 &lt;p&gt;My close friends and colleagues will attest to the dyanmite advice I give when they are most lost. Their glowing feedback has convinced me to take my intuition more seriously. It is rare that setting aside other’s expectations to follow my intuition produces bad results. Very, very rare. My written weekly reviews give me a window into this process as it plays out over months. 2013 was the first year I could &lt;a href=&quot;http://uncommonplaces.com/2014/01/2013-year-review/&quot;&gt;see this irrefutably&lt;/a&gt;, so I followed my intuition even more in 2014. I chose not to meet people’s expectations in the immediate in favor of long term results, to both my benefit and theirs. Behaving this way kicked up a lot of shame. No wonder I hadn’t done it more in the past! The demons of low self-worth snarled in my ears as I bore the weight of other’s confusion, frustration, and dismissal. I couldn’t have stuck it out if I didn’t have a meditation practice and an exercise routine. It’s going to be easier in the future, but holly wow was the psychic drag on following my intuition fierce this year!&lt;/p&gt;
 
-&lt;h4 id=&quot;home-renovations-are-not-my-strong-suit&quot;&gt;3. Home Renovations Are Not My Strong Suit&lt;/h4&gt;
+&lt;h4 id=&quot;3-home-renovations-are-not-my-strong-suit&quot;&gt;3. Home Renovations Are Not My Strong Suit&lt;/h4&gt;
 
-&lt;p&gt;New Yorkers periodically go through the hell of leaving one apartment for another. The process is inherently traumatic for all but the most privileged and lucky. I am incredibly grateful to be able to stay put in the same place for 7 years running. Even better that I can build out funny lofts and install salvaged bathroom fixtures. But I proved to be terrible at physical build out on an ambitious home renovation project. Maybe I was scarred growing up from too many insane home improvements instigated by my flamboyantly DIY parents. As soon as the apartment became a the construction zone, my mind was mush. I didn’t see the challenge coming, and I couldn’t follow through on much of the envisioned work. I’ve learned my lesson. A happy ending is in sight. My 2014 was very much hindered in the process, though. &lt;/p&gt;
+&lt;p&gt;New Yorkers periodically go through the hell of leaving one apartment for another. The process is inherently traumatic for all but the most privileged and lucky. I am incredibly grateful to be able to stay put in the same place for 7 years running. Even better that I can build out funny lofts and install salvaged bathroom fixtures. But I proved to be terrible at physical build out on an ambitious home renovation project. Maybe I was scarred growing up from too many insane home improvements instigated by my flamboyantly DIY parents. As soon as the apartment became a the construction zone, my mind was mush. I didn’t see the challenge coming, and I couldn’t follow through on much of the envisioned work. I’ve learned my lesson. A happy ending is in sight. My 2014 was very much hindered in the process, though.&lt;/p&gt;
 
 &lt;h3 id=&quot;what-about-the-good-parts&quot;&gt;What About The Good Parts?&lt;/h3&gt;
 
-&lt;h4 id=&quot;the-school-for-poetic-computation&quot;&gt;1. The School for Poetic Computation&lt;/h4&gt;
+&lt;h4 id=&quot;1-the-school-for-poetic-computation&quot;&gt;1. The School for Poetic Computation&lt;/h4&gt;
 &lt;p&gt;In my &lt;a href=&quot;http://uncommonplaces.com/2014/01/2013-year-review/&quot;&gt;2013 year in review&lt;/a&gt;, I pointed out how I wasn’t programming as much as I’d liked. Attending &lt;a href=&quot;http://sfpc.io/&quot;&gt;the School For Poetic Computation&lt;/a&gt; fixed that. You can read about my experience there in &lt;a href=&quot;http://uncommonplaces.com/2014/06/school-poetic-computation/&quot;&gt;an earlier blog post&lt;/a&gt;. I was thrilled to be invited back as part of the team going forward.&lt;/p&gt;
 
-&lt;h4 id=&quot;social-graces-ftw&quot;&gt;2. Social Graces FTW&lt;/h4&gt;
+&lt;h4 id=&quot;2-social-graces-ftw&quot;&gt;2. Social Graces FTW&lt;/h4&gt;
 &lt;p&gt;Years of working with the charismatic and charming N.D. Austin are starting to rub off. I’m learning to keep my natural grumpy snob in check. Kindness, warmth, and encouragement are emotional tools at my disposal more than ever before.&lt;/p&gt;
 
-&lt;h4 id=&quot;the-glit-filter&quot;&gt;3. The G.L.I.T. Filter&lt;/h4&gt;
+&lt;h4 id=&quot;3-the-glit-filter&quot;&gt;3. The G.L.I.T. Filter&lt;/h4&gt;
 &lt;p&gt;Thanks to the inspiration of the &lt;a href=&quot;http://sextant.works/sso/sellingout.php&quot;&gt;School of Selling Out&lt;/a&gt;, Sextantworks has pinpointed the qualities that make a project a good fit. They are generosity, location, intimacy, and transgression (aka G.L.I.T.). We size up opportunities faster and more exactingly now that we have distilled the qualities down to a handy acronym.&lt;/p&gt;
 
 &lt;p&gt;-&lt;/p&gt;
@@ -576,8 +584,8 @@ The New Site (You&#39;re looking at it!)
 
 </description>
         <pubDate>Sat, 14 Feb 2015 00:00:00 -0500</pubDate>
-        <link>http://uncommonplaces.com/2015/04/2014-year-review/</link>
-        <guid isPermaLink="true">http://uncommonplaces.com/2015/04/2014-year-review/</guid>
+        <link>http://localhost:4000/2015/04/2014-year-review/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/04/2014-year-review/</guid>
         
         <category>News &amp;amp; Updates</category>
         
@@ -637,8 +645,8 @@ The New Site (You&#39;re looking at it!)
 &lt;/blockquote&gt;
 </description>
         <pubDate>Sun, 21 Sep 2014 00:00:00 -0400</pubDate>
-        <link>http://uncommonplaces.com/2014/09/birthday-surprises/</link>
-        <guid isPermaLink="true">http://uncommonplaces.com/2014/09/birthday-surprises/</guid>
+        <link>http://localhost:4000/2014/09/birthday-surprises/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/09/birthday-surprises/</guid>
         
         <category>Reflections</category>
         
