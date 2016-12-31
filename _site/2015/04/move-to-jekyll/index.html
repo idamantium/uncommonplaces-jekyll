@@ -20,8 +20,8 @@
   <link rel="stylesheet" href="/stylesheets/app.css" />
 
 
-  <link rel="canonical" href="http://uncommonplaces.com/2015/04/move-to-jekyll/">
-  <link rel="alternate" type="application/rss+xml" title="" href="http://uncommonplaces.com/feed.xml" />
+  <link rel="canonical" href="http://localhost:4000/2015/04/move-to-jekyll/">
+  <link rel="alternate" type="application/rss+xml" title="" href="http://localhost:4000/feed.xml" />
 
 
 <!-- For image crousels - https://github.com/kenwheeler/slick/ -->
@@ -75,33 +75,31 @@
       <!--
         
           
-          <li><a href="/about-ida.html">About</a></li>
+          <li><a href="/about-ida/">About</a></li>
           
         
           
-          <li><a href="/contact.html">Contact</a></li>
+          <li><a href="/contact/">Contact</a></li>
           
         
           
-          <li><a href="/faq.html">FAQs</a></li>
-          
-        
-          
-        
-          
-        
-          
-          <li><a href="/posts.html">Blog Posts</a></li>
-          
-        
-          
-          <li><a href="/projects.html">Projects</a></li>
+          <li><a href="/faq/">FAQs</a></li>
           
         
           
         
           
-          <li><a href="/words.html">Words</a></li>
+        
+          
+          <li><a href="/posts/">Blog Posts</a></li>
+          
+        
+          
+          <li><a href="/projects/">Projects</a></li>
+          
+        
+          
+          <li><a href="/words/">Words</a></li>
           
         
 
@@ -139,7 +137,7 @@
 	<div class="large-8 medium-9 columns">
 
   		<article class="post-content">
-  		  <p>I learned to develop for the internet because of <a href="https://wordpress.org/">WordPress</a>. In the past 6 years, I made over 20 custom WordPress sites for my own projects and for clients. It’s easy to start with small edits on available themes, move to making themes from scratch and later mess with plugins. As my development skills got better, I no longer needed a full blown content management system (CMS) like WordPress to present my own projects online. I bypassed Wordpress to just write vanilla HTML, CSS, and PHP. </p>
+  		  <p>I learned to develop for the internet because of <a href="https://wordpress.org/">WordPress</a>. In the past 6 years, I made over 20 custom WordPress sites for my own projects and for clients. It’s easy to start with small edits on available themes, move to making themes from scratch and later mess with plugins. As my development skills got better, I no longer needed a full blown content management system (CMS) like WordPress to present my own projects online. I bypassed Wordpress to just write vanilla HTML, CSS, and PHP.</p>
 
 <ul class="small-block-grid-2">
 
@@ -159,7 +157,7 @@
 
 <p>I was ready for something new.</p>
 
-<p><a href="http://sfpc.io/">SFPC</a>, where I teach and sit on the steering committee, moved its site to <a href="http://jekyllrb.com/">Jekyll</a>. <a href="https://github.com/SFPC/sfpc.github.io">Casey and Zach developed the site</a>, and it was an interesting process to watch. Jekyll is a static site generator. A static site generator is like a CMS in that the content, structure, and style of a site are in separate files. They differ in that the static site generator compiles the website on your local development environment before it’s published to a web host. No need for a server to assemble a page each time it’s requested.  </p>
+<p><a href="http://sfpc.io/">SFPC</a>, where I teach and sit on the steering committee, moved its site to <a href="http://jekyllrb.com/">Jekyll</a>. <a href="https://github.com/SFPC/sfpc.github.io">Casey and Zach developed the site</a>, and it was an interesting process to watch. Jekyll is a static site generator. A static site generator is like a CMS in that the content, structure, and style of a site are in separate files. They differ in that the static site generator compiles the website on your local development environment before it’s published to a web host. No need for a server to assemble a page each time it’s requested.</p>
 
 <p>I decided to give it a try. In a weekend, I completely redesigned my site and ported the WordPress content over to Jekyll.</p>
 
@@ -196,7 +194,7 @@ The New Site (You're looking at it!)
     <p>The Official Stuff: <a href="http://jekyllrb.com/docs/home/">The Jekyll documentation</a></p>
   </li>
   <li>
-    <p>Helpful blog post with instruction on migration: </p>
+    <p>Helpful blog post with instruction on migration:</p>
 
     <ul>
       <li>
@@ -219,10 +217,10 @@ The New Site (You're looking at it!)
 <ol>
   <li>Followed instructions in <a href="http://www.girliemac.com/blog/2013/12/27/wordpress-to-jekyll/">this blog post</a> to export comments to Disqus</li>
   <li>Exported content out of WordPress with the <a href="https://wordpress.org/plugins/jekyll-exporter/">Jekyll Exporter Wordpress Plugin</a> (This produced much better results than doing a standard export from WordPress and using the Jekyll WordPress importer.)</li>
-  <li><a href="http://jekyllrb.com/docs/quickstart/">Downloaded Jekyll</a> and dropped the exported content into a fresh installation of Jekyll. </li>
+  <li><a href="http://jekyllrb.com/docs/quickstart/">Downloaded Jekyll</a> and dropped the exported content into a fresh installation of Jekyll.</li>
   <li>Removed legacy WordpPress code, especially blog posts with image styling.</li>
   <li>Coded out the design with the help of <a href="http://foundation.zurb.com/">Zurb Foundation</a>. I was hoping to use Grunt while developing the site. I’ve used CodeKit and look forward to dropping, a but the version of Foundation that I used doesn’t support it. As I code, two terminal windows run ‘compass watch’ and ‘jekyll serve’. Easy.</li>
-  <li>Publish! Any Jekyll site can be hosted with a custom URL for free on GitHub, but I have been deploying most of my repos with <a href="http://beanstalkapp.com/">Beanstalk</a>, so I just stuck with that workflow. Much like my relationship to WordPress, maybe I’m a good enough developer now to move off of beanstalk and start deploying with Capistrano or some other option that works with GitHub. </li>
+  <li>Publish! Any Jekyll site can be hosted with a custom URL for free on GitHub, but I have been deploying most of my repos with <a href="http://beanstalkapp.com/">Beanstalk</a>, so I just stuck with that workflow. Much like my relationship to WordPress, maybe I’m a good enough developer now to move off of beanstalk and start deploying with Capistrano or some other option that works with GitHub.</li>
 </ol>
 
 <h3 id="the-results">The Results</h3>
@@ -231,13 +229,13 @@ The New Site (You're looking at it!)
 
 <p>Editing markdown and serving a Jekyll site is a great compromise between coding out the sites with just HTML, CSS, and PHP and using a CMS like WordPress. I’m enjoying the best of both worlds.</p>
 
-<h3 id="whats-next">What’s Next?</h3>
+<p>###What’s Next?</p>
 
 <p>Will I keep using Wordpress? Yes, but specific purposes that suit client needs and encompass more involved functionality. WordPress is a powerful open source project with a lot of history, a knowledgeable community, and tons of resources.</p>
 
 <p>That said, a shift is in play.</p>
 
-<p>Sites that I would have custom designed for clients on WordPress 3 or 4 years ago are being created on hosted services like <a href="https://en.wikipedia.org/wiki/Squarespace">Squarespace</a> by would-be clients themselves today. Developers who would use WordPress to host their own simple sites because it was the best option are moving to static site generators in droves. How we create, organize, and host content online will soon look nothing like the content management systems that have been evolving over the past decade. </p>
+<p>Sites that I would have custom designed for clients on WordPress 3 or 4 years ago are being created on hosted services like <a href="https://en.wikipedia.org/wiki/Squarespace">Squarespace</a> by would-be clients themselves today. Developers who would use WordPress to host their own simple sites because it was the best option are moving to static site generators in droves. How we create, organize, and host content online will soon look nothing like the content management systems that have been evolving over the past decade.</p>
 
 <p><em>I wrote this blog post at the 2015 <a href="http://www.writespeakcode.com/">&lt;Write/Speak/Code&gt;</a> conference, and amazing organization empowering women software developers to become thought leaders.</em></p>
 
