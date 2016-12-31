@@ -4,19 +4,11 @@
     <title></title>
     <description>Experience Design &amp; Media Strategy
 </description>
-<<<<<<< HEAD
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 Dec 2016 00:08:04 -0500</pubDate>
-    <lastBuildDate>Sat, 31 Dec 2016 00:08:04 -0500</lastBuildDate>
+    <pubDate>Sat, 31 Dec 2016 02:34:05 -0500</pubDate>
+    <lastBuildDate>Sat, 31 Dec 2016 02:34:05 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
-=======
-    <link>http://uncommonplaces.com/</link>
-    <atom:link href="http://uncommonplaces.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Dec 2016 17:47:58 -0500</pubDate>
-    <lastBuildDate>Thu, 15 Dec 2016 17:47:58 -0500</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
->>>>>>> Revert "copy error on about, added mind/body/consciousness to faq"
     
       <item>
         <title>SVA's Design Research, Writing, and Criticism MA</title>

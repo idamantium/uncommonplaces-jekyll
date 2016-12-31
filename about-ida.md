@@ -6,7 +6,7 @@ image: /images/self/Businessweek-Peter-Prato(vert).jpg
 page-title: Ida C. Benedetto
 ---
 
-###Experience Designer
+### Experience Designer
 
 I believe in storytelling, empathy, and adventure. They spark the creativity to make us better people and a better society. As an experience designer and media strategist, I will get you doing and discovering things you might not otherwise. I'm often at the helm of a fair bit of creative chaos, be it with a film collective of AIDS orphans in Ethiopia or a punk rock video game gallery in New York City. I accentuate potential for the sake of greater impact and stability. My creative roots lie in documentary photography, and my current work involves games and real world adventures. 
 
@@ -34,4 +34,4 @@ As for schooling, I have an MA in Design Research from the School of Visual Arts
 
 Of all my accomplishments, few will top being voted &#8220;Most Likely to Discover Time Travel&#8221; by my junior high classmates.
 
-For more, try the [FAQs](/faq.html).
+For more, try the [FAQs](/faq/).

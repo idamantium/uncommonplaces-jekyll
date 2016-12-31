@@ -5,10 +5,10 @@ image: /images/self/DanielShea-IdaCBenedetto.jpg
 ---
 ### Ida C. Benedetto is an experience designer working in real world adventures, game design, and digital media.  
    
-####Currently: 
+#### Currently: 
 ["Designing Sex, Death, and Survival in the 21st Century"](/2016/04/sex-death-survival/)  
 
-####Of Note:
+#### Of Note:
 
 <span class="post-date">November 20th, 2016</span>   
 [Collaborated with the Center for Artistic Activism & the Queens Museum](http://hyperallergic.com/340287/letters-from-home-to-donald-trump/)   
