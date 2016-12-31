@@ -1,5 +1,8 @@
 /****************** custom styles *******************/
 
+body {
+	font-weight: normal;
+}
 
 .wrapper {
 
@@ -353,6 +356,15 @@ blockquote::before {
 	border-bottom: 1px solid $jumbo;
 }
 
+h1 {
+	font-size: 2.25rem;
+}
+
+h3 {
+	font-size: 1.75rem;
+	padding: 12px 0 8px;
+}
+
 
 a {
 	display: inline-block;
@@ -363,10 +375,14 @@ a {
 
 p a {
 	display: inline-block;
-	text-decoration: none;
+	text-decoration: underline;
 	border-bottom: 0px solid inherit;
 	transition-property: border-bottom, color, background;
  	  transition-duration: 0.2s;
+}
+
+.home a {
+	text-decoration: none;
 }
 
 p a:hover {
@@ -511,7 +527,7 @@ text-transform: uppercase;
 }
 
 .post-meta {
-font-weight: 400;
+font-weight: 500;
 font-family: "europa", "Futura LT", san-serif;
 font-size: 1rem;
 line-height: 0.5rem;
@@ -563,12 +579,12 @@ color: $base;
 
 /**
  * Posts
- */
+ 
 
  .post-content p {
  	font-weight: lighter;
  }
-
+*/
 /*
 .post-title {
     font-size: 42px;
