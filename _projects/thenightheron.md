@@ -46,6 +46,6 @@ I served as Head of the Brain Trust for the project, advising the build out and 
 
 </ul>
 
-The core team consisted of <a href="http://dirby.info/" target="_blank">Dirby</a> (material design and build out), <a href="https://www.linkedin.com/in/myric-lehner-07305842" target+"_blank">Myric Lehner</a> (finances and security), and  <a href="http://www.lindsayardencooper.com/" target="_blank">Lindsay Arden Cooper</a> (guest stewardship and bar management). Photos by <a href="http://cargocollective.com/yonibrook" target="_blank">Yoni Brook</a>.
+The core team consisted of <a href="http://dirby.info/" target="_blank">Dirby</a> (material design and build out), <a href="https://www.linkedin.com/in/myric-lehner-07305842" target="_blank">Myric Lehner</a> (finances and security), and  <a href="http://www.lindsayardencooper.com/" target="_blank">Lindsay Arden Cooper</a> (guest stewardship and bar management). Photos by <a href="http://cargocollective.com/yonibrook" target="_blank">Yoni Brook</a>.
 
 For inquiries regarding The Night Heron, contact <a href="mailto:imbibe@nightheronspeakeasy.com">N.D. Austin</a>.
