@@ -6,7 +6,7 @@ layout: post
 
 ### Why do you call yourself a designer? You seem more like an artist.
 
-I grew up watching my mom design, be that textiles [she would knit](https://www.instagram.com/aprioriknits/), graphic design layouts she would arrange, or interiors she would decorate. Being a designer, with a client or pragmatic application in mind, resonates deeply with me, even if some of the stuff I make ends up feeling and acting like art. My brother is also a [successful designer](http://easterncollective.com/), so it runs in the family.
+I grew up watching my mom design everything from [textiles](https://www.instagram.com/aprioriknits/) to visual layouts to interiors. Being a designer, with a client or pragmatic application in mind, resonates deeply with me, even if some of the stuff I make ends up feeling and acting like art. My brother is also a [successful designer](http://easterncollective.com/), so it runs in the family.
 
 
 ### What is experience design, exactly?
@@ -48,7 +48,7 @@ I've been focused on research and consulting lately, but I am working on few pri
 
 ### I think the Night Heron is just the coolest. Can you come do a talk about it or make me a hipper than hip marketing thing based on it?
 
-I'm happy to speak about [the Night Heron](http://sextant.works/nightheron) in the context of Sextantworks' practice generally, but I'm more interest in speaking about my [current research](/2016/04/sex-death-survival/). (Organizations like IDEO, Oculus, Kaleidoscope, and littleBits have had me in for talks.)
+I'm happy to speak about [the Night Heron](/projects/thenightheron/) in the context of Sextantworks' practice generally, but I'm more interest in speaking about my [current research](/2016/04/sex-death-survival/). (Organizations like IDEO, Oculus, Kaleidoscope, and littleBits have had me in for talks.)
 
 If you want a custom bar designed and built, contact <a href="http://dirby.info/">Dirby</a>, the Night Heron's lead craftsman and a regular creative superhero at Sextantworks. I can't recommend his work enough.
 
@@ -58,7 +58,7 @@ If you just want to get in on the Night Heron craze, N.D. is your man. <a href="
 
 ### I'm dreaming up this super great project that just needs a killer location. Can you help?
 
-I get location requests all the time, and I'll be completely frank that they bore the hell out of me. If you need location ideas, try [Atlas Obscura](http://www.atlasobscura.com/), or [Scouting New York](http://www.scoutingny.com/) and [Abandoned NYC](https://abandonednyc.com/) for spots in the New York area, or just go walk around with your eyes open.
+I get location requests all the time, and I'll be completely frank that they bore the hell out of me. If you need location ideas, try [Atlas Obscura](http://www.atlasobscura.com/places), or [Scouting New York](http://www.scoutingny.com/) and [Abandoned NYC](https://abandonednyc.com/) for spots in the New York area, or just go walk around with your eyes open.
 
 
 ### I already have an awesome, unique location. Can you help me figure out what to do with it?
