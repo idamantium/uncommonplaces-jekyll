@@ -5,7 +5,7 @@ layout: default
 <div class="hero">
 
 	<div class="row">
-		<div class="large-6 push-6 columns">
+		<div class="large-6 large-push-6 medium-8 medium-push-3 small-8 small-push-4 columns">
 				<h1 class="home-title">I provoke new insight through adventure and play.</h1>
 				<img src="{{ page.image  | prepend: site.baseurl }}">
 		</div>
@@ -17,13 +17,40 @@ layout: default
 
 <div class="content">
 	<div class="wrapper">
-	<div class="large-12 small-12 large-centered columns">
+		<div class="row">
+		<ul class="small-block-grid-1 medium-block-grid-2">
 
-		<article class="post-content home">
-    {{ content }}
-  	</article>
+{% for entry in page.box-content %}
+
+<li class="project-link">
+	<a href="{{ entry.link }}" target="_blank">
+		<h3>{{ entry.title }}</h3>
+		<img src="{{ entry.image }}">
+    <p>{{ entry.info }}
+
+			  {% if box-content.link-list %}{% for item in box-content.link-list %} <a href="{{ item.sublink }}">{{ item.name }}</a> {% endfor %}{% endif %}
+
+		</p>
+		</a>
+	</li>
+
+
+{% endfor %}
+</ul>
 
 	</div>
+<div class="row">
+
+<div class="large-8 large-push-2 medium-10 medium-push-1 small-12">
+
+	{{ content }}
+
+</div>
+
+
+</div>
+
 	</div>
+</div>
 
 </div>

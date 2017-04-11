@@ -6,7 +6,7 @@ image: /images/self/DanielShea-IdaCBenedetto copy.jpg
 page-title: Ida C. Benedetto
 ---
 
-For the past 8 years, I have been helping people gain new insight through adventure and play.
+For the past 8 years, I have been provoking new insight through adventure and play.
 
 I thrive on expanding people's horizons through first-hand experience and broadening our ability to empathically imagine the experience of others. This is fueled by my own innate appetite for exploration and coloring outside the lines. My work has taken the form of games, adventures, documentary media, and educational endeavors. At their best, my projects break new ground for understanding, connection, and collaboration across differences big and small.
 
@@ -15,7 +15,7 @@ I am also passionate about helping unconventional creative communities flex thei
 
 <h3 class="subheader">Currently</h3>
 
-As a Senior Designer at <a href="https://www.sypartners.com/" target="_blank">SYPartners</a>, I create systems of human-led, purpose-driven transformation at the individual, organizational, and societal level to propagate large-scale, positive impact in society.   
+As a Senior Designer at <a href="https://www.sypartners.com/" target="_blank">SYPartners</a>, I create systems of human-led, purpose-driven transformation at the individual, organizational, and societal level to propagate large-scale, positive impact.   
 
 Independently, I'm exploring the design of [transformative social experiences](/2016/04/sex-death-survival/) by comparing sex parties, funerals, and wilderness trips. The research started through graduate work at the School of Visual Arts' <a href="http://designresearch.sva.edu/program/" target="_blank">Design Research Program</a> and is now supported through a research residency at <a href="http://www.newinc.org/"  target="_blank">NEW INC</a>.
 

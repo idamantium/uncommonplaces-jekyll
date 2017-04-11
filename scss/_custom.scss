@@ -12,10 +12,10 @@ body {
 
 .hero {
 	background-image: url(/images/self/20160411-20160411-0409-Peter-Prato-vert.jpg);
-	padding: 12rem 0;
-	height: 600px;
 	background-size: 100%;
 	color: white;
+	padding: 12rem 0;
+	height: 800px;
 }
 
 .hero h1 {
@@ -115,16 +115,6 @@ a img {
 
 
 
-@media only screen and (min-width: 120.063em) {
-
-
-
-.top-bar li, .circular {
-	margin-right: 1rem;
-
-}
-
-
 .project-image {
 	height: 250px;
 
@@ -152,12 +142,13 @@ a img {
 }
 
 
-}
-
 @media only screen and (min-width: 90.063em) and (max-width: 120em) {
 
 
-
+	.hero {
+		padding: 12rem 0;
+		height: 800px;
+	}
 
 
 .project-image {
@@ -177,11 +168,12 @@ a img {
 
 
 
-.circular {
-	margin-right: 1rem;
+	.hero {
+		margin-top: 1rem;
+		padding: 11rem 0;
+		height: 700px;
 
-}
-
+	}
 
 
 .project-image {
@@ -209,6 +201,21 @@ a img {
 	margin: -80px 0 0 0;
 }
 
+.hero {
+	margin-top: 3rem;
+	padding: 14rem 0;
+	height: 420px;
+
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+top-bar-section ul {
+	font-size: 14px;
+}
+
 
 
 
@@ -222,6 +229,23 @@ a img {
 
 .top-bar-section ul li {
     float: left;
+}
+
+.top-bar-section h2 {
+
+	font-size: 1.6rem;
+
+}
+
+.hero {
+	margin-top: 1rem;
+	padding: 9rem 0;
+	height: 100px;
+
+}
+
+.hero h1 {
+	font-size: 1.7rem;
 }
 
 .sticky.fixed {
@@ -497,8 +521,7 @@ blockquote em{
 
 
 li.project-link {
-      display: block;
-      padding: 0.4375rem 0;
+
       transition-property: background-color, color;
  	  transition-duration: 0.2s;
 
