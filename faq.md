@@ -34,9 +34,7 @@ Antidote Games is [alive and kicking](http://www.playistheantidote.com/). My co-
 
 [Sextantworks](http://sextant.works/) closed down in mid-2016 after nearly four wild, busy years. We started out doing projects just for fun. Their success outpaced our ability to manage the opportunities let alone our own ambitions, so we disbanded. The creative practice attracted a dedicated, unconventional team. I can only dream of working with such an inspiring group of oddball creatives again in the future.  
 
-Many of you have expressed disappointment at Sextantworks closing down. Thank you for the love and appreciation. While it was sad to close up shop, I am deeply gratified applying everything I learned to broader endeavors with an eye toward sustained impact.
-
-Sextantworks' expedition equipment went with the daring and mysterious N.D. Austin. He's still making magical adventures, so <a href="mailto:imbibe@nightheronspeakeasy.com">reach out to him</a> if you want in.   
+Many people have expressed disappointment at Sextantworks closing down. I'm humbled by the love and appreciation. While it was sad to close up shop, I am deeply gratified applying everything I learned to broader endeavors with an eye toward sustained impact.
 
 
 ### Do you still design adventures?

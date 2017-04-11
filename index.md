@@ -12,7 +12,7 @@ box-content:
     link: http://patternsoftransformation.com/
   - title: Discover SYPartners
     image: /images/home/Eames-SYPartners.jpg
-    info: SYPartners hired me as a "true maverick" with singular expertise in experiences design.  Im advancing their work to create large-scale positive impact on society through individual and organizational transformation.
+    info: SYPartners hired me as a "true maverick" with singular expertise in experiences design. I'm advancing their work to create large-scale positive impact on society through individual and organizational transformation.
     link: https://www.sypartners.com/consulting/
   - title: Read About Sextantworks
     image: /images/home/pressLogos.jpg

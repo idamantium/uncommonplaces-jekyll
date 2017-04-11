@@ -6,7 +6,7 @@ image: /images/self/DanielShea-IdaCBenedetto copy.jpg
 page-title: Ida C. Benedetto
 ---
 
-For the past 8 years, I have been provoking new insight through adventure and play.
+For the past 10 years, I have been provoking new insight through adventure and play.
 
 I thrive on expanding people's horizons through first-hand experience and broadening our ability to empathically imagine the experience of others. This is fueled by my own innate appetite for exploration and coloring outside the lines. My work has taken the form of games, adventures, documentary media, and educational endeavors. At their best, my projects break new ground for understanding, connection, and collaboration across differences big and small.
 
