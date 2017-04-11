@@ -2,26 +2,28 @@
 layout: default
 ---
 
-<div class="post">
+<div class="hero">
+
 	<div class="row">
+		<div class="large-6 push-6 columns">
+				<h1 class="home-title">I provoke new insight through adventure and play.</h1>
+				<img src="{{ page.image  | prepend: site.baseurl }}">
+		</div>
+	</div>
+
+</div>
 
 
-<row>
-	<div class="small-12 medium-7 large-7 columns">
+
+<div class="content">
+	<div class="wrapper">
+	<div class="large-12 small-12 large-centered columns">
 
 		<article class="post-content home">
     {{ content }}
   	</article>
-	
+
 	</div>
-
-	<div class="small-12 medium-5 large-5 columns">
-		<img src="{{ page.image  | prepend: site.baseurl }}">
-		
 	</div>
-
-</row>
-
-  
 
 </div>

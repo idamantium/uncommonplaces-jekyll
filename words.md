@@ -1,12 +1,13 @@
 ---
 title: Words
 author: ida
-layout: default
+layout: words
 page-title: Words
 ---
 
 ### Resources  
-[FAQs](/faq/)   
+[FAQs](/faq/)    
+[Experience Design Syllabus](https://github.com/idamantium/ExperienceDesign)  
 Reading List
 
 

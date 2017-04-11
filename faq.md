@@ -17,7 +17,7 @@ Experience design is the creation of experiences for the purpose of entertainmen
 Nope. [Performance artists](https://en.wikipedia.org/wiki/Performance_art) make aesthetic experiences where, more often than not, they are the instigator, the reason for the work, and the focus of the audience's attention (think: Marina Abramović or David Blaine). If you insist on throwing me in an art bucket, [social practice](https://en.wikipedia.org/wiki/Social_practice_(art)) would be more accurate. I care about the relational, not the performative.
 
 ### What are some of your influences?
-My idols include [Susan Meiselas](http://www.susanmeiselas.com/) and [Peter Drucker](https://en.wikipedia.org/wiki/Peter_Drucker). As a kid, I was a dedicated fan of [Bill Nye the Science Guy](https://en.wikipedia.org/wiki/Bill_Nye_the_Science_Guy), the [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future) trilogy, and [Myst](https://en.wikipedia.org/wiki/Myst).  [ABC No Rio](https://en.wikipedia.org/wiki/ABC_No_Rio), the [Nuyorican Poets Cafe](https://en.wikipedia.org/wiki/Nuyorican_Poets_Caf%C3%A9), and the [Madagascar Institute](http://www.madagascarinstitute.com/) were major influences once I learned how to escaped the suburbs for New York City. My whole conception of the world shifted a little after reading [Mr. Wilson's Cabinet of Wonder](http://www.nytimes.com/1995/10/29/books/true-lies.html), and I'm gladly never going back.
+My idols include [Susan Meiselas](http://www.susanmeiselas.com/) and [Peter Drucker](https://en.wikipedia.org/wiki/Peter_Drucker).  As a kid, I was a dedicated fan of [Bill Nye the Science Guy](https://en.wikipedia.org/wiki/Bill_Nye_the_Science_Guy), the [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future) trilogy, and [Myst](https://en.wikipedia.org/wiki/Myst).  Once I learned how to escaped the suburbs for New York City, places like [ABC No Rio](https://en.wikipedia.org/wiki/ABC_No_Rio), the [Nuyorican Poets Cafe](https://en.wikipedia.org/wiki/Nuyorican_Poets_Caf%C3%A9), and the [Madagascar Institute](http://www.madagascarinstitute.com/) became major influences. My whole conception of the world shifted a little after reading [Mr. Wilson's Cabinet of Wonder](http://www.nytimes.com/1995/10/29/books/true-lies.html), and I'm gladly never going back.
 
 
 ### What's caught your attention at the moment?
@@ -39,11 +39,6 @@ Many of you have expressed disappointment at Sextantworks closing down. Thank yo
 Sextantworks' expedition equipment went with the daring and mysterious N.D. Austin. He's still making magical adventures, so <a href="mailto:imbibe@nightheronspeakeasy.com">reach out to him</a> if you want in.   
 
 
-### Is it true that Sextantworks orchestrated a huge secret project in New York Harbor? And in wintry Iceland? Can you tell me more?
-
-Yes, yes, and no.
-
-
 ### Do you still design adventures?
 
 I've been focused on research and consulting lately, but I am working on few private adventures.
@@ -51,7 +46,7 @@ I've been focused on research and consulting lately, but I am working on few pri
 
 ### I think the Night Heron is just the coolest. Can you come do a talk about it or make me a hipper than hip marketing thing based on it?
 
-I'm happy to speak about [the Night Heron](/projects/thenightheron/) in the context of Sextantworks' practice generally, but I'm more interest in speaking about my [current research](/2016/04/sex-death-survival/). (Organizations like IDEO, Oculus, Kaleidoscope, and littleBits have had me in for talks.)
+I'm happy to speak about [the Night Heron](/projects/thenightheron/) in the context of [Sextantworks'](/projects/sextantworks/) practice generally, but I'm more interest in speaking about my [current research](/2016/04/sex-death-survival/). (Organizations like IDEO, Oculus, Kaleidoscope, and littleBits have had me in for talks.)
 
 If you want a custom bar designed and built, contact <a href="http://dirby.info/">Dirby</a>, the Night Heron's lead craftsman and a regular creative superhero at Sextantworks. I can't recommend his work enough.
 
@@ -76,4 +71,4 @@ My work schedule is spoken for through mid-2018, possibly longer. Before then, I
 
 ### How can I help with your current work?
 
-What I really need is more [invitations to funerals](/2016/04/sex-death-survival/).
+What would be most helpful are [invitations to funerals](/2016/04/sex-death-survival/).

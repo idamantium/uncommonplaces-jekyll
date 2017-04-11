@@ -4,14 +4,32 @@ body {
 	font-weight: normal;
 }
 
-.wrapper {
 
-	margin-top: 5rem;
+
+
+/* HERO ----------------------------------
+----------------------------------------- */
+
+.hero {
+	background-image: url(/images/self/20160411-20160411-0409-Peter-Prato-vert.jpg);
+	padding: 12rem 0;
+	height: 600px;
+	background-size: 100%;
+	color: white;
 }
 
+.hero h1 {
+	color: rgba(255,255,255,0.9);
+}
+
+
+
+
+/* GENERAL ----------------------------------
+----------------------------------------- */
+
 .content {
-	float: right;
-	padding: 2em 3em 0;
+	padding: 5em 0 1em;
 	min-height: 100vh;
 }
 
@@ -21,31 +39,48 @@ body {
 	margin: 0 0 20px 0;
 }
 
-.circular {
-	width: 60px;
-	height: 60px;
-	border-radius: 35px;
-	-webkit-border-radius: 35px;
-	-moz-border-radius: 35px;
-	background: url(/images/assets/ida-sva.png) no-repeat;
-	margin: 0.3rem auto 0.1rem 0;
-	}
+.wrapper {
+	width: 90%;
+	margin: 0 auto;
+	max-width: 1200px
+
+}
+
+
+/* NAV ----------------------------------
+----------------------------------------- */
 
 .top-bar-section ul li {
     background: none;
     color: #638C57;
-    margin: 1rem auto 0 0;
-    
+    margin: 0 auto 0 0;
+
 
 }
+
+.top-bar-section ul.right li {
+      margin: 0.3rem auto 0 0;
+
+
+}
+
+
 .top-bar-section ul li > a {
 	font-size: 1.2em;
 
 }
 
+.top-bar-section .left ul li a {
+    background: none;
+    color: black;
+    margin: 1rem auto 0 0;
+
+
+}
+
 nav {
 	font-family: $header-font-family;
-	
+
 }
 
 .home {
@@ -66,11 +101,12 @@ nav {
 
 
 
-.sticky.contain-to-grid {
+.sticky.fixed {
 	padding: 0.2rem 0;
 	border-bottom: 1px solid #aaa;
-	min-height: 83px;
+	min-height: 65px;
 	font-family: $header-font-family;
+	background: white;
 }
 
 a img {
@@ -81,10 +117,7 @@ a img {
 
 @media only screen and (min-width: 120.063em) {
 
-.top-bar {
-	padding: 0.575rem 3rem;
 
-}
 
 .top-bar li, .circular {
 	margin-right: 1rem;
@@ -101,9 +134,10 @@ a img {
 	margin: -80px 0 0 0;
 }
 
-.sticky {
+.sticky.fixed {
 
 	min-height: 80px;
+	background: white;
 }
 
 
@@ -114,7 +148,7 @@ a img {
 
 .words .post-content {
 
-	
+
 }
 
 
@@ -122,9 +156,6 @@ a img {
 
 @media only screen and (min-width: 90.063em) and (max-width: 120em) {
 
-.top-bar {
-	padding: 0.875rem 5rem;
-}
 
 
 
@@ -166,11 +197,8 @@ a img {
 }
 
 
-@media only screen and (min-width: 40.063em) and (max-width: 64em) { 
+@media only screen and (min-width: 40.063em) and (max-width: 64em) {
 
-.top-bar { 
-	padding: 0.875rem 3rem;
-}
 
 .project-image {
 	height: 200px;
@@ -182,15 +210,6 @@ a img {
 }
 
 
-.top-bar {
-    padding: 0.875rem 3rem;
-}
-
-
-
-// .top-bar li a:not(.button) {
-// 	padding: 0.4375rem 0.2rem;
-// }
 
 
 }
@@ -199,17 +218,16 @@ a img {
 
 @media only screen and (max-width: 40em) {
 
-.top-bar { 
-	padding: 0.875rem 3rem;
-}
+
 
 .top-bar-section ul li {
     float: left;
 }
 
-.sticky.contain-to-grid {
+.sticky.fixed {
     padding: 0;
     min-height: 33px;
+		background: white;
 }
 
 
@@ -224,17 +242,20 @@ a img {
     position: relative;
     background: #FFFFFF;
     margin-bottom: 0;
-    padding: 0.075rem 1.6rem;
 
 }
 
 .top-bar .title-area {
 	width: 60px;
 	margin: 0 auto;
-} 
+}
 
-.top-bar-section {
+h1.home-title {
+	margin: 0 0 0.67em 0;
+}
 
+.top-bar-section .left h3 a {
+	color: black;
 }
 
 
@@ -287,7 +308,7 @@ text-align: center;
 margin: 1.5em;
 padding: 0;
 list-style: none;
-position: static; 
+position: static;
 
 
 }
@@ -336,17 +357,6 @@ blockquote::before {
 }
 
 
-/*********** Footer positiining ***/
-
-.site-footer {
-	bottom: -10;
-	position: absolute;
-	margin-top: 15px;
-}
-
-.wrapper {min-height: 100%;}
-
-
 
 
 
@@ -381,9 +391,6 @@ p a {
  	  transition-duration: 0.2s;
 }
 
-.home a {
-	text-decoration: none;
-}
 
 p a:hover {
 	border-bottom: 1px solid inherit;
@@ -410,30 +417,30 @@ blockquote{
   padding: 15px 20px 15px 45px;
   margin: 0 0 20px;
   position: relative;
-  
+
   /*Font*/
   font-family: Georgia, serif;
   font-size: 16px;
   line-height: 1.2;
   color: #666;
   text-align: justify;
-  
+
   /*Borders - (Optional)*/
   border-left: 15px solid $secondary-color;
   border-right: 2px solid $secondary-color;
-  
+
 
 }
 
 blockquote::before{
   content: "\201C"; /*Unicode for Left Double Quote*/
-  
+
   /*Font*/
   font-family: Georgia, serif;
   font-size: 60px;
   font-weight: bold;
   color: #999;
-  
+
   /*Positioning*/
   position: absolute;
   left: 10px;
@@ -494,7 +501,7 @@ li.project-link {
       padding: 0.4375rem 0;
       transition-property: background-color, color;
  	  transition-duration: 0.2s;
-    
+
       &:hover,
       &:focus {
         background: hsla(0, 0, 0, 0.125);
@@ -503,15 +510,6 @@ li.project-link {
         //}
       }
     }
-
-
-// .top-bar li a:not(.button) {
-// 	transition-property: background-color, color;
-//  	  transition-duration: 0.2s;
-// }
-
-
-
 
 
 /**
@@ -562,50 +560,6 @@ color: $base;
 
 
 
-/*
-
-.post-meta {
-    color: $charcoal;
-}
-
-.page-heading {
-    font-size: 20px;
-}
-
-
-
-
-*/
-
-/**
- * Posts
- 
-
- .post-content p {
- 	font-weight: lighter;
- }
-*/
-/*
-.post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
-    line-height: 1;
-
-}
-
-
-
-
-.post-content p {
-	color: #7F8C8D;
-font-size: 14px;
-margin-top: 1em;
-line-height: 17px;
-font-weight: lighter;
-
-}
-*/
-
 .alignleft {
 	float: left;
 	margin-right: 1rem;
@@ -617,7 +571,7 @@ font-weight: lighter;
 }
 
 .nav-sticks {
-	padding: 0; 
+	padding: 0;
 	margin: -1rem 0 0 0 ;
-	
+
 }

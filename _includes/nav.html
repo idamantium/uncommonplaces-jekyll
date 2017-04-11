@@ -1,16 +1,21 @@
-<div class="small-12 medium-12 columns nav-sticks">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
 
-<div class="contain-to-grid sticky fixed">
-
-<nav class="top-bar" data-topbar role="navigation" data-options="sticky_on: large">
 
 
-<ul class="title-area">
-<a href="/"><li class="circular"> </li></a>
-</ul>
+<div class="large-12 columns nav-sticks">
+
+<div class="sticky fixed">
+
+    <nav class="top-bar" data-topbar role="navigation" data-options="sticky_on: large">
+
+
+      <div class="wrapper">
+
+      <div class="top-bar-section">
+          <ul class="left">
+              <li><h2><a href="/">  Ida C. Benedetto <!-- <li class="circular"> </li> --> </a></h2></li>
+          </ul>
+      </div>
 
       <section class="top-bar-section">
         <ul class="right">
@@ -26,22 +31,15 @@
       	<li>
       		<a href="/contact/">Contact</a>
       	</li>
-      </ul>
-</section>
+        </ul>
+      </section>
 
-      <!--
-        {% for page in site.pages %}
-          {% if page.title %}
-          <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-          {% endif %}
-        {% endfor %}
+      </div>
 
-          -->
+    </nav>
+
 
 
 </div>
 
-
-    </div>
- 
-    
+</div>
