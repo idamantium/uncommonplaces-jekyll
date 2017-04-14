@@ -20,7 +20,7 @@ small-image: /images//2015/01/pennhills.jpg
 
 The Smoke Machine was a comprehensive artistic exploration of New York Harbor. In addition to co-directing the three-day <a href="/projects/sextantworks/">Sextantworks</a> experience with N.D. Austin, I designed the ritual at the heart of the event. By guiding the clients in a process of uncovering actions and materials that would be meaningful to them, I arranged a personal ceremony that left the guest feeling deeply investment in what took place.
 
-Nautical knot symbols marked puzzles on the beached ferry boat, our main location. Solving puzzles led to keys. Keys opened a door to the roof. On the roof, everyone was individually wigged. While the clients where initially resistant to being the center of attention at any point, in the end they zealously led the ritual themselves thanks to the creative process I took them through.
+Nautical knot symbols marked puzzles on the beached ferry boat, our main location. Solving puzzles led to keys. Keys opened a door to the roof. On the roof, everyone was individually wigged. While the clients were initially resistant to being the center of attention at any point, in the end, they zealously led the ritual themselves thanks to the creative process I took them through.
 
 (Photos by Tod Seelie and Yoni Brook.)
 
@@ -171,7 +171,7 @@ Here are just a few of them:
 </li>
 
 <li>
-<img src="{{ site.baseurl }}/images/projects/smokemachine/people/SmokeMachine_YoniBrook_65C4760.jpg">
+<img src="{{ site.baseurl }}/images/projects/smokemachine/people/S0A1775.jpg">
 </li>
 
 
@@ -184,7 +184,7 @@ Here are just a few of them:
 </li>
 
 <li>
-<img src="{{ site.baseurl }}/images/projects/smokemachine/people/SmokeMachine_YoniBrook_65C2750.jpg">
+<img src="{{ site.baseurl }}/images/projects/smokemachine/people/S0A6143.jpg">
 </li>
 
 

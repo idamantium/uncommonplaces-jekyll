@@ -114,8 +114,8 @@ $font-weight-light: lighter;
 $charcoal    : #555555;
 // $tuatara     : #444444;
 // $oil         : #333333;
-// $jet         : #222222;
-// $black       : #000000;
+$jet         : #222222;
+$black       : #000000;
 
 // We use these as default colors throughout
 $primary-color: #2C691A;
@@ -258,8 +258,8 @@ $h6-font-size: 1rem;
 // We use these to style anchors
 // $anchor-text-decoration: none;
 // $anchor-text-decoration-hover: none;
-$anchor-font-color: $primary-color;
- $anchor-font-color-hover: scale-color($anchor-font-color, $lightness: 30%);
+$anchor-font-color: $charcoal;
+ $anchor-font-color-hover: $black;
 
 // We use these to style the <hr> element
 // $hr-border-width: 1px;
@@ -928,7 +928,7 @@ $anchor-font-color: $primary-color;
 // Hide controls on small
 // $orbit-nav-hide-for-small: true;
 // $orbit-bullet-hide-for-small: true;
-// $orbit-timer-hide-for-small: true; 
+// $orbit-timer-hide-for-small: true;
 
 // 20. Pagination
 // - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1266,7 +1266,7 @@ $anchor-font-color: $primary-color;
 // $switch-paddle-bg: $white;
 // $switch-paddle-transition-speed: .15s;
 // $switch-paddle-transition-ease: ease-out;
-// $switch-active-color: $primary-color; 
+// $switch-active-color: $primary-color;
 
 // 30. Tables
 // - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1394,8 +1394,8 @@ $topbar-bg-color: $white;
 // $topbar-title-font-size: rem-calc(17);
 
 // Set the link colors and styles for top-level nav
-$topbar-link-color: $primary-color;
-$topbar-link-color-hover: #52c431;
+$topbar-link-color: $charcoal;
+$topbar-link-color-hover: $jet;
 // $topbar-link-color-active: $white;
 $topbar-link-color-active-hover: $primary-color;
 // $topbar-link-weight: $font-weight-normal;
@@ -1457,7 +1457,7 @@ $topbar-link-font-family: $header-font-family;
 // Sticky Class
 // $topbar-sticky-class: ".sticky";
 // $topbar-arrows: true; //Set false to remove the triangle icon from the menu item
-// $topbar-dropdown-arrows: true; //Set false to remove the \00bb >> text from dropdown subnavigation li// 
+// $topbar-dropdown-arrows: true; //Set false to remove the \00bb >> text from dropdown subnavigation li//
 
 // 36. Visibility Classes
 // - - - - - - - - - - - - - - - - - - - - - - - - -

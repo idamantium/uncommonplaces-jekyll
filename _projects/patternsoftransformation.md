@@ -28,6 +28,8 @@ small-image: /images/projects/patternsoftransformation/16-03-28NOLSseaKayaking02
 
 </ul>
 
+What do sex parties, funerals, and wilderness trips have in common? More than you think.
+
 *Patterns of Transformation: Designing Sex, Death, and Survival in the 21st Century* is a design reference that I wrote about how to create intimate social gatherings that offer the potential for human enrichment and transformation. It is grounded in lessons from sex parties, funerals, and wilderness trips, and informed by research on the anthropology of ritual, positive psychology, and game studies.
 
 <a href="http://patternsoftransformation.com/" target="_blank" class="button small info">Visit the Website</a>

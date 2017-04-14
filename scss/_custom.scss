@@ -64,6 +64,10 @@ body {
 
 }
 
+.top-bar-section a {
+		text-decoration: none;
+}
+
 .top-bar-section ul.right li {
       margin: 0.3rem auto 0 0;
 
@@ -274,7 +278,7 @@ top-bar-section ul {
 
 .top-bar {
     overflow: visible;
-    height: 1.8125rem;
+    height: 2.2125rem;
     line-height: 2.8125rem;
     position: relative;
     background: #FFFFFF;
@@ -415,24 +419,18 @@ h3 {
 
 
 a {
-	display: inline-block;
 	transition-property: color;
  	  transition-duration: 0.2s;
+		text-decoration: underline;
+		border-bottom: 0px solid inherit;
+		transition-property: border-bottom, color, background;
+			transition-duration: 0.2s;
 }
 
 
-p a {
-	display: inline-block;
-	text-decoration: underline;
-	border-bottom: 0px solid inherit;
-	transition-property: border-bottom, color, background;
- 	  transition-duration: 0.2s;
-}
 
-
-p a:hover {
+a:hover {
 	border-bottom: 1px solid inherit;
-	background: hsla(0, 0, 0, 0.025);
 
 }
 
@@ -526,6 +524,7 @@ blockquote em{
 .project-link a {
 	color: $jet;
 	width: 100%;
+	text-decoration: none;
 }
 
 .project-link h2 {
