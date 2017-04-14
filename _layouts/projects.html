@@ -5,52 +5,180 @@ layout: default
 <div class="content">
 <div class="wrapper">
 <div class="row">
-<div class="large-12 columns">
 
 
 
-    <ul class="post-list">
-        {% for project in site.projects reversed %}
+<div class="large-5 columns">
+<h1>Design Practices:</h1>
 
-        {% if project.status == 'featured' %}
+
+  <ul class="post-list">
+
+    <li class="project-link">
+      <a href="/projects/sypartners/">
+        <h3 class="post-link">
+          SYPartners <span class="post-date">2016 - Present</span>
+        </h3>
+          <div class="project-image"><img src="/images/home/Eames-SYPartners.jpg"></div>
+            <span class="post-meta">Organizational transformation for large-scale societal impact.</span>
+
+          </a>
+    </li>
+
+
+  <ul class="post-list">
+
+    <li class="project-link">
+      <a href="/projects/sextantworks/">
+        <h3 class="post-link">
+          Sextantworks <span class="post-date">2012 - 2016</span>
+        </h3>
+          <div class="project-image"><img src="/images//2015/01/pennhills.jpg"></div>
+            <span class="post-meta">A creative practice taking you places you aren't supposed to go.</span>
+
+          </a>
+    </li>
+
+
+
+      <li class="project-link">
+        <a href="/projects/antidote/">
+          <h3 class="post-link">
+            Antidote Games <span class="post-date">2012 - 2014</span>
+          </h3>
+          <div class="project-image"><img src="/images/images/projects/antidote/HumansVMosquitoes04.jpg"></div>
+          <span class="post-meta">A studio making games for understanding complex realities.</span>
+        </a>
+      </li>
+
+  </ul>
+
+</div>
+
+<div class="large-7 columns">
+<h1>Projects:</h1>
+
+
+
+  <ul class="post-list">
+
+         <li class="project-link">
+           <a href="/projects/patternsoftransformation/">
+             <h3 class="post-link">
+               Patterns of Transformation <span class="post-date">2016 - present</span>
+             </h3>
+               <div class="project-image"><img src="/images/projects/patternsoftransformation/16-03-28NOLSseaKayaking021compressed.jpg"></div>
+                 <span class="post-meta">Designing sex, death, and survival in the 21st century.</span>
+               </a>
+         </li>
+
+  <ul class="post-list">
+
+         <li class="project-link">
+           <a href="/projects/smokemachine/">
+             <h3 class="post-link">
+               The Smoke Machine <span class="post-date">2014 - 2015</span>
+             </h3>
+               <div class="project-image"><img src="/images/projects/smokemachine/DSCF5804.jpg"></div>
+                 <span class="post-meta">Three days in New York Harbor and one unique ritual.</span>
+               </a>
+         </li>
+
+
+<ul class="post-list">
+
+       <li class="project-link">
+         <a href="/projects/blackball/">
+           <h3 class="post-link">
+             Alicia Key's Black Ball <span class="post-date">2013 - 2014</span>
+           </h3>
+             <div class="project-image"><img src="/images/projects/blackball/BlackBall_39B6077_banner.jpg"></div>
+               <span class="post-meta">Charity pledge redesign with star power to bring in the money.</span>
+             </a>
+       </li>
+
+
+
+         <li class="project-link">
+           <a href="/projects/thenightheron/">
+             <h3 class="post-link">
+               The Night Heron <span class="post-date">2013</span>
+             </h3>
+             <div class="project-image"><img src="/images/projects/nightheron/nightheron003.jpg"></div>
+             <span class="post-meta">A legendary speakeasy in a dry water tower.</span>
+           </a>
+         </li>
+
+
+
+       <li class="project-link">
+         <a href="/projects/accused/">
+           <h3 class="post-link">
+             Accused <span class="post-date">2013</span>
+           </h3>
+           <div class="project-image"><img src="/images//2014/03/Accused03.png"></div>
+           <span class="post-meta">A game about how easy it is to confess to a crime you didn't commit</span>
+         </a>
+       </li>
+
+
+
+       <li class="project-link">
+         <a href="/projects/fieldtripday/">
+           <h3 class="post-link">
+             Google's Field Trip Day <span class="post-date">2012</span>
+           </h3>
+           <div class="project-image"><img src="/images//2013/01/120929-3313_o1.jpg"></div>
+           <span class="post-meta">The New York launch event for Field Trip, an app from Google's Niantic Labs.</span>
+         </a>
+       </li>
+
 
         <li class="project-link">
-          <a href="{{ project.url | prepend: site.baseurl }}">
-            <h2 class="post-link">
-              {{ project.title }}
-            </h2>
-              <div class="project-image"><img src="{{ project.small-image  | prepend: site.baseurl }}"></div>
-                <span class="post-meta">{{ project.short-description }}</span>
-              </a>
-        </li>
-
-      {% endif %}
-      {% endfor %}
-    </ul>
-
-
-    <hr>
-
-
-    <ul class="post-list">
-
-        {% for project in site.projects %}
-        {% if project.status == 'live' %}
-
-        <li class="project-link">
-          <a href="{{ project.url | prepend: site.baseurl }}">
+          <a href="/projects/jcvj/">
             <h3 class="post-link">
-              {{ project.title }}
+              Jean-Claude Van Jam <span class="post-date">2012</span>
             </h3>
-            <div class="project-image"><img src="{{ project.small-image  | prepend: site.baseurl }}"></div>
-            <span class="post-meta">{{ project.short-description }}</span>
+            <div class="project-image"><img src="/images//2013/01/12-08-18JCVJ099_narrow.jpg"></div>
+            <span class="post-meta">48-hours of game design to celebrate Jean-Claude Van Damme.</span>
           </a>
         </li>
 
-      {% endif %}
-      {% endfor %}
+
+          <li class="project-link">
+            <a href="/projects/participatoryvid/">
+              <h3 class="post-link">
+                Red Cross / Red Crescent Video Training <span class="post-date">2010</span>
+              </h3>
+
+              <div class="project-image"><img src="/images/projects/pv/pvethiopia07.jpg"></div>
+              <span class="post-meta">Workshops for Ethiopia farmers to tell their own stories of confronting climate change.</span>
+
+            </a>
+          </li>
+
+
+        <ul class="post-list">
+          <li class="project-link">
+                   <a href="/projects/postcards/">
+                     <h3 class="post-link">
+                       Postcards in Solidarity <span class="post-date">2007 - 2008</span>
+                     </h3>
+                       <div class="project-image"><img src="/images//2013/01/07-01-09SApostcards25_o.jpg"></div>
+                       <span class="post-meta">A postcard dialogue bettween fair trade communities on oppostie sides of the globe.</span>
+                       </a>
+                 </li>
+
+
+
+
+
+
 
     </ul>
+
+
+
 
 
 </div>
