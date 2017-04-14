@@ -176,8 +176,8 @@ a img {
 
 	.hero {
 		margin-top: 1rem;
-		padding: 11rem 0;
-		height: 700px;
+		padding: 13rem 0;
+		height: 680px;
 
 	}
 
@@ -208,9 +208,10 @@ a img {
 }
 
 .hero {
+	background-image: url(/images/self/20160411-20160411-0409-Peter-Prato-vert.jpg);
 	margin-top: 3rem;
 	padding: 14rem 0;
-	height: 420px;
+	height: 540px;
 
 }
 
@@ -239,13 +240,19 @@ top-bar-section ul {
 
 .top-bar-section h2 {
 
-	font-size: 1.6rem;
+	font-size: 1rem;
 
 }
 
+.top-bar-section ul.right li {
+    margin: 0.08rem auto 0 0;
+}
+
 .hero {
-	margin-top: 1rem;
-	padding: 9rem 0;
+
+	background-image: url(/images/self/20160411-20160411-0409-Peter-Prato-mobile.jpg);
+	margin-top: 0.4rem;
+	padding: 8rem 0;
 	height: 100px;
 
 }
@@ -267,7 +274,7 @@ top-bar-section ul {
 
 .top-bar {
     overflow: visible;
-    height: 2.8125rem;
+    height: 1.8125rem;
     line-height: 2.8125rem;
     position: relative;
     background: #FFFFFF;
@@ -281,7 +288,7 @@ top-bar-section ul {
 }
 
 h1.home-title {
-	margin: 0 0 0.67em 0;
+	margin: -30px 0 0.67em 0;
 }
 
 .top-bar-section .left h3 a {
@@ -319,6 +326,7 @@ h1.home-title {
 
 .content {
 	clear: both;
+  padding: 0.4em 0 1em;
 }
 
 
@@ -348,13 +356,13 @@ position: static;
 }
 
 .project-image {
-	height: 125px;
+	height: 155px;
 
 }
 
 
 .project-image img {
-	margin: -40px 0 0 0;
+	margin: -30px 0 0 0;
 }
 
 .project-image img {

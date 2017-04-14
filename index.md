@@ -29,4 +29,4 @@ box-content:
 ---
 <br />
 
-<strong>Recently:</strong> <br />[Collaborated w/ the Center for Artistic Activism](http://hyperallergic.com/340287/letters-from-home-to-donald-trump/) <span class="post-date">11/20/16</span> | [Taught at the VR DevLab by Oculus & Kaleidoscope](http://kaleidovr.com/2016devlab) <span class="post-date">10/28/16</span> | [Accepted to NEW INC as a Researcher-in-Residence](http://www.newinc.org/blog-post/new-inc-year-3) <span class="post-date">09/07/16</span>  
+<strong>Recently:</strong> <br /><br />[Collaborated w/ the Center for Artistic Activism](http://hyperallergic.com/340287/letters-from-home-to-donald-trump/) <span class="post-date">11/20/16</span> | [Taught at the VR DevLab by Oculus & Kaleidoscope](http://kaleidovr.com/2016devlab) <span class="post-date">10/28/16</span> | [Accepted to NEW INC as a Researcher-in-Residence](http://www.newinc.org/blog-post/new-inc-year-3) <span class="post-date">09/07/16</span>  
