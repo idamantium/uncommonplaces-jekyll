@@ -4,7 +4,7 @@ title: Patterns of Transformation
 permalink: /projects/patternsoftransformation/
 status: live
 short-description: Designing sex, death, and survival in the 21st century.
-small-image: /images/projects/patternsoftransformation/16-03-28NOLSseaKayaking021compressed.jpg
+small-image: /images/projects/patternsoftransformation/DanielShea-IdaCBenedetto-Crematory.jpg
 ---
 
 <ul class="medium-block-grid-4 small-block-grid-2">

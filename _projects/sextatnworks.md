@@ -33,7 +33,7 @@ And it all started thanks to a modest <a href="http://blog.awesomefoundation.org
 <ul class="medium-block-grid-2 small-block-grid-1">
 
 <li>
-<img src="{{ site.baseurl }}/images/projects/sextantworks/13-10-03SnugHarborParty014.jpg" />
+<img src="{{ site.baseurl }}/images/projects/sextantworks/13-10-03SnugHarborParty002.jpg" />
 </li>
 
 <li>
@@ -58,5 +58,19 @@ And it all started thanks to a modest <a href="http://blog.awesomefoundation.org
 <li>
 <img src="{{ site.baseurl }}/images/projects/sextantworks/wanderlustproject-75.jpg" />
 </li>
+
+
+
+
+<li>
+<img src="{{ site.baseurl }}/images/projects/sextantworks/wanderlustproject-96.jpg" />
+</li>
+
+<li>
+<img src="{{ site.baseurl }}/images/projects/sextantworks/IMG_9289.JPG" />
+</li>
+
+
+
 
 </ul>
